@@ -1,0 +1,1954 @@
+age,size,palpable,birads,vessels,ri,shape,margins,orientation,result,affiliation,us_date,study
+51.0,4.0,0.0,3,0.0,0.0,round,microlobulated,not parallel,0.0,mater,22/02/2021,retrospective
+54.0,4.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,13/09/2019,retrospective
+25.0,4.0,0.0,4a,0.0,0.0,round,circumscribed,not parallel,0.0,mater,26/06/2020,retrospective
+48.0,5.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,28/09/2020,retrospective
+58.0,5.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,25/01/2021,retrospective
+60.0,5.0,0.0,4a,0.0,0.0,round,circumscribed,not parallel,0.0,mater,04/12/20,retrospective
+71.0,5.0,0.0,4a,0.0,0.0,round,circumscribed,parallel,0.0,mater,21/08/2020,retrospective
+63.0,5.0,0.0,4a,0.0,0.0,round,microlobulated,not parallel,0.0,mater,28/12/2020,retrospective
+66.0,6.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,08/06/20,retrospective
+55.0,6.0,0.0,4a,1.0,0.61,round,circumscribed,not parallel,0.0,mater,13/04/2020,retrospective
+60.0,6.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,02/03/20,retrospective
+57.0,6.0,0.0,4a,0.0,0.0,round,circumscribed,parallel,0.0,mater,08/01/21,retrospective
+33.0,6.0,0.0,4a,0.0,0.0,oval,microlobulated,parallel,0.0,mater,24/04/2020,retrospective
+59.0,6.0,0.0,4a,0.0,0.0,round,circumscribed,parallel,0.0,mater,10/02/20,retrospective
+53.0,6.0,0.0,4b,0.0,0.0,oval,circumscribed,not parallel,0.0,mater,24/01/2020,retrospective
+65.0,6.0,0.0,4,0.0,0.0,irregular,microlobulated,not parallel,0.0,mater,19/10/2020,retrospective
+52.0,6.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,17/04/2020,retrospective
+52.0,6.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,17/04/2020,retrospective
+54.0,6.0,0.0,4a,0.0,0.0,round,circumscribed,parallel,0.0,mater,21/02/2020,retrospective
+71.0,7.0,0.0,4b,0.0,0.0,irregular,microlobulated,parallel,0.0,mater,15/03/2021,retrospective
+61.0,7.0,0.0,4c,1.0,0.88,irregular,indistinct,not parallel,1.0,mater,19/07/2019,retrospective
+55.0,7.0,0.0,4b,0.0,0.0,round,circumscribed,not parallel,0.0,mater,08/11/19,retrospective
+47.0,7.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,18/10/2019,retrospective
+35.0,7.0,0.0,4a,0.0,0.0,oval,circumscribed,not parallel,0.0,mater,23/03/2020,retrospective
+43.0,7.0,1.0,4c,0.0,0.0,irregular,indistinct,not parallel,1.0,mater,12/07/19,retrospective
+42.0,7.0,0.0,4b,0.0,0.0,irregular,microlobulated,not parallel,0.0,mater,26/10/2020,retrospective
+57.0,7.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,21/09/2020,retrospective
+47.0,7.0,0.0,4a,0.0,0.0,round,circumscribed,parallel,0.0,mater,19/04/2021,retrospective
+58.0,7.0,0.0,4a,0.0,0.0,oval,microlobulated,not parallel,1.0,mater,27/03/2020,retrospective
+36.0,7.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,28/09/2020,retrospective
+49.0,7.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,04/05/20,retrospective
+47.0,7.0,0.0,4a,0.0,0.0,round,circumscribed,parallel,0.0,mater,20/07/2020,retrospective
+71.0,8.0,0.0,4b,,,irregular,microlobulated,parallel,0.0,mater,15/03/2021,retrospective
+68.0,8.0,0.0,4b,0.0,0.0,irregular,indistinct,parallel,1.0,mater,30/11/2020,retrospective
+26.0,8.0,0.0,4b,0.0,0.0,oval,microlobulated,parallel,0.0,mater,18/10/2019,retrospective
+57.0,8.0,0.0,4b,0.0,0.0,oval,microlobulated,parallel,0.0,mater,02/08/19,retrospective
+60.0,8.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,02/03/20,retrospective
+71.0,8.0,0.0,4a,0.0,0.0,oval,microlobulated,parallel,0.0,mater,04/10/19,retrospective
+54.0,8.0,0.0,4c,1.0,0.85,irregular,indistinct,not parallel,1.0,mater,11/05/20,retrospective
+63.0,8.0,0.0,4a,0.0,0.0,oval,microlobulated,parallel,0.0,mater,28/12/2020,retrospective
+58.0,8.0,0.0,4b,0.0,0.0,round,indistinct,not parallel,0.0,mater,29/11/2019,retrospective
+54.0,8.0,0.0,4b,0.0,0.0,irregular,indistinct,not parallel,0.0,mater,17/02/2020,retrospective
+44.0,8.0,0.0,4b,0.0,0.0,oval,indistinct,parallel,0.0,mater,13/05/2020,retrospective
+48.0,8.0,0.0,4a,1.0,0.51,oval,circumscribed,parallel,0.0,mater,30/08/2019,retrospective
+52.0,8.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,17/04/2020,retrospective
+49.0,8.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,24/04/2020,retrospective
+65.0,8.0,0.0,4a,0.0,0.0,round,circumscribed,parallel,0.0,mater,29/03/2021,retrospective
+72.0,9.0,0.0,4a,0.0,0.0,oval,indistinct,parallel,0.0,mater,26/03/2021,retrospective
+44.0,9.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,01/11/19,retrospective
+41.0,9.0,1.0,4a,,,oval,circumscribed,parallel,0.0,mater,06/09/19,retrospective
+55.0,9.0,0.0,4c,0.0,0.0,irregular,indistinct,not parallel,0.0,mater,31/01/2020,retrospective
+43.0,9.0,1.0,4c,0.0,0.0,irregular,indistinct,not parallel,1.0,mater,12/07/19,retrospective
+28.0,9.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,14/09/2020,retrospective
+41.0,9.0,1.0,4c,0.0,0.0,irregular,angular,not parallel,1.0,mater,10/02/20,retrospective
+45.0,9.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,01/11/19,retrospective
+55.0,9.0,0.0,2,1.0,0.6,oval,microlobulated,parallel,0.0,mater,07/02/20,retrospective
+70.0,9.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,05/10/20,retrospective
+70.0,9.0,1.0,5,1.0,0.83,irregular,spiculated,not parallel,1.0,mater,05/10/20,retrospective
+70.0,9.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,05/10/20,retrospective
+45.0,9.0,0.0,4a,0.0,0.0,oval,indistinct,parallel,0.0,mater,08/05/20,retrospective
+49.0,9.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,09/04/21,retrospective
+53.0,9.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,16/03/2020,retrospective
+44.0,9.0,0.0,4c,1.0,0.59,irregular,indistinct,not parallel,1.0,mater,15/06/2020,retrospective
+32.0,9.0,0.0,4,1.0,0.63,irregular,microlobulated,parallel,0.0,mater,27/07/2020,retrospective
+59.0,9.0,0.0,4b,0.0,0.0,round,microlobulated,not parallel,0.0,mater,28/12/2020,retrospective
+45.0,10.0,0.0,4c,1.0,0.65,irregular,indistinct,not parallel,1.0,mater,05/10/20,retrospective
+40.0,10.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,20/12/2019,retrospective
+35.0,10.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,20/03/2020,retrospective
+58.0,10.0,0.0,4a,0.0,0.0,round,circumscribed,parallel,0.0,mater,30/03/2020,retrospective
+24.0,10.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,20/09/2019,retrospective
+25.0,10.0,1.0,4b,0.0,0.0,irregular,indistinct,not parallel,0.0,mater,14/08/2020,retrospective
+29.0,10.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,18/01/2021,retrospective
+58.0,10.0,1.0,4b,1.0,0.78,irregular,indistinct,parallel,1.0,mater,25/01/2021,retrospective
+58.0,10.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,25/01/2021,retrospective
+50.0,10.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,11/10/19,retrospective
+68.0,10.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,11/10/19,retrospective
+47.0,10.0,1.0,5,0.0,0.0,irregular,spiculated,not parallel,1.0,mater,18/10/2019,retrospective
+57.0,10.0,0.0,4b,0.0,0.0,oval,microlobulated,parallel,0.0,mater,02/08/19,retrospective
+57.0,10.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,06/04/20,retrospective
+62.0,10.0,0.0,4,0.0,0.0,irregular,angular,parallel,0.0,mater,08/06/20,retrospective
+41.0,10.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,10/02/20,retrospective
+50.0,10.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,03/02/20,retrospective
+45.0,10.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,11/05/20,retrospective
+48.0,10.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,20/12/2019,retrospective
+49.0,10.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,13/12/2019,retrospective
+23.0,10.0,0.0,3,0.0,0.0,oval,circumscribed,parallel,0.0,mater,03/01/20,retrospective
+47.0,10.0,0.0,3,0.0,0.0,oval,circumscribed,parallel,0.0,mater,14/08/2020,retrospective
+37.0,10.0,0.0,4a,0.0,0.0,round,circumscribed,not parallel,0.0,mater,09/11/20,retrospective
+66.0,11.0,1.0,4b,0.0,0.0,oval,microlobulated,parallel,0.0,mater,30/08/2019,retrospective
+40.0,11.0,1.0,4b,0.0,0.0,oval,microlobulated,parallel,1.0,mater,23/08/2019,retrospective
+44.0,11.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,16/08/2019,retrospective
+47.0,11.0,0.0,4b,0.0,0.0,irregular,indistinct,parallel,0.0,mater,10/02/20,retrospective
+50.0,11.0,0.0,3,0.0,0.0,oval,circumscribed,parallel,0.0,mater,20/09/2019,retrospective
+54.0,11.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,11/05/20,retrospective
+48.0,11.0,0.0,4a,0.0,0.0,round,circumscribed,parallel,0.0,mater,24/07/2020,retrospective
+29.0,11.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,08/11/19,retrospective
+40.0,11.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,13/04/2020,retrospective
+40.0,11.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,10/08/20,retrospective
+36.0,11.0,1.0,4b,0.0,0.0,irregular,microlobulated,not parallel,0.0,mater,08/03/21,retrospective
+57.0,11.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,02/03/20,retrospective
+57.0,11.0,0.0,4b,0.0,0.0,oval,microlobulated,parallel,0.0,mater,30/08/2019,retrospective
+41.0,11.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,01/11/19,retrospective
+42.0,11.0,0.0,4b,0.0,0.0,round,indistinct,parallel,0.0,mater,06/03/20,retrospective
+40.0,11.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,16/03/2020,retrospective
+61.0,12.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,22/06/2020,retrospective
+28.0,12.0,0.0,4a,0.0,0.0,round,circumscribed,not parallel,0.0,mater,14/09/2020,retrospective
+37.0,12.0,0.0,4a,0.0,0.0,round,circumscribed,parallel,0.0,mater,16/11/2020,retrospective
+37.0,12.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,17/01/2020,retrospective
+37.0,12.0,1.0,4a,1.0,0.5,oval,microlobulated,parallel,0.0,mater,09/11/20,retrospective
+49.0,12.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,16/08/2019,retrospective
+35.0,12.0,0.0,4b,1.0,0.7,oval,microlobulated,parallel,0.0,mater,08/11/19,retrospective
+33.0,12.0,0.0,4a,1.0,0.74,oval,circumscribed,parallel,0.0,mater,01/11/19,retrospective
+29.0,12.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,14/02/2020,retrospective
+65.0,12.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,09/03/20,retrospective
+39.0,12.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,30/03/2020,retrospective
+29.0,12.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,19/10/2020,retrospective
+56.0,12.0,1.0,4c,0.0,0.0,irregular,indistinct,not parallel,1.0,mater,09/11/20,retrospective
+60.0,13.0,0.0,3,0.0,0.0,oval,circumscribed,parallel,0.0,mater,26/07/2019,retrospective
+39.0,13.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,10/01/20,retrospective
+29.0,13.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,18/01/2021,retrospective
+37.0,13.0,0.0,4a,1.0,0.52,oval,circumscribed,parallel,0.0,mater,09/03/20,retrospective
+58.0,13.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,14/09/2020,retrospective
+44.0,13.0,1.0,4a,0.0,0.0,oval,angular,parallel,0.0,mater,14/08/2020,retrospective
+35.0,13.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,23/03/2020,retrospective
+45.0,13.0,0.0,4a,1.0,0.64,oval,circumscribed,parallel,0.0,mater,31/01/2020,retrospective
+32.0,13.0,1.0,4b,0.0,0.0,irregular,indistinct,parallel,1.0,mater,12/07/19,retrospective
+30.0,13.0,0.0,4a,1.0,0.47,oval,circumscribed,parallel,0.0,mater,27/04/2020,retrospective
+31.0,13.0,0.0,4a,1.0,0.73,oval,circumscribed,parallel,0.0,mater,12/07/19,retrospective
+51.0,13.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,22/11/2019,retrospective
+62.0,13.0,1.0,5,1.0,0.71,irregular,spiculated,not parallel,1.0,mater,17/06/2020,retrospective
+44.0,13.0,0.0,4a,1.0,0.68,round,microlobulated,not parallel,0.0,mater,06/04/20,retrospective
+55.0,13.0,0.0,4a,0.0,0.0,round,circumscribed,parallel,0.0,mater,05/10/20,retrospective
+31.0,13.0,0.0,3,0.0,0.0,oval,circumscribed,parallel,0.0,mater,03/12/21,retrospective
+55.0,14.0,1.0,4c,1.0,0.84,irregular,indistinct,not parallel,1.0,mater,22/03/2021,retrospective
+58.0,14.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,25/01/2021,retrospective
+60.0,14.0,0.0,4b,1.0,,irregular,microlobulated,parallel,1.0,mater,01/06/20,retrospective
+44.0,14.0,0.0,4b,1.0,0.53,oval,microlobulated,parallel,0.0,mater,01/11/19,retrospective
+39.0,14.0,0.0,4b,0.0,0.0,irregular,indistinct,parallel,0.0,mater,21/12/2020,retrospective
+55.0,14.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,22/06/2020,retrospective
+32.0,14.0,1.0,4a,1.0,0.58,oval,circumscribed,parallel,0.0,mater,20/12/2019,retrospective
+36.0,14.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,05/07/19,retrospective
+40.0,14.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,13/04/2020,retrospective
+20.0,14.0,1.0,4b,0.0,0.0,oval,microlobulated,parallel,0.0,mater,18/10/2019,retrospective
+45.0,14.0,1.0,4b,0.0,0.0,irregular,circumscribed,parallel,0.0,mater,26/10/2020,retrospective
+41.0,14.0,0.0,4b,0.0,0.0,oval,circumscribed,parallel,1.0,mater,28/02/2020,retrospective
+58.0,14.0,0.0,4b,0.0,0.0,irregular,indistinct,not parallel,1.0,mater,10/01/20,retrospective
+47.0,14.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,19/04/2021,retrospective
+33.0,14.0,0.0,4a,0.0,0.0,irregular,indistinct,parallel,0.0,mater,26/07/2019,retrospective
+37.0,14.0,1.0,5,1.0,0.6,irregular,spiculated,not parallel,1.0,mater,04/10/19,retrospective
+47.0,14.0,0.0,4a,1.0,0.59,oval,circumscribed,not parallel,0.0,mater,05/04/21,retrospective
+46.0,14.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,19/04/2021,retrospective
+35.0,14.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,10/08/20,retrospective
+51.0,14.0,1.0,4b,0.0,0.0,oval,circumscribed,parallel,0.0,mater,02/08/19,retrospective
+35.0,14.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,06/12/19,retrospective
+60.0,14.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,04/12/20,retrospective
+36.0,14.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,04/12/20,retrospective
+42.0,15.0,1.0,4b,0.0,0.0,oval,microlobulated,parallel,0.0,mater,22/11/2019,retrospective
+42.0,15.0,0.0,4a,1.0,0.62,oval,circumscribed,parallel,0.0,mater,19/10/2020,retrospective
+32.0,15.0,0.0,3,1.0,0.58,oval,circumscribed,parallel,0.0,mater,28/12/2020,retrospective
+40.0,15.0,0.0,4a,1.0,0.74,oval,circumscribed,parallel,0.0,mater,31/01/2020,retrospective
+37.0,15.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,03/02/20,retrospective
+69.0,15.0,0.0,3,0.0,0.0,irregular,indistinct,,0.0,mater,27/09/2019,retrospective
+21.0,15.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,05/03/21,retrospective
+32.0,15.0,1.0,4b,0.0,0.0,irregular,indistinct,parallel,1.0,mater,12/07/19,retrospective
+43.0,15.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,18/10/2019,retrospective
+49.0,15.0,1.0,4a,1.0,0.68,oval,circumscribed,parallel,0.0,mater,06/07/20,retrospective
+65.0,15.0,0.0,4,0.0,0.0,oval,circumscribed,parallel,0.0,mater,19/10/2020,retrospective
+55.0,15.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,17/02/2020,retrospective
+35.0,15.0,1.0,4b,0.0,0.0,irregular,microlobulated,not parallel,1.0,mater,05/02/21,retrospective
+33.0,15.0,0.0,4a,1.0,0.6,oval,circumscribed,parallel,0.0,mater,15/03/2021,retrospective
+52.0,16.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,24/01/2020,retrospective
+53.0,16.0,1.0,4a,0.0,0.0,irregular,circumscribed,parallel,0.0,mater,28/08/2020,retrospective
+47.0,16.0,0.0,4a,0.0,0.0,round,circumscribed,not parallel,0.0,mater,01/02/21,retrospective
+24.0,16.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,20/09/2019,retrospective
+19.0,16.0,1.0,4a,1.0,0.47,oval,circumscribed,parallel,0.0,mater,20/12/2019,retrospective
+22.0,16.0,1.0,4a,0.0,0.0,oval,microlobulated,parallel,0.0,mater,27/04/2020,retrospective
+19.0,16.0,0.0,3,0.0,0.0,oval,circumscribed,parallel,0.0,mater,29/01/2021,retrospective
+18.0,16.0,1.0,4a,1.0,0.75,oval,circumscribed,parallel,0.0,mater,18/12/2020,retrospective
+43.0,16.0,0.0,4a,1.0,0.63,oval,circumscribed,parallel,0.0,mater,11/05/20,retrospective
+21.0,16.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,05/03/21,retrospective
+47.0,16.0,1.0,4b,1.0,0.85,oval,indistinct,parallel,0.0,mater,06/09/19,retrospective
+39.0,16.0,0.0,4b,0.0,0.0,oval,microlobulated,parallel,0.0,mater,26/07/2019,retrospective
+56.0,16.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,06/09/19,retrospective
+36.0,16.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,13/03/2020,retrospective
+31.0,16.0,1.0,4a,0.0,0.0,oval,indistinct,parallel,0.0,mater,12/03/21,retrospective
+34.0,17.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,08/01/21,retrospective
+42.0,17.0,0.0,4b,0.0,0.0,irregular,microlobulated,parallel,0.0,mater,16/08/2019,retrospective
+35.0,17.0,1.0,4b,1.0,0.55,oval,microlobulated,parallel,0.0,mater,15/06/2020,retrospective
+47.0,17.0,0.0,4c,1.0,0.64,irregular,indistinct,not parallel,1.0,mater,16/11/2020,retrospective
+38.0,17.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,10/08/20,retrospective
+40.0,17.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,13/04/2020,retrospective
+35.0,17.0,0.0,4a,1.0,0.63,oval,circumscribed,parallel,0.0,mater,19/10/2020,retrospective
+29.0,17.0,1.0,3,0.0,0.0,oval,circumscribed,parallel,0.0,mater,14/02/2020,retrospective
+35.0,17.0,1.0,3,0.0,0.0,oval,circumscribed,parallel,0.0,mater,10/08/20,retrospective
+41.0,17.0,1.0,4a,1.0,0.63,oval,indistinct,parallel,0.0,mater,05/06/20,retrospective
+55.0,17.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,10/05/20,retrospective
+54.0,17.0,1.0,5,1.0,1.0,irregular,indistinct,not parallel,1.0,mater,13/07/2020,retrospective
+37.0,18.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,26/10/2020,retrospective
+18.0,18.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,18/12/2020,retrospective
+18.0,18.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,18/12/2020,retrospective
+49.0,18.0,0.0,4a,,,oval,circumscribed,parallel,0.0,mater,14/02/2020,retrospective
+35.0,18.0,1.0,4a,1.0,0.59,oval,circumscribed,parallel,0.0,mater,10/02/20,retrospective
+75.0,18.0,1.0,4c,1.0,0.9,irregular,indistinct,not parallel,1.0,mater,19/07/2019,retrospective
+27.0,18.0,1.0,4a,0.0,0.0,oval,microlobulated,parallel,0.0,mater,30/03/2020,retrospective
+25.0,19.0,1.0,4a,1.0,0.51,oval,circumscribed,parallel,0.0,mater,09/11/20,retrospective
+24.0,19.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,19/04/2021,retrospective
+18.0,19.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,03/02/20,retrospective
+35.0,19.0,1.0,4a,1.0,0.59,round,circumscribed,not parallel,0.0,mater,16/11/2020,retrospective
+43.0,19.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,06/12/19,retrospective
+44.0,19.0,1.0,4c,1.0,0.72,irregular,indistinct,not parallel,1.0,mater,05/10/20,retrospective
+39.0,20.0,1.0,4b,0.0,0.0,irregular,indistinct,not parallel,0.0,mater,10/01/20,retrospective
+39.0,20.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,31/08/2020,retrospective
+33.0,20.0,1.0,3,1.0,0.68,oval,circumscribed,parallel,0.0,mater,11/12/20,retrospective
+45.0,20.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,13/09/2019,retrospective
+50.0,20.0,0.0,3,0.0,0.0,oval,circumscribed,parallel,0.0,mater,01/02/21,retrospective
+36.0,20.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,05/03/21,retrospective
+38.0,20.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,11/10/19,retrospective
+30.0,20.0,1.0,4a,1.0,0.62,oval,circumscribed,parallel,0.0,mater,27/04/2020,retrospective
+25.0,20.0,1.0,4b,0.0,0.0,oval,microlobulated,parallel,0.0,mater,16/08/2019,retrospective
+27.0,20.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,30/03/2020,retrospective
+45.0,20.0,0.0,4a,1.0,0.69,oval,circumscribed,parallel,0.0,mater,29/06/2020,retrospective
+48.0,20.0,1.0,3,0.0,0.0,oval,circumscribed,parallel,0.0,mater,19/02/2021,retrospective
+53.0,21.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,06/12/19,retrospective
+45.0,21.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,21/12/2020,retrospective
+40.0,21.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,03/01/20,retrospective
+26.0,21.0,1.0,4a,1.0,0.6,oval,circumscribed,parallel,0.0,mater,17/07/2020,retrospective
+25.0,21.0,1.0,4a,1.0,0.75,oval,circumscribed,parallel,0.0,mater,13/12/2019,retrospective
+37.0,21.0,1.0,4a,1.0,0.7,oval,microlobulated,parallel,0.0,mater,09/11/20,retrospective
+51.0,22.0,1.0,4b,0.0,0.0,irregular,indistinct,parallel,0.0,mater,10/02/20,retrospective
+64.0,22.0,1.0,4a,0.0,0.0,round,circumscribed,not parallel,0.0,mater,07/02/20,retrospective
+66.0,22.0,1.0,4c,1.0,0.84,irregular,indistinct,not parallel,1.0,mater,14/12/2020,retrospective
+30.0,22.0,0.0,4a,1.0,0.71,oval,circumscribed,parallel,0.0,mater,02/03/20,retrospective
+42.0,22.0,1.0,4c,1.0,0.88,irregular,indistinct,not parallel,1.0,mater,26/10/2020,retrospective
+68.0,22.0,1.0,5,1.0,0.66,irregular,spiculated,parallel,1.0,mater,29/03/2021,retrospective
+29.0,22.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,14/02/2020,retrospective
+25.0,22.0,1.0,4a,1.0,,oval,circumscribed,not parallel,0.0,mater,26/06/2020,retrospective
+38.0,22.0,1.0,4a,1.0,0.62,round,circumscribed,parallel,0.0,mater,23/11/2020,retrospective
+55.0,23.0,1.0,4b,1.0,0.7,irregular,indistinct,parallel,1.0,mater,21/02/2020,retrospective
+37.0,23.0,1.0,4b,1.0,0.57,oval,microlobulated,parallel,0.0,mater,09/03/20,retrospective
+35.0,23.0,1.0,3,0.0,0.0,oval,circumscribed,parallel,0.0,mater,31/08/2020,retrospective
+47.0,23.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,19/07/2019,retrospective
+29.0,23.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,14/08/2020,retrospective
+36.0,23.0,1.0,4c,0.0,0.0,irregular,indistinct,parallel,0.0,mater,29/03/2021,retrospective
+66.0,24.0,1.0,5,1.0,1.0,irregular,spiculated,not parallel,1.0,mater,27/09/2019,retrospective
+44.0,24.0,1.0,4b,1.0,0.75,irregular,microlobulated,parallel,1.0,mater,23/11/2020,retrospective
+40.0,24.0,1.0,4c,1.0,0.71,irregular,indistinct,parallel,1.0,mater,18/01/2021,retrospective
+60.0,24.0,1.0,5,1.0,0.73,irregular,spiculated,not parallel,1.0,mater,13/09/2019,retrospective
+21.0,24.0,1.0,4a,1.0,,oval,circumscribed,parallel,0.0,mater,03/01/20,retrospective
+57.0,25.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,03/08/20,retrospective
+29.0,25.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,18/01/2021,retrospective
+23.0,25.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,01/02/21,retrospective
+48.0,25.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,30/11/2020,retrospective
+44.0,25.0,1.0,4c,1.0,0.75,irregular,indistinct,not parallel,1.0,mater,15/06/2020,retrospective
+36.0,25.0,1.0,4c,1.0,0.7,irregular,indistinct,not parallel,1.0,mater,04/12/20,retrospective
+30.0,26.0,1.0,4a,1.0,0.6,oval,circumscribed,parallel,0.0,mater,02/03/20,retrospective
+35.0,26.0,0.0,4a,1.0,0.52,oval,circumscribed,parallel,0.0,mater,19/10/2020,retrospective
+45.0,26.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,29/01/2021,retrospective
+46.0,26.0,1.0,4b,0.0,0.0,irregular,indistinct,parallel,0.0,mater,08/03/21,retrospective
+50.0,26.0,1.0,4a,0.0,0.0,oval,microlobulated,parallel,0.0,mater,13/04/2020,retrospective
+20.0,26.0,1.0,2,1.0,0.69,oval,circumscribed,parallel,0.0,mater,28/09/2020,retrospective
+62.0,27.0,1.0,5,1.0,1.0,irregular,spiculated,parallel,1.0,mater,12/07/19,retrospective
+26.0,27.0,1.0,4a,1.0,0.65,oval,circumscribed,parallel,0.0,mater,05/04/21,retrospective
+39.0,27.0,1.0,4a,1.0,0.59,oval,circumscribed,parallel,0.0,mater,26/07/2019,retrospective
+44.0,27.0,1.0,4c,1.0,0.66,irregular,angular,not parallel,1.0,mater,23/11/2020,retrospective
+39.0,27.0,1.0,4c,1.0,0.84,irregular,circumscribed,not parallel,1.0,mater,05/04/21,retrospective
+18.0,27.0,1.0,4a,1.0,0.62,oval,circumscribed,parallel,0.0,mater,04/05/20,retrospective
+25.0,27.0,1.0,4a,1.0,0.6,oval,circumscribed,parallel,0.0,mater,14/12/2020,retrospective
+25.0,28.0,1.0,4b,0.0,0.0,irregular,indistinct,parallel,0.0,mater,14/08/2020,retrospective
+22.0,28.0,1.0,2,1.0,0.75,oval,circumscribed,parallel,0.0,mater,20/03/2020,retrospective
+40.0,28.0,1.0,4a,1.0,0.84,oval,circumscribed,parallel,0.0,mater,08/02/21,retrospective
+35.0,28.0,1.0,4a,1.0,0.59,oval,circumscribed,parallel,0.0,mater,15/03/2021,retrospective
+48.0,28.0,1.0,4a,1.0,0.43,round,circumscribed,parallel,0.0,mater,07/02/20,retrospective
+45.0,28.0,1.0,4a,1.0,0.96,oval,circumscribed,parallel,0.0,mater,13/07/2020,retrospective
+45.0,28.0,1.0,4b,1.0,0.94,oval,microlobulated,parallel,0.0,mater,13/07/2020,retrospective
+39.0,28.0,1.0,3,1.0,0.69,oval,circumscribed,parallel,0.0,mater,05/02/21,retrospective
+42.0,29.0,1.0,3,0.0,0.0,oval,circumscribed,parallel,0.0,mater,22/02/2021,retrospective
+28.0,29.0,1.0,4a,1.0,0.63,oval,circumscribed,parallel,0.0,mater,03/02/20,retrospective
+57.0,30.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,31/01/2020,retrospective
+34.0,30.0,1.0,4a,1.0,0.62,oval,circumscribed,parallel,0.0,mater,24/01/2020,retrospective
+27.0,30.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,03/08/20,retrospective
+57.0,26.0,1.0,5,1.0,0.81,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+52.0,16.0,1.0,4c,1.0,0.7,irregular,angular,not parallel,1.0,hcrp,,retrospective
+63.0,20.0,1.0,5,1.0,0.77,irregular,angular,not parallel,1.0,hcrp,,retrospective
+63.0,9.0,0.0,5,1.0,0.77,irregular,spiculated,parallel,1.0,hcrp,,retrospective
+67.0,23.0,1.0,4c,1.0,0.78,irregular,microlobulated,parallel,1.0,hcrp,,retrospective
+61.0,21.0,1.0,6,1.0,0.73,irregular,microlobulated,parallel,1.0,hcrp,,retrospective
+60.0,19.0,1.0,4c,1.0,1.0,irregular,microlobulated,parallel,1.0,hcrp,,retrospective
+60.0,13.0,1.0,4b,1.0,0.77,irregular,spiculated,parallel,1.0,hcrp,,retrospective
+48.0,11.0,1.0,4b,0.0,0.0,irregular,indistinct,not parallel,0.0,hcrp,,retrospective
+41.0,21.0,1.0,5,1.0,1.0,irregular,spiculated,parallel,1.0,hcrp,,retrospective
+48.0,7.0,0.0,4b,0.0,0.0,irregular,microlobulated,parallel,0.0,hcrp,,retrospective
+48.0,25.0,1.0,4c,1.0,0.62,irregular,microlobulated,parallel,1.0,hcrp,,retrospective
+56.0,8.0,0.0,4c,0.0,0.0,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+84.0,13.0,1.0,4c,0.0,0.0,irregular,angular,parallel,0.0,hcrp,,retrospective
+44.0,29.0,1.0,4c,1.0,0.78,irregular,angular,parallel,1.0,hcrp,,retrospective
+54.0,14.0,1.0,4a,1.0,0.59,round,circumscribed,not parallel,0.0,hcrp,,retrospective
+66.0,17.0,1.0,6,1.0,1.0,irregular,spiculated,parallel,1.0,hcrp,,retrospective
+70.0,7.0,0.0,6,1.0,0.59,irregular,angular,not parallel,1.0,hcrp,,retrospective
+74.0,10.0,0.0,5,1.0,0.64,irregular,spiculated,parallel,1.0,hcrp,,retrospective
+55.0,30.0,1.0,6,1.0,0.75,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+58.0,8.0,0.0,4b,0.0,0.0,irregular,microlobulated,parallel,1.0,hcrp,,retrospective
+72.0,7.0,0.0,4a,0.0,0.0,round,angular,parallel,1.0,hcrp,,retrospective
+72.0,22.0,1.0,5,1.0,0.79,irregular,spiculated,parallel,1.0,hcrp,,retrospective
+45.0,20.0,1.0,5,1.0,0.77,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+39.0,21.0,1.0,4a,1.0,0.56,irregular,microlobulated,parallel,0.0,hcrp,,retrospective
+66.0,12.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+77.0,23.0,1.0,5,1.0,1.0,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+82.0,18.0,0.0,4b,0.0,0.0,irregular,microlobulated,parallel,0.0,hcrp,,retrospective
+60.0,7.0,0.0,3,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+48.0,12.0,1.0,4c,1.0,1.0,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+48.0,20.0,,3,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+73.0,9.0,1.0,4c,1.0,1.0,irregular,angular,not parallel,1.0,hcrp,,retrospective
+36.0,23.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+50.0,15.0,1.0,4b,1.0,0.73,oval,microlobulated,parallel,0.0,hcrp,,retrospective
+71.0,9.4,0.0,3,0.0,0.0,irregular,circumscribed,parallel,0.0,hcrp,,retrospective
+58.0,25.0,1.0,4b,1.0,0.87,oval,circumscribed,parallel,1.0,hcrp,,retrospective
+36.0,11.0,0.0,3,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+24.0,8.0,0.0,4a,0.0,0.0,irregular,angular,not parallel,0.0,hcrp,,retrospective
+55.0,17.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+71.0,12.0,1.0,5,1.0,0.73,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+40.0,18.9,1.0,5,1.0,0.72,irregular,spiculated,parallel,1.0,hcrp,,retrospective
+48.0,10.0,1.0,4c,0.0,0.0,irregular,spiculated,parallel,1.0,hcrp,,retrospective
+52.0,23.0,1.0,5,1.0,0.61,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+45.0,17.0,1.0,5,1.0,0.72,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+43.0,16.0,1.0,4c,1.0,0.81,irregular,microlobulated,not parallel,1.0,hcrp,,retrospective
+20.0,20.0,1.0,4a,1.0,0.54,irregular,microlobulated,parallel,0.0,hcrp,,retrospective
+40.0,30.0,1.0,6,1.0,1.0,irregular,angular,parallel,1.0,hcrp,,retrospective
+43.0,8.0,0.0,5,1.0,0.67,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+43.0,9.0,0.0,5,1.0,0.59,irregular,spiculated,parallel,1.0,hcrp,,retrospective
+51.0,16.0,0.0,4b,1.0,0.57,irregular,microlobulated,parallel,1.0,hcrp,,retrospective
+50.0,16.0,1.0,4b,1.0,0.85,oval,indistinct,parallel,1.0,hcrp,,retrospective
+28.0,21.0,1.0,4a,1.0,0.75,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+30.0,24.0,1.0,4a,1.0,0.44,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+48.0,22.0,1.0,6,1.0,0.72,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+51.0,19.0,1.0,6,1.0,0.57,irregular,spiculated,parallel,1.0,hcrp,,retrospective
+77.0,23.0,1.0,5,1.0,0.8,irregular,spiculated,parallel,1.0,hcrp,,retrospective
+69.0,23.0,1.0,4c,1.0,1.0,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+39.0,12.0,0.0,4a,0.0,0.0,oval,microlobulated,parallel,0.0,hcrp,,retrospective
+60.0,19.0,0.0,5,1.0,0.72,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+72.0,11.0,0.0,3,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+57.0,19.0,1.0,5,0.0,0.0,irregular,spiculated,parallel,1.0,hcrp,,retrospective
+56.0,11.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+65.0,12.0,0.0,4b,0.0,0.0,oval,angular,parallel,0.0,hcrp,,retrospective
+31.0,25.0,1.0,5,0.0,0.0,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+62.0,27.0,1.0,5,1.0,0.86,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+61.0,14.0,0.0,6,0.0,0.0,irregular,microlobulated,parallel,1.0,hcrp,,retrospective
+45.0,22.0,0.0,4a,1.0,0.52,oval,microlobulated,parallel,1.0,hcrp,,retrospective
+37.0,12.0,1.0,5,1.0,0.79,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+37.0,13.0,1.0,5,1.0,0.72,irregular,microlobulated,parallel,1.0,hcrp,,retrospective
+75.0,18.0,1.0,5,1.0,1.0,irregular,angular,not parallel,1.0,hcrp,,retrospective
+32.0,23.0,1.0,4c,1.0,0.72,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+62.0,8.0,0.0,4b,1.0,0.51,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+58.0,13.0,1.0,4c,1.0,0.69,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+45.0,10.0,0.0,4b,0.0,0.0,oval,angular,parallel,0.0,hcrp,,retrospective
+59.0,18.0,1.0,6,1.0,0.87,irregular,spiculated,parallel,1.0,hcrp,,retrospective
+62.0,17.0,1.0,4c,1.0,1.0,irregular,microlobulated,parallel,1.0,hcrp,,retrospective
+62.0,9.0,1.0,4c,1.0,1.0,irregular,microlobulated,not parallel,1.0,hcrp,,retrospective
+29.0,9.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+51.0,10.0,1.0,4c,1.0,0.6,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+69.0,7.0,0.0,4a,0.0,0.0,irregular,indistinct,not parallel,0.0,hcrp,,retrospective
+70.0,28.2,1.0,5,1.0,0.66,irregular,spiculated,parallel,1.0,hcrp,,retrospective
+77.0,18.0,1.0,5,1.0,1.17,irregular,microlobulated,not parallel,1.0,hcrp,,retrospective
+44.0,6.0,0.0,4c,1.0,0.69,irregular,angular,not parallel,1.0,hcrp,,retrospective
+44.0,26.0,1.0,6,1.0,0.73,irregular,spiculated,parallel,1.0,hcrp,,retrospective
+61.0,12.7,1.0,4b,0.0,0.0,irregular,microlobulated,parallel,0.0,hcrp,,retrospective
+51.0,15.7,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+87.0,30.0,1.0,5,1.0,0.8,irregular,microlobulated,parallel,1.0,hcrp,,retrospective
+69.0,7.0,0.0,4b,1.0,1.0,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+65.0,17.0,1.0,4c,1.0,1.0,irregular,microlobulated,parallel,1.0,hcrp,,retrospective
+45.0,11.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+54.0,8.100000000000001,1.0,6,1.0,0.63,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+54.0,12.7,1.0,5,1.0,0.74,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+60.0,8.0,0.0,4b,0.0,0.0,irregular,angular,parallel,1.0,hcrp,,retrospective
+77.0,10.7,1.0,4b,1.0,0.66,irregular,microlobulated,parallel,1.0,hcrp,,retrospective
+69.0,14.1,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+75.0,19.0,1.0,5,1.0,1.0,irregular,microlobulated,parallel,1.0,hcrp,,retrospective
+60.0,19.0,1.0,6,1.0,0.76,irregular,microlobulated,not parallel,1.0,hcrp,,retrospective
+76.0,19.0,1.0,4c,1.0,0.8,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+62.0,5.0,0.0,4b,1.0,1.0,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+42.0,13.2,0.0,3,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+64.0,9.0,0.0,4b,1.0,0.74,oval,indistinct,parallel,1.0,hcrp,,retrospective
+32.0,20.0,1.0,4a,1.0,0.52,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+48.0,14.2,0.0,4a,0.0,0.0,oval,microlobulated,not parallel,0.0,hcrp,,retrospective
+48.0,15.4,1.0,4c,0.0,0.0,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+44.0,12.0,1.0,4a,1.0,0.6,oval,microlobulated,parallel,0.0,hcrp,,retrospective
+64.0,9.0,1.0,4c,0.0,0.0,oval,angular,parallel,1.0,hcrp,,retrospective
+64.0,8.0,0.0,4c,1.0,0.65,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+44.0,30.0,1.0,6,1.0,0.78,irregular,spiculated,parallel,1.0,hcrp,,retrospective
+44.0,10.0,0.0,3,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+74.0,26.0,1.0,5,1.0,0.82,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+53.0,14.0,0.0,5,1.0,0.78,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+42.0,5.0,0.0,4b,0.0,0.0,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+42.0,19.0,1.0,6,1.0,0.74,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+67.0,6.800000000000001,1.0,5,0.0,0.0,oval,circumscribed,parallel,1.0,hcrp,,retrospective
+67.0,20.4,1.0,5,1.0,0.77,oval,microlobulated,parallel,1.0,hcrp,,retrospective
+67.0,10.5,0.0,5,0.0,0.0,oval,circumscribed,parallel,1.0,hcrp,,retrospective
+35.0,20.8,1.0,5,1.0,0.72,irregular,spiculated,parallel,1.0,hcrp,,retrospective
+74.0,29.4,1.0,5,1.0,1.0,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+65.0,25.0,0.0,4c,1.0,0.64,irregular,microlobulated,parallel,1.0,hcrp,,retrospective
+47.0,19.0,1.0,4b,1.0,0.67,oval,indistinct,not parallel,1.0,hcrp,,retrospective
+24.0,15.6,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+20.0,25.0,1.0,4a,1.0,0.71,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+33.0,17.0,1.0,4a,1.0,0.41,oval,microlobulated,parallel,0.0,hcrp,,retrospective
+70.0,20.0,1.0,5,1.0,0.79,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+48.0,8.2,0.0,4a,0.0,0.0,oval,angular,parallel,0.0,hcrp,,retrospective
+55.0,19.0,1.0,4c,1.0,1.0,oval,microlobulated,parallel,1.0,hcrp,,retrospective
+48.0,7.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+37.0,7.0,1.0,4a,0.0,0.0,oval,indistinct,parallel,0.0,hcrp,,retrospective
+60.0,29.9,1.0,4c,1.0,0.61,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+27.0,29.5,1.0,4b,1.0,0.52,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+57.0,14.0,1.0,5,1.0,0.77,irregular,spiculated,parallel,1.0,hcrp,,retrospective
+57.0,12.0,1.0,5,1.0,0.61,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+53.0,9.0,1.0,4c,1.0,0.59,irregular,circumscribed,not parallel,1.0,hcrp,,retrospective
+51.0,21.7,1.0,5,1.0,0.77,irregular,spiculated,parallel,1.0,hcrp,,retrospective
+51.0,7.0,0.0,5,1.0,0.7,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+61.0,15.0,1.0,4b,1.0,0.77,irregular,microlobulated,parallel,1.0,hcrp,,retrospective
+55.0,19.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+54.0,15.0,1.0,6,1.0,0.7,irregular,spiculated,parallel,1.0,hcrp,,retrospective
+54.0,16.0,0.0,4b,0.0,0.0,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+54.0,11.0,0.0,3,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+66.0,10.0,0.0,4c,0.0,0.0,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+32.0,10.0,1.0,4b,0.0,0.0,irregular,microlobulated,parallel,1.0,hcrp,,retrospective
+61.0,7.0,0.0,4c,0.0,0.0,oval,microlobulated,not parallel,1.0,hcrp,,retrospective
+46.0,21.0,1.0,5,1.0,0.75,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+40.0,17.0,0.0,4b,1.0,0.59,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+65.0,12.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+75.0,28.0,1.0,5,1.0,0.91,irregular,spiculated,parallel,1.0,hcrp,,retrospective
+60.0,19.0,1.0,5,1.0,0.76,irregular,spiculated,parallel,1.0,hcrp,,retrospective
+61.0,7.0,0.0,4b,1.0,0.7,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+34.0,18.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+44.0,22.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+43.0,15.0,1.0,5,0.0,0.0,irregular,microlobulated,parallel,1.0,hcrp,,retrospective
+43.0,24.0,1.0,5,1.0,0.73,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+70.0,5.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+46.0,7.0,0.0,3,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+63.0,23.4,1.0,6,1.0,0.8,irregular,microlobulated,parallel,1.0,hcrp,,retrospective
+30.0,20.0,1.0,6,1.0,0.8,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+43.0,8.0,0.0,4a,1.0,0.62,round,circumscribed,,0.0,hcrp,,retrospective
+29.0,11.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+46.0,18.0,1.0,5,1.0,0.73,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+46.0,10.0,1.0,5,1.0,0.7,irregular,microlobulated,parallel,1.0,hcrp,,retrospective
+42.0,14.0,1.0,3,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+77.0,18.0,1.0,5,1.0,0.89,irregular,microlobulated,not parallel,1.0,hcrp,,retrospective
+58.0,27.0,1.0,4a,1.0,0.5,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+65.0,8.0,1.0,4a,0.0,0.0,irregular,microlobulated,parallel,1.0,hcrp,,retrospective
+65.0,20.0,1.0,5,1.0,0.8,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+83.0,7.0,0.0,4a,0.0,0.0,oval,microlobulated,parallel,0.0,hcrp,,retrospective
+83.0,23.0,1.0,5,1.0,1.0,irregular,spiculated,parallel,1.0,hcrp,,retrospective
+68.0,27.0,1.0,5,0.0,0.0,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+64.0,16.0,1.0,5,1.0,0.7,irregular,microlobulated,parallel,1.0,hcrp,,retrospective
+64.0,13.0,1.0,4b,1.0,0.7,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+56.0,28.0,1.0,5,1.0,0.81,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+59.0,18.0,0.0,4c,1.0,0.74,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+36.0,18.0,1.0,5,1.0,0.7,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+48.0,26.1,1.0,6,1.0,0.81,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+45.0,8.0,0.0,4b,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+45.0,6.0,0.0,4b,1.0,0.57,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+45.0,7.0,0.0,4a,0.0,0.0,round,circumscribed,parallel,0.0,hcrp,,retrospective
+70.0,22.0,1.0,5,1.0,0.7,irregular,spiculated,parallel,1.0,hcrp,,retrospective
+84.0,21.0,1.0,5,1.0,1.3,irregular,spiculated,parallel,1.0,hcrp,,retrospective
+47.0,23.0,1.0,4c,1.0,0.57,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+64.0,30.0,1.0,4c,1.0,0.68,irregular,microlobulated,parallel,1.0,hcrp,,retrospective
+46.0,10.0,1.0,4b,0.0,0.0,irregular,angular,parallel,0.0,hcrp,,retrospective
+46.0,6.0,1.0,4b,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+74.0,4.0,0.0,,0.0,0.0,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+60.0,22.0,1.0,4c,1.0,0.87,oval,microlobulated,parallel,1.0,hcrp,,retrospective
+67.0,23.0,1.0,4c,1.0,0.78,irregular,microlobulated,parallel,1.0,hcrp,,retrospective
+47.0,22.0,1.0,4c,1.0,0.77,irregular,microlobulated,parallel,1.0,hcrp,,retrospective
+28.0,28.0,1.0,4c,1.0,0.65,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+59.0,22.0,1.0,5,1.0,0.73,irregular,angular,parallel,1.0,hcrp,,retrospective
+51.0,17.0,1.0,4c,1.0,0.75,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+48.0,18.0,0.0,5,1.0,0.87,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+85.0,20.0,0.0,4b,0.0,0.0,irregular,indistinct,parallel,0.0,hcrp,,retrospective
+55.0,11.0,0.0,4a,0.0,0.0,oval,indistinct,parallel,0.0,hcrp,,retrospective
+61.0,27.0,1.0,4c,1.0,0.8,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+53.0,7.0,0.0,4c,0.0,0.0,irregular,angular,not parallel,1.0,hcrp,,retrospective
+52.0,10.0,0.0,4b,1.0,0.76,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+50.0,18.0,1.0,4b,0.0,0.0,irregular,microlobulated,parallel,0.0,hcrp,,retrospective
+45.0,20.0,1.0,5,1.0,0.66,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+45.0,7.0,0.0,4a,1.0,0.5,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+45.0,9.0,0.0,4a,0.0,0.0,round,circumscribed,parallel,0.0,hcrp,,retrospective
+56.0,14.0,0.0,4b,0.0,0.0,oval,indistinct,parallel,0.0,hcrp,,retrospective
+30.0,20.0,0.0,4a,0.0,0.0,irregular,circumscribed,parallel,0.0,hcrp,,retrospective
+61.0,9.0,1.0,5,0.0,0.0,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+41.0,8.0,0.0,3,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+84.0,29.0,1.0,4c,1.0,0.74,irregular,microlobulated,not parallel,1.0,hcrp,,retrospective
+49.0,15.0,0.0,3,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+55.0,13.0,1.0,4c,0.0,0.0,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+52.0,18.0,1.0,4a,1.0,0.84,irregular,circumscribed,parallel,1.0,hcrp,,retrospective
+32.0,30.0,1.0,4c,1.0,1.0,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+58.0,12.0,0.0,4b,1.0,0.7,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+60.0,30.0,1.0,5,1.0,0.79,irregular,spiculated,parallel,1.0,hcrp,,retrospective
+67.0,21.0,1.0,4c,1.0,0.82,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+29.0,11.8,1.0,4c,1.0,0.75,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+53.0,6.0,0.0,4b,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+44.0,12.0,0.0,4a,1.0,0.45,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+19.0,27.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+47.0,27.0,1.0,4c,1.0,1.0,oval,circumscribed,parallel,1.0,hcrp,,retrospective
+48.0,13.0,0.0,5,1.0,1.0,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+39.0,24.0,1.0,4a,1.0,0.49,irregular,circumscribed,parallel,0.0,hcrp,,retrospective
+51.0,24.0,1.0,5,1.0,0.8,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+82.0,18.0,1.0,4c,1.0,0.89,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+69.0,27.0,1.0,4c,1.0,0.82,irregular,microlobulated,parallel,1.0,hcrp,,retrospective
+58.0,29.0,1.0,4a,1.0,1.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+45.0,10.0,0.0,4a,0.0,0.0,oval,angular,parallel,0.0,hcrp,,retrospective
+38.0,27.0,1.0,4c,1.0,0.78,irregular,microlobulated,not parallel,1.0,hcrp,,retrospective
+78.0,12.0,0.0,4b,1.0,1.0,irregular,microlobulated,parallel,1.0,hcrp,,retrospective
+69.0,29.0,1.0,4b,1.0,1.0,round,circumscribed,parallel,1.0,hcrp,,retrospective
+45.0,16.0,0.0,5,1.0,0.59,irregular,spiculated,parallel,1.0,hcrp,,retrospective
+36.0,12.0,1.0,4a,1.0,0.7,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+63.0,20.0,0.0,5,1.0,0.75,oval,spiculated,parallel,1.0,hcrp,,retrospective
+67.0,13.0,0.0,3,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+43.0,27.0,0.0,4a,1.0,0.9,irregular,circumscribed,parallel,0.0,hcrp,,retrospective
+83.0,24.0,1.0,4b,1.0,0.71,oval,microlobulated,parallel,1.0,hcrp,,retrospective
+55.0,17.0,0.0,4b,0.0,0.0,oval,circumscribed,parallel,1.0,hcrp,,retrospective
+49.0,6.4,0.0,4b,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+32.0,18.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+32.0,24.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+27.0,24.0,1.0,4a,1.0,0.51,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+57.0,18.0,1.0,5,0.0,0.0,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+47.0,14.0,1.0,5,1.0,0.78,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+84.0,30.0,1.0,4c,1.0,0.79,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+66.0,11.0,1.0,4c,1.0,1.0,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+66.0,17.0,1.0,4b,1.0,0.85,irregular,indistinct,parallel,0.0,hcrp,,retrospective
+44.0,16.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+41.0,17.0,0.0,4a,1.0,1.0,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+31.0,15.8,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+32.0,6.5,0.0,4c,0.0,0.0,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+32.0,15.0,0.0,4c,1.0,1.0,round,indistinct,not parallel,1.0,hcrp,,retrospective
+57.0,27.0,1.0,4b,1.0,1.0,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+64.0,10.0,0.0,4a,0.0,0.0,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+51.0,25.0,1.0,5,1.0,1.0,irregular,microlobulated,not parallel,1.0,hcrp,,retrospective
+48.0,19.0,1.0,4b,1.0,0.57,oval,microlobulated,parallel,1.0,hcrp,,retrospective
+58.0,14.0,1.0,4a,1.0,0.7,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+20.0,25.0,1.0,4a,1.0,0.63,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+87.0,28.0,1.0,,1.0,0.95,oval,circumscribed,parallel,1.0,hcrp,,retrospective
+87.0,25.0,1.0,5,1.0,0.9,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+41.0,13.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+47.0,19.0,1.0,4c,1.0,0.45,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+47.0,20.0,1.0,4c,0.0,0.0,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+66.0,19.0,1.0,4a,1.0,0.65,round,circumscribed,parallel,0.0,hcrp,,retrospective
+49.0,28.0,1.0,5,1.0,0.79,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+35.0,7.0,0.0,3,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+87.0,7.0,0.0,4b,1.0,1.0,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+65.0,7.0,0.0,4b,0.0,0.0,oval,microlobulated,parallel,0.0,hcrp,,retrospective
+54.0,25.0,1.0,4b,1.0,0.51,irregular,microlobulated,parallel,1.0,hcrp,,retrospective
+28.0,18.0,0.0,4a,0.0,0.0,oval,angular,parallel,0.0,hcrp,,retrospective
+76.0,16.0,1.0,5,0.0,0.0,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+63.0,30.0,1.0,5,1.0,0.82,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+56.0,20.0,0.0,5,1.0,0.85,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+77.0,27.0,1.0,4c,1.0,0.76,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+46.0,12.0,1.0,4c,1.0,1.0,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+79.0,26.3,1.0,5,0.0,0.0,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+78.0,25.0,1.0,5,1.0,0.95,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+55.0,16.0,1.0,4b,1.0,0.76,oval,indistinct,parallel,1.0,hcrp,,retrospective
+64.0,27.0,1.0,4c,1.0,0.76,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+44.0,12.0,1.0,4a,1.0,0.6,irregular,indistinct,not parallel,0.0,hcrp,,retrospective
+42.0,6.6000000000000005,0.0,4a,1.0,0.9,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+66.0,15.0,1.0,5,0.0,0.0,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+57.0,24.0,1.0,4b,1.0,0.77,irregular,microlobulated,parallel,1.0,hcrp,,retrospective
+39.0,21.7,1.0,4b,1.0,0.72,irregular,circumscribed,parallel,1.0,hcrp,,retrospective
+35.0,8.0,1.0,4b,0.0,0.0,round,spiculated,parallel,1.0,hcrp,,retrospective
+61.0,12.0,0.0,3,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+31.0,21.0,1.0,4b,0.0,0.0,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+54.0,13.0,1.0,5,0.0,0.0,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+73.0,10.0,0.0,4a,0.0,0.0,oval,indistinct,parallel,1.0,hcrp,,retrospective
+49.0,15.0,1.0,4c,1.0,1.0,irregular,indistinct,not parallel,0.0,hcrp,,retrospective
+49.0,21.0,1.0,4a,0.0,0.0,oval,indistinct,parallel,0.0,hcrp,,retrospective
+40.0,22.0,1.0,4a,1.0,1.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+40.0,18.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+50.0,24.0,1.0,4a,1.0,0.93,oval,microlobulated,parallel,1.0,hcrp,,retrospective
+61.0,13.0,0.0,5,1.0,1.0,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+69.0,9.0,0.0,4a,0.0,0.0,oval,angular,parallel,0.0,hcrp,,retrospective
+46.0,6.0,1.0,3,0.0,0.0,oval,indistinct,parallel,1.0,hcrp,,retrospective
+46.0,26.0,1.0,3,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+57.0,16.0,0.0,4b,0.0,0.0,oval,angular,parallel,0.0,hcrp,,retrospective
+66.0,17.0,1.0,4c,1.0,0.76,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+77.0,17.1,1.0,4c,1.0,0.78,irregular,spiculated,parallel,1.0,hcrp,,retrospective
+78.0,24.0,1.0,5,1.0,0.89,irregular,angular,parallel,1.0,hcrp,,retrospective
+27.0,22.0,0.0,4a,1.0,0.58,oval,microlobulated,parallel,0.0,hcrp,,retrospective
+36.0,10.0,1.0,4c,0.0,0.0,oval,indistinct,parallel,1.0,hcrp,,retrospective
+36.0,24.0,1.0,4a,1.0,0.83,oval,microlobulated,parallel,0.0,hcrp,,retrospective
+51.0,18.0,0.0,3,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+44.0,14.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+80.0,10.0,1.0,5,1.0,1.0,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+57.0,23.0,1.0,5,1.0,0.81,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+78.0,13.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+72.0,28.0,1.0,5,0.0,0.0,oval,indistinct,not parallel,1.0,hcrp,,retrospective
+37.0,7.0,1.0,5,0.0,0.0,oval,circumscribed,parallel,1.0,hcrp,,retrospective
+74.0,10.0,0.0,3,0.0,0.0,oval,circumscribed,parallel,1.0,hcrp,,retrospective
+44.0,29.0,1.0,4a,1.0,0.86,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+44.0,25.0,1.0,4b,0.0,0.0,irregular,indistinct,parallel,0.0,hcrp,,retrospective
+29.0,20.0,0.0,3,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+72.0,20.0,1.0,4c,1.0,0.86,irregular,microlobulated,parallel,1.0,hcrp,,retrospective
+49.0,20.0,1.0,4c,1.0,0.77,irregular,spiculated,parallel,1.0,hcrp,,retrospective
+63.0,5.0,1.0,4b,1.0,1.0,oval,indistinct,not parallel,1.0,hcrp,,retrospective
+47.0,28.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+35.0,15.0,1.0,4a,0.0,0.0,oval,indistinct,parallel,0.0,hcrp,,retrospective
+66.0,21.0,1.0,5,1.0,0.9,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+60.0,14.0,1.0,4c,0.0,0.0,oval,circumscribed,not parallel,1.0,hcrp,,retrospective
+45.0,24.0,1.0,4c,1.0,1.0,irregular,microlobulated,not parallel,1.0,hcrp,,retrospective
+56.0,17.0,1.0,5,1.0,0.82,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+33.0,7.0,0.0,4b,1.0,0.5,irregular,indistinct,parallel,0.0,hcrp,,retrospective
+39.0,21.0,1.0,4b,1.0,0.4,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+72.0,19.0,1.0,5,0.0,0.0,irregular,spiculated,parallel,1.0,hcrp,,retrospective
+61.0,10.0,0.0,4b,0.0,0.0,irregular,circumscribed,parallel,0.0,hcrp,,retrospective
+63.0,20.0,1.0,5,1.0,1.0,irregular,spiculated,parallel,1.0,hcrp,,retrospective
+61.0,7.0,0.0,4b,1.0,0.68,irregular,spiculated,parallel,1.0,hcrp,,retrospective
+39.0,17.0,0.0,4b,0.0,0.0,oval,microlobulated,parallel,1.0,hcrp,,retrospective
+20.0,30.0,1.0,3,1.0,1.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+78.0,21.0,1.0,4c,1.0,1.0,irregular,microlobulated,parallel,1.0,hcrp,,retrospective
+42.0,17.0,1.0,4a,1.0,1.0,round,microlobulated,parallel,0.0,hcrp,,retrospective
+51.0,16.0,1.0,5,1.0,0.79,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+35.0,26.5,1.0,4a,1.0,0.67,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+41.0,26.0,1.0,5,1.0,1.0,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+59.0,21.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+74.0,21.0,1.0,4c,1.0,0.8,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+29.0,30.0,1.0,4a,1.0,1.0,oval,circumscribed,parallel,1.0,hcrp,,retrospective
+74.0,24.0,1.0,4c,1.0,0.86,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+62.0,11.0,0.0,4c,1.0,1.0,irregular,microlobulated,not parallel,1.0,hcrp,,retrospective
+55.0,13.0,1.0,4b,0.0,0.0,irregular,indistinct,not parallel,0.0,hcrp,,retrospective
+42.0,19.0,1.0,4b,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+64.0,20.0,1.0,5,1.0,0.9,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+46.0,12.0,0.0,3,1.0,0.41,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+66.0,18.0,1.0,4b,1.0,1.0,irregular,microlobulated,parallel,1.0,hcrp,,retrospective
+59.0,19.0,0.0,4b,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+32.0,16.0,1.0,4a,1.0,0.56,round,microlobulated,not parallel,0.0,hcrp,,retrospective
+37.0,20.8,1.0,4c,1.0,0.8,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+46.0,21.0,1.0,5,1.0,0.8,irregular,spiculated,parallel,1.0,hcrp,,retrospective
+61.0,21.3,1.0,5,0.0,0.0,irregular,spiculated,parallel,1.0,hcrp,,retrospective
+22.0,23.0,1.0,4a,1.0,0.8,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+43.0,16.0,1.0,5,1.0,0.8,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+54.0,4.0,0.0,3,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+54.0,16.9,1.0,4c,0.0,0.0,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+47.0,13.0,1.0,4c,0.0,0.0,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+51.0,23.0,1.0,4b,1.0,0.74,irregular,indistinct,parallel,0.0,hcrp,,retrospective
+43.0,20.0,1.0,4b,1.0,0.71,oval,spiculated,parallel,1.0,hcrp,,retrospective
+43.0,6.0,0.0,4b,0.0,0.0,oval,spiculated,parallel,1.0,hcrp,,retrospective
+47.0,8.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+47.0,11.0,1.0,6,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+77.0,28.0,1.0,4c,1.0,0.97,irregular,microlobulated,parallel,1.0,hcrp,,retrospective
+47.0,18.0,1.0,5,1.0,0.81,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+40.0,26.0,1.0,4c,1.0,0.8,irregular,angular,not parallel,0.0,hcrp,,retrospective
+51.0,17.0,0.0,3,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+49.0,4.0,0.0,4b,0.0,0.0,irregular,indistinct,not parallel,0.0,hcrp,,retrospective
+43.0,22.0,1.0,5,1.0,0.83,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+83.0,19.0,1.0,5,1.0,0.77,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+67.0,16.0,0.0,4a,0.0,0.0,round,circumscribed,parallel,0.0,hcrp,,retrospective
+38.0,11.0,1.0,4c,0.0,0.0,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+77.0,11.0,1.0,5,0.0,0.0,irregular,spiculated,parallel,1.0,hcrp,,retrospective
+47.0,24.0,1.0,5,1.0,0.82,irregular,spiculated,parallel,1.0,hcrp,,retrospective
+38.0,10.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+19.0,27.0,1.0,4a,0.0,0.0,irregular,microlobulated,parallel,0.0,hcrp,,retrospective
+59.0,29.0,1.0,5,1.0,1.0,irregular,spiculated,parallel,1.0,hcrp,,retrospective
+59.0,27.0,1.0,5,1.0,1.0,irregular,spiculated,parallel,1.0,hcrp,,retrospective
+79.0,11.0,0.0,4b,0.0,0.0,oval,angular,parallel,1.0,hcrp,,retrospective
+45.0,13.0,1.0,4b,1.0,0.74,oval,microlobulated,not parallel,0.0,hcrp,,retrospective
+63.0,13.0,1.0,5,1.0,0.81,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+42.0,19.0,0.0,3,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+70.0,26.0,1.0,4c,1.0,0.95,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+52.0,22.0,0.0,4a,0.0,0.0,round,microlobulated,parallel,0.0,hcrp,,retrospective
+63.0,16.0,1.0,4c,0.0,0.0,oval,indistinct,not parallel,1.0,hcrp,,retrospective
+33.0,21.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+60.0,13.0,1.0,4c,0.0,0.0,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+49.0,14.0,1.0,4b,0.0,0.0,irregular,angular,not parallel,0.0,hcrp,,retrospective
+69.0,18.0,1.0,4c,1.0,0.84,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+61.0,13.0,0.0,4c,0.0,0.0,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+58.0,12.0,1.0,4c,0.0,0.0,irregular,spiculated,parallel,1.0,hcrp,,retrospective
+29.0,12.6,1.0,4b,0.0,0.0,irregular,angular,parallel,0.0,hcrp,,retrospective
+60.0,23.0,1.0,5,0.0,0.0,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+69.0,17.0,1.0,4c,1.0,0.73,irregular,microlobulated,not parallel,1.0,hcrp,,retrospective
+69.0,12.0,1.0,4c,1.0,0.7,irregular,microlobulated,not parallel,1.0,hcrp,,retrospective
+60.0,27.0,1.0,4c,1.0,1.0,irregular,microlobulated,not parallel,1.0,hcrp,,retrospective
+64.0,15.0,1.0,4a,1.0,1.0,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+59.0,25.0,1.0,4c,1.0,0.73,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+65.0,14.0,0.0,4b,0.0,0.0,oval,indistinct,parallel,0.0,hcrp,,retrospective
+63.0,24.0,1.0,5,1.0,0.86,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+62.0,24.0,1.0,5,1.0,0.86,irregular,spiculated,parallel,1.0,hcrp,,retrospective
+59.0,24.0,1.0,5,1.0,0.78,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+57.0,28.0,1.0,5,1.0,0.77,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+51.0,19.0,1.0,4c,0.0,0.0,oval,circumscribed,not parallel,1.0,hcrp,,retrospective
+51.0,10.0,0.0,4a,0.0,0.0,irregular,circumscribed,not parallel,0.0,hcrp,,retrospective
+51.0,9.0,0.0,4a,0.0,0.0,irregular,circumscribed,parallel,0.0,hcrp,,retrospective
+59.0,23.0,1.0,5,1.0,1.0,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+36.0,25.0,1.0,4b,0.0,0.0,irregular,microlobulated,not parallel,1.0,hcrp,,retrospective
+22.0,29.0,1.0,4b,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+31.0,16.299999999999997,1.0,4a,1.0,0.75,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+73.0,20.0,1.0,5,0.0,0.0,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+46.0,28.0,1.0,5,1.0,0.65,oval,indistinct,parallel,1.0,hcrp,,retrospective
+57.0,10.0,0.0,4a,0.0,0.0,oval,microlobulated,parallel,0.0,hcrp,,retrospective
+54.0,27.0,1.0,4c,1.0,0.87,irregular,microlobulated,parallel,1.0,hcrp,,retrospective
+56.0,12.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+22.0,24.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+60.0,29.0,1.0,4c,0.0,0.0,irregular,indistinct,not parallel,0.0,hcrp,,retrospective
+39.0,25.0,1.0,5,0.0,0.0,oval,circumscribed,,1.0,hcrp,,retrospective
+61.0,13.0,0.0,4b,1.0,0.7,irregular,microlobulated,not parallel,1.0,hcrp,,retrospective
+57.0,9.0,0.0,4b,0.0,0.0,irregular,indistinct,not parallel,0.0,hcrp,,retrospective
+57.0,14.0,0.0,4b,0.0,0.0,irregular,angular,not parallel,1.0,hcrp,,retrospective
+40.0,12.0,1.0,4b,1.0,0.57,irregular,microlobulated,parallel,0.0,hcrp,,retrospective
+50.0,25.0,1.0,5,0.0,0.0,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+76.0,22.0,1.0,4b,0.0,0.0,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+62.0,15.0,1.0,5,1.0,0.7,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+43.0,9.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+42.0,21.0,1.0,5,1.0,0.84,irregular,spiculated,parallel,1.0,hcrp,,retrospective
+36.0,14.7,1.0,5,1.0,0.55,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+40.0,15.0,0.0,3,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+41.0,26.0,1.0,4c,1.0,1.0,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+76.0,20.2,1.0,5,1.0,1.0,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+62.0,21.0,1.0,5,0.0,0.0,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+65.0,18.0,1.0,5,1.0,0.76,irregular,microlobulated,not parallel,1.0,hcrp,,retrospective
+60.0,15.3,1.0,4c,1.0,0.86,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+39.0,15.0,0.0,4b,1.0,0.74,oval,indistinct,parallel,1.0,hcrp,,retrospective
+51.0,17.0,1.0,4a,0.0,0.0,oval,microlobulated,parallel,0.0,hcrp,,retrospective
+46.0,19.0,1.0,5,1.0,0.78,irregular,spiculated,parallel,1.0,hcrp,,retrospective
+20.0,21.0,1.0,4a,1.0,0.64,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+36.0,16.0,1.0,4b,1.0,1.0,irregular,circumscribed,parallel,1.0,hcrp,,retrospective
+66.0,16.0,1.0,4c,1.0,0.73,irregular,angular,parallel,1.0,hcrp,,retrospective
+65.0,8.2,0.0,4c,1.0,0.71,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+46.0,9.0,0.0,4c,0.0,0.0,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+46.0,11.0,0.0,4c,0.0,0.0,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+49.0,22.0,1.0,5,1.0,0.81,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+36.0,16.0,1.0,5,1.0,0.75,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+68.0,23.0,1.0,5,1.0,0.88,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+56.0,17.0,1.0,5,1.0,1.0,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+72.0,6.0,0.0,4b,0.0,0.0,oval,indistinct,parallel,0.0,hcrp,,retrospective
+81.0,15.0,1.0,5,1.0,1.0,irregular,spiculated,parallel,1.0,hcrp,,retrospective
+57.0,7.0,0.0,4b,0.0,0.0,irregular,angular,parallel,0.0,hcrp,,retrospective
+69.0,11.2,1.0,4b,1.0,0.74,oval,circumscribed,not parallel,1.0,hcrp,,retrospective
+35.0,11.0,0.0,4a,0.0,0.0,oval,indistinct,parallel,0.0,hcrp,,retrospective
+39.0,19.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+63.0,8.0,0.0,4b,1.0,0.72,irregular,microlobulated,not parallel,1.0,hcrp,,retrospective
+31.0,13.0,1.0,4b,0.0,0.0,irregular,microlobulated,parallel,0.0,hcrp,,retrospective
+73.0,8.100000000000001,1.0,5,0.0,0.0,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+88.0,27.0,1.0,4c,1.0,1.0,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+22.0,12.0,1.0,4a,0.0,0.0,oval,indistinct,parallel,0.0,hcrp,,retrospective
+35.0,3.0,0.0,4a,0.0,0.0,round,indistinct,parallel,0.0,hcrp,,retrospective
+51.0,25.0,1.0,5,1.0,0.95,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+51.0,25.0,1.0,4c,1.0,1.0,irregular,microlobulated,not parallel,1.0,hcrp,,retrospective
+47.0,9.0,1.0,4c,0.0,0.0,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+51.0,24.0,1.0,4b,1.0,0.87,irregular,microlobulated,not parallel,1.0,hcrp,,retrospective
+49.0,20.0,1.0,4b,1.0,0.84,irregular,angular,parallel,1.0,hcrp,,retrospective
+46.0,13.0,0.0,4b,0.0,0.0,irregular,indistinct,not parallel,0.0,hcrp,,retrospective
+51.0,18.0,1.0,4b,1.0,0.6,irregular,microlobulated,not parallel,1.0,hcrp,,retrospective
+67.0,17.0,1.0,4b,1.0,1.0,oval,microlobulated,not parallel,1.0,hcrp,,retrospective
+88.0,22.0,1.0,5,1.0,0.78,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+80.0,13.0,0.0,4c,0.0,0.0,oval,circumscribed,parallel,1.0,hcrp,,retrospective
+65.0,10.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+60.0,24.0,1.0,5,1.0,0.9,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+41.0,19.0,1.0,5,1.0,0.91,irregular,angular,not parallel,1.0,hcrp,,retrospective
+65.0,18.0,1.0,4c,1.0,1.0,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+51.0,21.0,1.0,4c,1.0,1.0,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+59.0,7.0,0.0,4b,1.0,0.8,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+87.0,19.0,1.0,4c,1.0,1.0,oval,spiculated,parallel,1.0,hcrp,,retrospective
+34.0,24.0,1.0,4a,1.0,0.78,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+20.0,13.0,0.0,4b,1.0,0.74,oval,indistinct,parallel,0.0,hcrp,,retrospective
+58.0,15.0,1.0,5,1.0,1.0,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+50.0,25.0,1.0,4b,0.0,0.0,irregular,indistinct,parallel,0.0,hcrp,,retrospective
+68.0,10.0,0.0,4c,0.0,0.0,irregular,microlobulated,parallel,1.0,hcrp,,retrospective
+43.0,9.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+60.0,15.0,1.0,4c,1.0,1.0,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+50.0,15.0,0.0,4a,1.0,0.66,oval,circumscribed,parallel,1.0,hcrp,,retrospective
+57.0,21.0,1.0,5,1.0,0.84,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+78.0,13.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+70.0,28.0,1.0,5,0.0,0.0,oval,indistinct,not parallel,1.0,hcrp,,retrospective
+51.0,9.0,0.0,4a,0.0,0.0,irregular,indistinct,not parallel,0.0,hcrp,,retrospective
+46.0,18.0,0.0,4a,1.0,0.43,oval,microlobulated,parallel,0.0,hcrp,,retrospective
+68.0,12.0,0.0,3,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+68.0,13.0,1.0,5,1.0,0.85,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+53.0,19.0,1.0,5,1.0,1.0,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+42.0,27.0,1.0,4b,0.0,0.0,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+49.0,9.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+38.0,18.0,1.0,5,1.0,0.8,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+38.0,10.0,1.0,5,0.0,0.0,oval,microlobulated,parallel,1.0,hcrp,,retrospective
+50.0,26.0,1.0,4c,1.0,0.77,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+47.0,17.0,1.0,5,1.0,0.79,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+47.0,21.0,1.0,5,1.0,0.69,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+92.0,10.7,0.0,5,0.0,0.0,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+54.0,23.0,1.0,4a,1.0,0.79,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+85.0,16.0,1.0,5,1.0,0.86,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+56.0,11.0,0.0,4c,0.0,0.0,irregular,indistinct,not parallel,0.0,hcrp,,retrospective
+46.0,21.0,0.0,4b,0.0,0.0,irregular,indistinct,parallel,0.0,hcrp,,retrospective
+71.0,28.0,1.0,5,1.0,,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+56.0,16.0,1.0,5,1.0,1.0,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+45.0,11.0,0.0,4a,1.0,0.62,oval,microlobulated,parallel,0.0,hcrp,,retrospective
+35.0,30.0,1.0,4c,1.0,1.0,irregular,microlobulated,not parallel,1.0,hcrp,,retrospective
+35.0,21.0,1.0,4a,1.0,0.4,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+43.0,11.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+43.0,12.0,0.0,4a,0.0,0.0,oval,angular,not parallel,0.0,hcrp,,retrospective
+45.0,20.0,1.0,4b,1.0,1.0,oval,indistinct,parallel,1.0,hcrp,,retrospective
+21.0,11.0,1.0,4b,0.0,0.0,oval,microlobulated,not parallel,0.0,hcrp,,retrospective
+39.0,28.0,1.0,4a,1.0,1.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+56.0,26.0,1.0,5,1.0,0.6,irregular,spiculated,parallel,1.0,hcrp,,retrospective
+50.0,21.0,1.0,5,1.0,0.71,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+52.0,25.0,1.0,5,1.0,1.0,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+52.0,15.0,1.0,5,1.0,0.87,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+52.0,24.0,1.0,4a,0.0,0.0,oval,microlobulated,parallel,0.0,hcrp,,retrospective
+23.0,24.0,1.0,4a,1.0,0.84,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+44.0,21.0,1.0,4c,1.0,0.7,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+74.0,29.0,1.0,4b,1.0,0.79,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+54.0,18.0,0.0,4a,1.0,0.65,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+59.0,19.0,1.0,4c,1.0,1.0,irregular,microlobulated,not parallel,1.0,hcrp,,retrospective
+74.0,22.0,1.0,4c,1.0,0.83,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+58.0,12.0,0.0,4c,0.0,0.0,round,circumscribed,not parallel,1.0,hcrp,,retrospective
+61.0,14.0,0.0,4a,1.0,0.55,oval,microlobulated,parallel,0.0,hcrp,,retrospective
+46.0,27.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+46.0,23.0,1.0,5,1.0,0.89,oval,indistinct,parallel,1.0,hcrp,,retrospective
+54.0,6.0,0.0,4b,0.0,0.0,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+49.0,19.0,1.0,4b,1.0,0.74,irregular,microlobulated,not parallel,1.0,hcrp,,retrospective
+45.0,23.0,1.0,4a,1.0,0.7,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+77.0,21.0,1.0,5,1.0,1.0,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+37.0,27.0,1.0,4a,1.0,0.66,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+57.0,12.0,0.0,4c,1.0,0.9,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+42.0,23.0,1.0,4a,1.0,0.6,oval,microlobulated,parallel,0.0,hcrp,,retrospective
+20.0,27.0,1.0,4b,1.0,0.52,irregular,microlobulated,parallel,0.0,hcrp,,retrospective
+68.0,6.0,0.0,4a,0.0,0.0,oval,indistinct,parallel,0.0,hcrp,,retrospective
+76.0,28.0,1.0,5,1.0,0.9,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+32.0,15.0,1.0,5,1.0,1.0,irregular,spiculated,parallel,1.0,hcrp,,retrospective
+67.0,16.0,1.0,4b,0.0,0.0,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+28.0,29.0,1.0,4a,0.0,0.0,oval,angular,parallel,0.0,hcrp,,retrospective
+57.0,21.0,1.0,5,1.0,1.0,irregular,angular,not parallel,1.0,hcrp,,retrospective
+60.0,8.0,0.0,4b,0.0,0.0,irregular,indistinct,not parallel,0.0,hcrp,,retrospective
+77.0,14.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,1.0,hcrp,,retrospective
+56.0,11.0,1.0,5,0.0,0.0,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+33.0,25.0,1.0,4c,1.0,1.0,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+60.0,18.0,1.0,4c,1.0,0.5,irregular,microlobulated,not parallel,1.0,hcrp,,retrospective
+44.0,24.0,1.0,4b,1.0,1.0,oval,angular,not parallel,0.0,hcrp,,retrospective
+43.0,15.0,0.0,4b,0.0,0.0,oval,indistinct,parallel,0.0,hcrp,,retrospective
+47.0,26.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+39.0,10.0,0.0,4c,1.0,1.0,round,angular,not parallel,0.0,hcrp,,retrospective
+55.0,19.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+48.0,14.0,1.0,5,1.0,0.86,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+61.0,19.0,1.0,4c,1.0,0.8,irregular,microlobulated,not parallel,1.0,hcrp,,retrospective
+54.0,6.0,1.0,4b,0.0,0.0,irregular,indistinct,not parallel,0.0,hcrp,,retrospective
+59.0,12.0,1.0,5,1.0,0.64,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+59.0,7.0,,5,1.0,0.86,oval,angular,parallel,1.0,hcrp,,retrospective
+55.0,7.0,0.0,4a,0.0,0.0,oval,indistinct,parallel,0.0,hcrp,,retrospective
+37.0,19.0,1.0,4a,1.0,1.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+70.0,23.0,1.0,5,1.0,0.92,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+58.0,23.0,1.0,4b,1.0,0.52,irregular,angular,not parallel,0.0,hcrp,,retrospective
+50.0,19.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+38.0,28.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+47.0,12.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+33.0,21.0,1.0,5,1.0,0.72,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+55.0,11.9,0.0,4b,0.0,0.0,irregular,indistinct,parallel,0.0,hcrp,,retrospective
+19.0,21.7,1.0,4a,1.0,1.0,oval,angular,parallel,0.0,hcrp,,retrospective
+44.0,22.0,1.0,4c,1.0,0.89,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+43.0,25.0,1.0,5,1.0,0.8,irregular,spiculated,parallel,1.0,hcrp,,retrospective
+50.0,19.0,1.0,5,1.0,0.69,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+71.0,29.0,1.0,4c,1.0,1.0,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+56.0,10.0,1.0,4c,1.0,0.7,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+60.0,8.299999999999999,0.0,4b,0.0,0.0,round,circumscribed,parallel,0.0,hcrp,,retrospective
+60.0,8.7,0.0,4b,0.0,0.0,round,circumscribed,parallel,0.0,hcrp,,retrospective
+62.0,21.9,1.0,5,1.0,1.0,oval,indistinct,parallel,1.0,hcrp,,retrospective
+61.0,20.0,1.0,5,1.0,0.87,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+82.0,20.0,1.0,4b,1.0,0.77,oval,circumscribed,parallel,1.0,hcrp,,retrospective
+81.0,28.8,1.0,5,1.0,1.0,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+72.0,12.7,0.0,5,0.0,0.0,irregular,spiculated,parallel,1.0,hcrp,,retrospective
+41.0,10.0,1.0,4b,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+75.0,27.0,1.0,5,1.0,0.88,irregular,microlobulated,not parallel,1.0,hcrp,,retrospective
+57.0,11.0,0.0,4a,0.0,0.0,oval,microlobulated,parallel,0.0,hcrp,,retrospective
+87.0,30.0,1.0,4c,1.0,1.0,irregular,microlobulated,parallel,1.0,hcrp,,retrospective
+87.0,30.0,1.0,4c,1.0,0.89,oval,microlobulated,parallel,1.0,hcrp,,retrospective
+52.0,20.0,1.0,4b,0.0,0.0,oval,indistinct,parallel,0.0,hcrp,,retrospective
+40.0,23.0,1.0,5,1.0,1.0,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+53.0,7.0,0.0,4b,1.0,0.66,irregular,indistinct,not parallel,0.0,hcrp,,retrospective
+54.0,23.0,0.0,4b,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+46.0,17.0,1.0,4c,1.0,0.73,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+72.0,14.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,1.0,hcrp,,retrospective
+47.0,19.0,1.0,5,1.0,0.65,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+69.0,17.0,1.0,4c,1.0,0.85,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+60.0,12.0,0.0,5,1.0,0.72,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+33.0,25.0,1.0,5,1.0,0.8,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+46.0,16.599999999999998,1.0,5,0.0,0.0,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+45.0,26.0,1.0,4a,1.0,0.57,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+52.0,16.0,0.0,4b,1.0,0.7,irregular,indistinct,parallel,0.0,hcrp,,retrospective
+46.0,16.0,1.0,4b,1.0,0.8,irregular,circumscribed,parallel,0.0,hcrp,,retrospective
+46.0,15.0,1.0,4c,1.0,0.77,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+71.0,11.0,0.0,4b,0.0,0.0,irregular,indistinct,parallel,0.0,hcrp,,retrospective
+53.0,23.0,1.0,5,1.0,0.89,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+55.0,11.0,1.0,4c,1.0,1.0,irregular,microlobulated,not parallel,1.0,hcrp,,retrospective
+45.0,19.0,1.0,4a,1.0,0.66,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+34.0,10.0,0.0,4a,0.0,0.0,irregular,angular,parallel,1.0,hcrp,,retrospective
+77.0,16.0,1.0,5,1.0,1.0,oval,circumscribed,parallel,1.0,hcrp,,retrospective
+56.0,8.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+49.0,4.0,1.0,4a,0.0,0.0,irregular,angular,parallel,0.0,hcrp,,retrospective
+74.0,28.0,1.0,5,0.0,0.0,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+40.0,19.0,1.0,5,1.0,0.6,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+49.0,27.7,1.0,4b,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+47.0,25.0,1.0,5,1.0,1.0,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+48.0,23.0,1.0,4c,1.0,0.83,irregular,indistinct,not parallel,0.0,hcrp,,retrospective
+43.0,30.0,0.0,4b,0.0,0.0,irregular,indistinct,not parallel,0.0,hcrp,,retrospective
+56.0,24.0,1.0,5,1.0,0.89,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+78.0,9.0,1.0,4a,0.0,0.0,round,angular,parallel,0.0,hcrp,,retrospective
+42.0,27.200000000000003,1.0,4a,1.0,1.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+42.0,11.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,1.0,hcrp,,retrospective
+82.0,18.0,1.0,5,1.0,0.8,irregular,microlobulated,not parallel,1.0,hcrp,,retrospective
+68.0,19.0,1.0,5,1.0,0.73,round,circumscribed,parallel,1.0,hcrp,,retrospective
+63.0,24.0,1.0,5,0.0,0.0,irregular,microlobulated,not parallel,1.0,hcrp,,retrospective
+60.0,11.0,1.0,5,0.0,0.0,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+61.0,17.0,1.0,4c,1.0,1.0,irregular,angular,parallel,1.0,hcrp,,retrospective
+29.0,19.0,1.0,4c,1.0,0.8,irregular,microlobulated,not parallel,0.0,hcrp,,retrospective
+90.0,23.0,1.0,4b,1.0,1.0,irregular,indistinct,not parallel,0.0,hcrp,,retrospective
+68.0,30.0,1.0,5,1.0,1.0,irregular,spiculated,parallel,1.0,hcrp,,retrospective
+69.0,15.0,1.0,4c,1.0,0.68,irregular,microlobulated,not parallel,1.0,hcrp,,retrospective
+67.0,29.0,1.0,4c,1.0,1.0,irregular,microlobulated,not parallel,1.0,hcrp,,retrospective
+51.0,24.0,1.0,4c,1.0,0.93,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+45.0,20.0,1.0,4c,1.0,0.75,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+42.0,10.0,1.0,4c,1.0,0.64,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+57.0,10.0,1.0,4c,1.0,1.0,irregular,microlobulated,parallel,1.0,hcrp,,retrospective
+64.0,16.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,1.0,hcrp,,retrospective
+59.0,8.0,0.0,4a,1.0,0.86,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+28.0,7.0,0.0,4a,0.0,0.0,oval,microlobulated,parallel,0.0,hcrp,,retrospective
+59.0,30.0,1.0,5,1.0,0.76,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+61.0,25.0,1.0,4c,1.0,0.79,irregular,microlobulated,not parallel,1.0,hcrp,,retrospective
+28.0,30.0,1.0,4b,0.0,0.0,round,indistinct,parallel,0.0,hcrp,,retrospective
+46.0,7.0,0.0,4c,0.0,0.0,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+69.0,20.0,0.0,5,1.0,1.0,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+92.0,22.0,1.0,4b,1.0,0.77,oval,circumscribed,parallel,1.0,hcrp,,retrospective
+57.0,29.0,1.0,4b,1.0,0.77,irregular,indistinct,parallel,0.0,hcrp,,retrospective
+56.0,10.0,0.0,4b,0.0,0.0,oval,angular,parallel,0.0,hcrp,,retrospective
+56.0,12.0,0.0,4b,1.0,1.0,oval,angular,parallel,0.0,hcrp,,retrospective
+46.0,21.0,1.0,4b,1.0,0.58,oval,microlobulated,parallel,0.0,hcrp,,retrospective
+45.0,18.0,0.0,4b,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+30.0,28.0,1.0,4a,1.0,0.59,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+64.0,19.0,1.0,4c,1.0,0.71,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+56.0,28.0,1.0,4c,1.0,0.74,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+53.0,9.0,0.0,4c,1.0,0.73,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+61.0,16.0,1.0,4c,1.0,0.87,irregular,angular,not parallel,1.0,hcrp,,retrospective
+56.0,11.0,1.0,4a,0.0,0.0,round,circumscribed,not parallel,0.0,hcrp,,retrospective
+54.0,6.5,0.0,4b,1.0,1.0,irregular,microlobulated,not parallel,1.0,hcrp,,retrospective
+54.0,7.4,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+26.0,15.0,1.0,4c,1.0,0.83,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+54.0,9.0,0.0,4a,0.0,0.0,oval,indistinct,parallel,0.0,hcrp,,retrospective
+34.0,22.0,1.0,4a,1.0,0.63,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+89.0,7.0,1.0,4a,0.0,0.0,round,circumscribed,parallel,0.0,hcrp,,retrospective
+40.0,17.0,1.0,4c,1.0,1.0,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+38.0,27.0,1.0,4a,1.0,0.73,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+45.0,23.0,1.0,5,1.0,1.0,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+75.0,20.4,1.0,5,1.0,1.0,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+74.0,17.9,1.0,5,1.0,0.71,irregular,spiculated,parallel,1.0,hcrp,,retrospective
+62.0,27.0,1.0,5,1.0,0.75,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+56.0,21.0,1.0,5,1.0,1.0,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+45.0,8.2,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+37.0,21.0,1.0,5,1.0,0.81,irregular,spiculated,parallel,1.0,hcrp,,retrospective
+76.0,25.0,1.0,4c,1.0,1.0,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+38.0,26.0,1.0,4c,1.0,1.0,irregular,angular,not parallel,1.0,hcrp,,retrospective
+38.0,10.0,0.0,4,1.0,0.79,oval,circumscribed,parallel,1.0,hcrp,,retrospective
+65.0,20.0,1.0,4b,1.0,1.0,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+53.0,26.0,1.0,4a,0.0,0.0,round,circumscribed,not parallel,0.0,hcrp,,retrospective
+69.0,9.0,1.0,5,1.0,1.0,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+70.0,22.0,1.0,4c,1.0,0.8,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+38.0,25.0,1.0,4a,0.0,0.0,oval,microlobulated,parallel,1.0,hcrp,,retrospective
+75.0,10.0,1.0,5,1.0,0.94,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+70.0,15.0,1.0,5,1.0,1.0,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+41.0,15.0,0.0,5,1.0,1.0,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+37.0,10.0,0.0,4a,1.0,1.0,oval,angular,parallel,0.0,hcrp,,retrospective
+37.0,27.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+73.0,10.0,0.0,4c,0.0,0.0,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+61.0,27.0,1.0,4c,1.0,1.0,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+70.0,15.0,1.0,4a,0.0,0.0,irregular,indistinct,not parallel,0.0,hcrp,,retrospective
+55.0,17.0,1.0,4c,1.0,1.0,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+67.0,10.0,1.0,4b,0.0,0.0,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+86.0,18.0,1.0,4b,1.0,0.82,oval,circumscribed,parallel,1.0,hcrp,,retrospective
+61.0,9.0,0.0,4b,0.0,0.0,oval,circumscribed,not parallel,0.0,hcrp,,retrospective
+83.0,25.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+62.0,22.6,1.0,5,1.0,0.83,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+43.0,11.0,1.0,4a,1.0,1.0,irregular,microlobulated,not parallel,0.0,hcrp,,retrospective
+83.0,27.9,1.0,5,1.0,0.89,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+75.0,23.0,1.0,5,1.0,0.88,irregular,angular,not parallel,1.0,hcrp,,retrospective
+65.0,21.0,1.0,5,0.0,0.0,irregular,spiculated,parallel,1.0,hcrp,,retrospective
+42.0,5.0,0.0,4b,0.0,0.0,oval,microlobulated,parallel,0.0,hcrp,,retrospective
+72.0,6.0,0.0,4c,0.0,0.0,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+53.0,6.7,0.0,4a,0.0,0.0,irregular,indistinct,not parallel,0.0,hcrp,,retrospective
+79.0,27.0,1.0,5,1.0,0.89,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+56.0,13.5,0.0,4c,0.0,0.0,oval,circumscribed,parallel,1.0,hcrp,,retrospective
+58.0,16.0,1.0,4b,1.0,0.82,irregular,spiculated,parallel,1.0,hcrp,,retrospective
+64.0,16.0,1.0,4c,1.0,1.0,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+51.0,16.0,1.0,4c,1.0,0.75,oval,microlobulated,not parallel,1.0,hcrp,,retrospective
+30.0,11.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+51.0,24.0,1.0,4c,1.0,0.67,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+65.0,12.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+87.0,26.0,1.0,4c,1.0,1.0,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+73.0,14.0,1.0,4c,0.0,0.0,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+73.0,9.0,1.0,4c,0.0,0.0,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+44.0,23.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+46.0,10.0,1.0,4b,1.0,0.76,irregular,indistinct,not parallel,0.0,hcrp,,retrospective
+49.0,8.0,0.0,4a,1.0,0.41,round,circumscribed,parallel,0.0,hcrp,,retrospective
+40.0,30.0,1.0,5,1.0,0.82,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+18.0,30.0,1.0,4a,1.0,0.8,irregular,circumscribed,parallel,0.0,hcrp,,retrospective
+41.0,20.0,1.0,5,1.0,0.76,irregular,microlobulated,not parallel,1.0,hcrp,,retrospective
+59.0,22.0,1.0,4b,0.0,0.0,irregular,circumscribed,parallel,1.0,hcrp,,retrospective
+61.0,14.0,1.0,4b,1.0,0.58,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+53.0,16.0,1.0,5,1.0,0.7,irregular,angular,not parallel,1.0,hcrp,,retrospective
+54.0,12.0,0.0,4c,1.0,0.69,oval,indistinct,not parallel,0.0,hcrp,,retrospective
+70.0,14.0,0.0,4b,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+36.0,30.0,1.0,4c,1.0,0.88,irregular,angular,parallel,1.0,hcrp,,retrospective
+36.0,21.0,0.0,4a,1.0,0.67,oval,angular,parallel,0.0,hcrp,,retrospective
+62.0,19.0,0.0,5,1.0,0.96,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+58.0,12.3,1.0,4c,1.0,1.0,round,circumscribed,not parallel,1.0,hcrp,,retrospective
+70.0,16.0,1.0,4c,1.0,0.83,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+69.0,12.0,0.0,4b,1.0,1.0,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+50.0,27.0,1.0,5,1.0,0.81,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+51.0,24.0,1.0,5,0.0,0.0,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+51.0,17.0,0.0,4,0.0,0.0,oval,indistinct,parallel,0.0,hcrp,,retrospective
+44.0,24.0,1.0,5,1.0,0.63,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+44.0,16.0,0.0,5,0.0,0.0,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+72.0,23.0,1.0,4a,1.0,1.0,oval,circumscribed,parallel,1.0,hcrp,,retrospective
+49.0,19.0,1.0,4c,1.0,0.92,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+71.0,20.0,1.0,5,1.0,1.0,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+57.0,28.6,1.0,4c,0.0,0.0,irregular,microlobulated,parallel,1.0,hcrp,,retrospective
+65.0,26.0,1.0,4b,1.0,0.86,irregular,microlobulated,not parallel,1.0,hcrp,,retrospective
+54.0,16.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+65.0,16.0,1.0,5,1.0,0.9,irregular,spiculated,parallel,1.0,hcrp,,retrospective
+44.0,26.0,1.0,4b,1.0,0.88,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+77.0,23.0,1.0,5,1.0,0.83,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+77.0,8.0,1.0,5,1.0,0.76,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+72.0,29.0,1.0,5,1.0,0.76,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+46.0,21.0,1.0,5,1.0,0.81,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+46.0,18.0,1.0,4c,1.0,0.84,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+46.0,17.0,1.0,4c,1.0,0.79,irregular,indistinct,not parallel,1.0,hcrp,,retrospective
+60.0,8.4,0.0,4b,0.0,0.0,irregular,circumscribed,not parallel,0.0,hcrp,,retrospective
+53.0,20.0,1.0,5,0.0,0.0,irregular,angular,not parallel,1.0,hcrp,,retrospective
+45.0,12.0,1.0,4c,1.0,1.0,irregular,angular,not parallel,1.0,hcrp,,retrospective
+51.0,8.0,0.0,4b,0.0,0.0,oval,microlobulated,parallel,0.0,hcrp,,retrospective
+39.0,26.0,1.0,4a,1.0,0.81,oval,circumscribed,parallel,1.0,hcrp,,retrospective
+39.0,6.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,1.0,hcrp,,retrospective
+53.0,27.0,1.0,5,1.0,0.59,irregular,spiculated,parallel,1.0,hcrp,,retrospective
+76.0,9.0,0.0,4a,0.0,0.0,irregular,microlobulated,parallel,1.0,hcrp,,retrospective
+72.0,18.0,1.0,4a,0.0,0.0,oval,angular,parallel,0.0,hcrp,,retrospective
+61.0,27.0,1.0,5,1.0,1.0,irregular,spiculated,parallel,1.0,hcrp,,retrospective
+42.0,5.0,1.0,4a,0.0,0.0,irregular,circumscribed,parallel,0.0,hcrp,,retrospective
+66.0,23.0,1.0,5,1.0,0.8,irregular,indistinct,parallel,1.0,hcrp,,retrospective
+56.0,19.0,0.0,5,1.0,0.78,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+41.0,17.0,1.0,4b,1.0,0.71,irregular,microlobulated,parallel,0.0,hcrp,,retrospective
+67.0,11.0,1.0,5,1.0,0.85,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+50.0,18.0,1.0,5,1.0,0.86,irregular,spiculated,parallel,1.0,hcrp,,retrospective
+91.0,5.0,0.0,4b,0.0,0.0,irregular,circumscribed,parallel,1.0,hcrp,,retrospective
+38.0,29.0,1.0,4b,1.0,0.78,oval,circumscribed,parallel,0.0,hcrp,,retrospective
+84.0,14.0,1.0,5,0.0,0.0,irregular,spiculated,not parallel,1.0,hcrp,,retrospective
+42.0,24.0,1.0,6,0.0,0.0,irregular,angular,not parallel,1.0,hcrp,2022-01-05T00:00:00.000Z,prospective
+51.0,14.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2022-01-31T00:00:00.000Z,prospective
+52.0,19.0,1.0,5,1.0,0.76,irregular,spiculated,parallel,1.0,hcrp,2022-01-10T00:00:00.000Z,prospective
+92.0,23.0,1.0,4c,1.0,1.0,irregular,microlobulated,parallel,1.0,hcrp,2022-01-12T00:00:00.000Z,prospective
+40.0,6.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,2022-01-12T00:00:00.000Z,prospective
+65.0,25.0,1.0,5,1.0,0.8,irregular,spiculated,parallel,1.0,hcrp,2022-01-24T00:00:00.000Z,prospective
+66.0,17.0,1.0,4b,1.0,1.0,irregular,microlobulated,parallel,1.0,hcrp,2022-01-17T00:00:00.000Z,prospective
+36.0,6.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,2021-10-14T00:00:00.000Z,prospective
+63.0,5.0,0.0,4b,0.0,0.0,irregular,angular,not parallel,0.0,hcrp,2022-01-27T00:00:00.000Z,prospective
+59.0,19.0,1.0,6,1.0,0.77,irregular,spiculated,parallel,1.0,hcrp,2022-02-09T00:00:00.000Z,prospective
+35.0,9.0,0.0,4a,0.0,0.0,round,circumscribed,parallel,0.0,mater,2022-02-14T00:00:00.000Z,prospective
+56.0,18.0,1.0,4c,0.0,0.0,irregular,angular,parallel,1.0,mater,2022-02-14T00:00:00.000Z,prospective
+43.0,20.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2021-06-18T00:00:00.000Z,prospective
+58.0,12.0,0.0,4a,1.0,0.56,oval,circumscribed,parallel,0.0,mater,2021-06-18T00:00:00.000Z,prospective
+35.0,1.0,0.0,4b,1.0,0.57,irregular,circumscribed,not parallel,0.0,mater,2021-06-18T00:00:00.000Z,prospective
+56.0,13.0,1.0,4c,1.0,0.69,irregular,angular,not parallel,1.0,mater,2021-06-25T00:00:00.000Z,prospective
+44.0,10.0,0.0,4a,1.0,0.55,oval,circumscribed,parallel,0.0,mater,2021-07-23T00:00:00.000Z,prospective
+47.0,23.0,1.0,4b,1.0,0.54,irregular,angular,parallel,0.0,mater,2021-08-13T00:00:00.000Z,prospective
+46.0,12.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2021-08-13T00:00:00.000Z,prospective
+62.0,29.0,1.0,5,1.0,0.85,irregular,spiculated,not parallel,1.0,mater,2021-08-20T00:00:00.000Z,prospective
+59.0,8.0,0.0,4b,0.0,0.0,irregular,angular,not parallel,0.0,mater,2021-08-27T00:00:00.000Z,prospective
+39.0,15.0,1.0,4a,1.0,0.48,irregular,indistinct,parallel,0.0,mater,2021-08-13T00:00:00.000Z,prospective
+37.0,8.0,1.0,3,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2021-09-17T00:00:00.000Z,prospective
+42.0,19.0,1.0,4a,0.0,0.0,oval,microlobulated,parallel,0.0,mater,2021-09-24T00:00:00.000Z,prospective
+23.0,16.0,1.0,4b,0.0,0.0,irregular,indistinct,not parallel,0.0,mater,2021-10-01T00:00:00.000Z,prospective
+68.0,12.0,0.0,4a,0.0,0.0,oval,microlobulated,parallel,0.0,hcrp,2022-01-31T00:00:00.000Z,prospective
+60.0,22.0,1.0,5,1.0,0.76,irregular,angular,parallel,1.0,hcrp,2022-01-31T00:00:00.000Z,prospective
+45.0,8.0,0.0,4a,0.0,0.0,irregular,circumscribed,parallel,0.0,mater,2021-10-29T00:00:00.000Z,prospective
+66.0,17.0,1.0,4b,1.0,1.0,irregular,microlobulated,parallel,1.0,hcrp,2022-01-17T00:00:00.000Z,prospective
+54.0,7.0,0.0,4a,0.0,0.0,round,circumscribed,parallel,0.0,mater,2021-10-29T00:00:00.000Z,prospective
+66.0,5.0,0.0,4a,0.0,0.0,oval,indistinct,parallel,0.0,mater,2021-11-05T00:00:00.000Z,prospective
+44.0,14.0,1.0,4a,1.0,0.65,oval,indistinct,parallel,1.0,mater,2021-11-05T00:00:00.000Z,prospective
+69.0,24.0,1.0,5,1.0,1.0,irregular,spiculated,parallel,1.0,hcrp,2022-12-22T00:00:00.000Z,prospective
+52.0,20.0,1.0,4c,1.0,0.51,irregular,angular,parallel,1.0,mater,2021-01-05T00:00:00.000Z,prospective
+56.0,12.0,0.0,4b,0.0,0.0,irregular,angular,parallel,1.0,mater,2021-11-12T00:00:00.000Z,prospective
+51.0,5.0,0.0,4a,0.0,0.0,round,circumscribed,parallel,0.0,mater,2021-11-12T00:00:00.000Z,prospective
+19.0,14.0,1.0,4a,1.0,0.55,oval,indistinct,parallel,0.0,mater,2021-11-19T00:00:00.000Z,prospective
+34.0,13.0,1.0,4a,1.0,0.52,oval,microlobulated,parallel,0.0,mater,2021-11-26T00:00:00.000Z,prospective
+24.0,12.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2021-12-10T00:00:00.000Z,prospective
+53.0,11.0,0.0,4b,1.0,0.64,irregular,microlobulated,parallel,1.0,mater,2021-12-10T00:00:00.000Z,prospective
+20.0,16.0,1.0,4a,1.0,0.64,oval,circumscribed,parallel,0.0,mater,2021-12-17T00:00:00.000Z,prospective
+30.0,12.0,1.0,4c,1.0,0.65,irregular,microlobulated,not parallel,1.0,mater,2022-01-03T00:00:00.000Z,prospective
+44.0,8.0,0.0,4a,0.0,0.0,oval,indistinct,parallel,0.0,mater,2022-01-03T00:00:00.000Z,prospective
+20.0,24.0,1.0,4a,1.0,0.48,oval,microlobulated,parallel,0.0,mater,2022-01-03T00:00:00.000Z,prospective
+33.0,6.0,0.0,4a,0.0,0.0,round,circumscribed,parallel,0.0,mater,2022-01-04T00:00:00.000Z,prospective
+50.0,17.0,1.0,5,1.0,0.67,irregular,spiculated,not parallel,1.0,mater,2022-01-04T00:00:00.000Z,prospective
+24.0,13.0,0.0,4c,1.0,0.64,irregular,angular,parallel,1.0,mater,2022-01-04T00:00:00.000Z,prospective
+52.0,25.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2022-01-10T00:00:00.000Z,prospective
+41.0,18.0,1.0,4a,1.0,0.57,round,circumscribed,parallel,0.0,mater,2022-01-10T00:00:00.000Z,prospective
+50.0,21.0,1.0,4a,1.0,0.62,oval,microlobulated,parallel,0.0,mater,2022-01-10T00:00:00.000Z,prospective
+70.0,9.0,0.0,4a,0.0,0.0,irregular,circumscribed,parallel,0.0,mater,2022-01-11T00:00:00.000Z,prospective
+42.0,9.0,0.0,4a,0.0,0.0,round,circumscribed,parallel,0.0,mater,2022-01-17T00:00:00.000Z,prospective
+35.0,8.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2022-01-17T00:00:00.000Z,prospective
+49.0,10.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2022-01-18T00:00:00.000Z,prospective
+41.0,8.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2022-01-24T00:00:00.000Z,prospective
+57.0,6.0,0.0,4b,0.0,0.0,irregular,microlobulated,not parallel,0.0,mater,2022-01-24T00:00:00.000Z,prospective
+39.0,11.0,0.0,4a,0.0,0.0,oval,angular,parallel,0.0,mater,2022-01-25T00:00:00.000Z,prospective
+39.0,9.0,0.0,4a,0.0,0.0,irregular,circumscribed,parallel,0.0,mater,2022-01-25T00:00:00.000Z,prospective
+45.0,13.0,0.0,4a,0.0,0.0,oval,microlobulated,parallel,0.0,mater,2022-02-01T00:00:00.000Z,prospective
+58.0,19.0,0.0,4b,0.0,0.0,irregular,angular,parallel,0.0,mater,2022-02-01T00:00:00.000Z,prospective
+42.0,9.0,0.0,4a,0.0,0.0,oval,indistinct,parallel,0.0,mater,2022-02-08T00:00:00.000Z,prospective
+35.0,15.0,0.0,4a,0.0,0.0,oval,circumscribed,not parallel,0.0,mater,2022-02-08T00:00:00.000Z,prospective
+44.0,9.0,0.0,4a,0.0,0.0,oval,indistinct,parallel,0.0,mater,2022-02-15T00:00:00.000Z,prospective
+73.0,16.0,0.0,4c,1.0,0.74,oval,angular,parallel,1.0,hcrp,2022-02-14T00:00:00.000Z,prospective
+52.0,12.0,1.0,5,1.0,1.0,irregular,indistinct,parallel,1.0,hcrp,2022-02-14T00:00:00.000Z,prospective
+49.0,20.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,2022-02-23T00:00:00.000Z,prospective
+50.0,8.0,0.0,4b,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,2022-02-03T00:00:00.000Z,prospective
+53.0,24.0,1.0,4a,1.0,0.73,oval,circumscribed,parallel,0.0,mater,2022-03-14T00:00:00.000Z,prospective
+48.0,7.0,0.0,4a,0.0,0.0,oval,indistinct,parallel,0.0,hcrp,2021-06-14T00:00:00.000Z,prospective
+68.0,10.0,0.0,4b,1.0,0.75,oval,indistinct,parallel,1.0,hcrp,2021-10-20T00:00:00.000Z,prospective
+71.0,6.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,2021-06-14T00:00:00.000Z,prospective
+54.0,9.0,0.0,3,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,2021-12-01T00:00:00.000Z,prospective
+93.0,15.0,1.0,5,1.0,0.87,irregular,spiculated,not parallel,1.0,hcrp,2021-10-18T00:00:00.000Z,prospective
+65.0,9.0,,4a,0.0,0.0,irregular,indistinct,parallel,0.0,hcrp,2021-12-20T00:00:00.000Z,prospective
+48.0,17.0,1.0,4b,1.0,0.75,irregular,indistinct,not parallel,1.0,hcrp,2021-08-23T00:00:00.000Z,prospective
+75.0,12.0,,4c,1.0,0.79,irregular,indistinct,not parallel,1.0,hcrp,2021-07-19T00:00:00.000Z,prospective
+75.0,5.0,0.0,4c,0.0,0.0,irregular,indistinct,parallel,1.0,hcrp,2021-07-19T00:00:00.000Z,prospective
+62.0,24.0,1.0,5,1.0,0.73,irregular,spiculated,parallel,1.0,hcrp,2021-10-25T00:00:00.000Z,prospective
+50.0,7.0,0.0,3,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,2021-11-17T00:00:00.000Z,prospective
+58.0,4.0,0.0,4b,0.0,0.0,irregular,microlobulated,not parallel,0.0,hcrp,2021-10-18T00:00:00.000Z,prospective
+62.0,10.0,0.0,4a,1.0,0.6,oval,circumscribed,parallel,0.0,hcrp,2021-10-18T00:00:00.000Z,prospective
+47.0,16.0,1.0,4c,1.0,0.59,irregular,angular,not parallel,1.0,hcrp,2021-06-28T00:00:00.000Z,prospective
+47.0,5.4,1.0,4a,0.0,0.0,irregular,indistinct,parallel,0.0,hcrp,2021-08-04T00:00:00.000Z,prospective
+42.0,6.0,0.0,3,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,2021-11-03T00:00:00.000Z,prospective
+60.0,13.0,0.0,4a,0.0,0.0,irregular,microlobulated,parallel,0.0,hcrp,2021-07-12T00:00:00.000Z,prospective
+58.0,19.0,1.0,5,1.0,1.0,irregular,spiculated,not parallel,1.0,hcrp,2021-09-22T00:00:00.000Z,prospective
+61.0,24.0,1.0,5,1.0,0.79,irregular,angular,not parallel,1.0,hcrp,2021-06-16T00:00:00.000Z,prospective
+56.0,28.0,1.0,6,1.0,0.85,irregular,microlobulated,parallel,1.0,hcrp,2021-11-08T00:00:00.000Z,prospective
+50.0,25.0,1.0,5,1.0,0.5,irregular,spiculated,not parallel,1.0,hcrp,2021-06-09T00:00:00.000Z,prospective
+59.0,21.0,1.0,6,1.0,0.74,irregular,microlobulated,parallel,1.0,hcrp,2021-10-27T00:00:00.000Z,prospective
+65.0,7.0,0.0,4b,1.0,1.0,irregular,indistinct,not parallel,1.0,hcrp,2021-06-17T00:00:00.000Z,prospective
+52.0,2.0,1.0,5,1.0,0.85,irregular,spiculated,parallel,1.0,hcrp,2021-11-08T00:00:00.000Z,prospective
+56.0,26.0,1.0,4c,1.0,0.64,irregular,indistinct,not parallel,1.0,hcrp,2021-06-16T00:00:00.000Z,prospective
+48.0,25.0,1.0,5,1.0,0.86,irregular,spiculated,parallel,1.0,hcrp,2021-12-15T00:00:00.000Z,prospective
+28.0,18.0,1.0,6,0.0,0.0,irregular,angular,not parallel,1.0,hcrp,2021-12-01T00:00:00.000Z,prospective
+79.0,25.0,1.0,4c,1.0,1.0,irregular,microlobulated,parallel,1.0,hcrp,2021-07-12T00:00:00.000Z,prospective
+64.0,9.0,0.0,4a,1.0,0.7,oval,circumscribed,parallel,1.0,hcrp,2021-09-15T00:00:00.000Z,prospective
+26.0,21.0,1.0,4c,1.0,0.81,irregular,microlobulated,not parallel,1.0,hcrp,2021-12-06T00:00:00.000Z,prospective
+45.0,21.0,1.0,6,1.0,1.0,irregular,microlobulated,not parallel,1.0,hcrp,2021-12-01T00:00:00.000Z,prospective
+47.0,27.0,1.0,4c,1.0,0.6,irregular,microlobulated,parallel,1.0,hcrp,2021-10-07T00:00:00.000Z,prospective
+47.0,12.0,1.0,4b,1.0,0.71,irregular,microlobulated,parallel,1.0,hcrp,2021-09-22T00:00:00.000Z,prospective
+64.0,16.0,1.0,4c,1.0,1.0,irregular,microlobulated,parallel,1.0,hcrp,2021-09-15T00:00:00.000Z,prospective
+63.0,20.0,1.0,5,1.0,0.75,irregular,spiculated,parallel,1.0,hcrp,2021-09-01T00:00:00.000Z,prospective
+37.0,4.0,0.0,4a,1.0,0.64,irregular,indistinct,not parallel,0.0,hcrp,2021-06-09T00:00:00.000Z,prospective
+46.0,9.0,,4a,1.0,0.64,irregular,indistinct,parallel,0.0,hcrp,2021-12-20T00:00:00.000Z,prospective
+46.0,7.0,,4a,0.0,0.0,irregular,indistinct,parallel,0.0,hcrp,2021-12-20T00:00:00.000Z,prospective
+47.0,7.0,1.0,4b,0.0,0.0,irregular,indistinct,parallel,0.0,hcrp,2021-06-30T00:00:00.000Z,prospective
+47.0,5.0,0.0,4a,1.0,0.74,irregular,angular,not parallel,0.0,hcrp,2021-07-08T00:00:00.000Z,prospective
+40.0,17.0,0.0,4a,1.0,0.53,oval,indistinct,parallel,0.0,hcrp,2021-08-11T00:00:00.000Z,prospective
+47.0,21.0,1.0,4b,1.0,0.59,oval,indistinct,parallel,0.0,hcrp,2021-12-06T00:00:00.000Z,prospective
+61.0,4.0,0.0,4a,0.0,0.0,irregular,circumscribed,parallel,0.0,hcrp,2021-12-01T00:00:00.000Z,prospective
+53.0,15.0,1.0,4a,1.0,0.6,oval,circumscribed,parallel,0.0,hcrp,2021-06-02T00:00:00.000Z,prospective
+56.0,27.0,1.0,4b,1.0,0.73,oval,circumscribed,parallel,0.0,hcrp,2021-11-25T00:00:00.000Z,prospective
+47.0,17.0,0.0,3,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,2021-10-07T00:00:00.000Z,prospective
+42.0,7.0,0.0,3,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,2021-11-11T00:00:00.000Z,prospective
+65.0,12.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,2021-08-16T00:00:00.000Z,prospective
+50.0,7.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,2021-08-04T00:00:00.000Z,prospective
+56.0,29.0,1.0,6,1.0,0.71,irregular,spiculated,parallel,1.0,hcrp,2021-07-07T00:00:00.000Z,prospective
+28.0,7.0,0.0,3,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,2021-12-01T00:00:00.000Z,prospective
+75.0,9.0,0.0,4b,1.0,0.68,round,microlobulated,not parallel,0.0,hcrp,2021-08-30T00:00:00.000Z,prospective
+41.0,18.0,1.0,3,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,2021-09-24T00:00:00.000Z,prospective
+44.0,11.0,0.0,4b,1.0,0.51,irregular,microlobulated,parallel,0.0,hcrp,2021-11-10T00:00:00.000Z,prospective
+53.0,18.0,0.0,4a,0.0,0.0,irregular,microlobulated,parallel,0.0,hcrp,2021-11-08T00:00:00.000Z,prospective
+44.0,9.0,0.0,4a,1.0,0.52,oval,microlobulated,parallel,0.0,hcrp,2021-11-10T00:00:00.000Z,prospective
+45.0,8.0,0.0,4a,1.0,0.74,oval,circumscribed,parallel,0.0,hcrp,2021-08-05T00:00:00.000Z,prospective
+64.0,16.0,1.0,6,1.0,0.91,irregular,angular,not parallel,1.0,hcrp,2021-08-30T00:00:00.000Z,prospective
+68.0,22.0,1.0,6,1.0,1.0,irregular,spiculated,parallel,1.0,hcrp,2021-06-28T00:00:00.000Z,prospective
+53.0,28.0,1.0,6,1.0,1.0,irregular,spiculated,parallel,1.0,hcrp,2021-08-09T00:00:00.000Z,prospective
+42.0,7.0,0.0,4a,0.0,0.0,round,circumscribed,not parallel,0.0,hcrp,2021-12-09T00:00:00.000Z,prospective
+40.0,5.5,0.0,4a,0.0,0.0,irregular,angular,not parallel,0.0,hcrp,2021-09-29T00:00:00.000Z,prospective
+46.0,9.0,1.0,4b,0.0,0.0,irregular,indistinct,not parallel,0.0,hcrp,2021-07-28T00:00:00.000Z,prospective
+37.0,26.0,1.0,5,1.0,0.43,irregular,spiculated,not parallel,1.0,hcrp,2021-12-20T00:00:00.000Z,prospective
+38.0,14.0,0.0,4b,1.0,0.58,irregular,spiculated,not parallel,0.0,hcrp,2021-11-17T00:00:00.000Z,prospective
+34.0,12.0,1.0,4b,1.0,0.64,irregular,indistinct,parallel,0.0,hcrp,2021-10-28T00:00:00.000Z,prospective
+61.0,9.0,0.0,4b,0.0,0.0,irregular,indistinct,not parallel,0.0,hcrp,2021-11-25T00:00:00.000Z,prospective
+44.0,12.0,1.0,4c,1.0,0.57,irregular,angular,parallel,1.0,hcrp,2021-11-24T00:00:00.000Z,prospective
+68.0,24.0,1.0,5,1.0,1.0,irregular,spiculated,parallel,1.0,hcrp,2021-12-22T00:00:00.000Z,prospective
+35.0,13.0,0.0,3,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,2021-07-15T00:00:00.000Z,prospective
+73.0,22.0,1.0,6,1.0,0.8,irregular,angular,not parallel,1.0,hcrp,2021-09-15T00:00:00.000Z,prospective
+52.0,5.0,0.0,4,0.0,0.0,irregular,indistinct,parallel,1.0,hcrp,2021-08-30T00:00:00.000Z,prospective
+36.0,12.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,2021-06-07T00:00:00.000Z,prospective
+60.0,12.0,0.0,4b,0.0,0.0,oval,microlobulated,parallel,0.0,mater,2022-03-21T00:00:00.000Z,prospective
+46.0,20.0,0.0,4a,0.0,0.0,oval,microlobulated,parallel,0.0,mater,2022-02-22T00:00:00.000Z,prospective
+43.0,24.0,1.0,5,1.0,0.74,irregular,spiculated,parallel,1.0,mater,2022-02-22T00:00:00.000Z,prospective
+25.0,17.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2022-03-08T00:00:00.000Z,prospective
+64.0,9.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2022-03-08T00:00:00.000Z,prospective
+54.0,23.0,1.0,5,1.0,0.63,irregular,spiculated,parallel,1.0,mater,2022-03-08T00:00:00.000Z,prospective
+23.0,12.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2022-03-08T00:00:00.000Z,prospective
+41.0,14.0,0.0,4a,1.0,0.52,oval,microlobulated,parallel,0.0,mater,2022-03-15T00:00:00.000Z,prospective
+61.0,13.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2022-03-22T00:00:00.000Z,prospective
+56.0,12.0,0.0,6,1.0,0.68,irregular,spiculated,parallel,1.0,hcrp,2022-03-28T00:00:00.000Z,prospective
+46.0,18.0,1.0,6,1.0,0.77,irregular,indistinct,parallel,1.0,hcrp,2022-02-14T00:00:00.000Z,prospective
+41.0,22.0,1.0,5,1.0,1.0,irregular,spiculated,parallel,1.0,hcrp,2022-02-21T00:00:00.000Z,prospective
+37.0,11.0,0.0,4a,1.0,0.69,oval,microlobulated,parallel,0.0,hcrp,2022-02-21T00:00:00.000Z,prospective
+54.0,9.0,0.0,4c,1.0,0.75,irregular,indistinct,parallel,1.0,hcrp,2022-03-04T00:00:00.000Z,prospective
+42.0,6.0,0.0,4a,1.0,0.5,oval,indistinct,parallel,0.0,hcrp,2022-02-24T00:00:00.000Z,prospective
+64.0,15.0,0.0,4b,1.0,0.9,irregular,microlobulated,parallel,1.0,ha-cg,2022-02-08T00:00:00.000Z,prospective
+47.0,14.0,0.0,4a,1.0,0.68,oval,microlobulated,parallel,0.0,mater,2022-04-04T00:00:00.000Z,prospective
+48.0,15.0,1.0,4a,0.0,0.0,round,circumscribed,parallel,0.0,mater,2022-04-04T00:00:00.000Z,prospective
+21.0,14.0,1.0,4a,1.0,0.48,oval,circumscribed,parallel,0.0,mater,2022-04-04T00:00:00.000Z,prospective
+20.0,24.0,1.0,4a,1.0,0.58,oval,circumscribed,parallel,0.0,mater,2022-04-04T00:00:00.000Z,prospective
+43.0,15.0,1.0,4a,0.0,0.0,irregular,microlobulated,parallel,0.0,ha-cg,2022-01-10T00:00:00.000Z,prospective
+42.0,22.0,1.0,4a,1.0,0.79,oval,circumscribed,parallel,0.0,mater,2022-04-11T00:00:00.000Z,prospective
+24.0,11.0,0.0,2,0.0,0.0,irregular,circumscribed,parallel,0.0,mater,2022-03-28T00:00:00.000Z,prospective
+44.0,22.0,0.0,4a,1.0,0.67,oval,microlobulated,parallel,0.0,mater,2022-03-28T00:00:00.000Z,prospective
+36.0,15.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2022-03-29T00:00:00.000Z,prospective
+34.0,27.0,1.0,4a,1.0,0.52,oval,circumscribed,parallel,0.0,mater,2022-04-12T00:00:00.000Z,prospective
+37.0,27.0,0.0,4b,1.0,0.68,irregular,microlobulated,parallel,0.0,mater,2022-04-12T00:00:00.000Z,prospective
+67.0,21.0,1.0,4b,1.0,0.81,irregular,indistinct,parallel,1.0,mater,2022-04-18T00:00:00.000Z,prospective
+51.0,27.0,1.0,4a,1.0,0.61,oval,microlobulated,parallel,0.0,mater,2022-04-19T00:00:00.000Z,prospective
+58.0,13.0,0.0,4b,0.0,0.0,irregular,microlobulated,parallel,0.0,mater,2022-04-19T00:00:00.000Z,prospective
+42.0,26.0,1.0,4a,1.0,0.69,oval,circumscribed,parallel,0.0,ha-cg,2021-12-13T00:00:00.000Z,prospective
+75.0,25.0,1.0,5,1.0,0.78,irregular,spiculated,not parallel,1.0,mater,2022-04-25T00:00:00.000Z,prospective
+46.0,10.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2022-04-25T00:00:00.000Z,prospective
+38.0,13.0,0.0,4a,1.0,0.49,oval,microlobulated,parallel,0.0,mater,2022-04-26T00:00:00.000Z,prospective
+44.0,28.0,1.0,4b,1.0,0.64,oval,circumscribed,parallel,0.0,hcrp,2022-02-21T00:00:00.000Z,prospective
+56.0,17.0,1.0,5,0.0,0.0,irregular,spiculated,parallel,1.0,hcrp,2022-03-30T00:00:00.000Z,prospective
+28.0,27.0,1.0,4a,1.0,0.6,oval,microlobulated,parallel,0.0,hcrp,2022-03-07T00:00:00.000Z,prospective
+57.0,5.0,0.0,4b,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,2022-03-07T00:00:00.000Z,prospective
+75.0,17.0,1.0,5,1.0,0.75,irregular,spiculated,parallel,1.0,hcrp,2022-03-09T00:00:00.000Z,prospective
+69.0,9.0,0.0,3,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,2022-03-14T00:00:00.000Z,prospective
+24.0,28.0,1.0,6,1.0,0.66,irregular,angular,parallel,1.0,hcrp,2022-03-16T00:00:00.000Z,prospective
+76.0,11.0,0.0,5,1.0,0.76,irregular,angular,parallel,1.0,hcrp,2022-03-21T00:00:00.000Z,prospective
+57.0,11.0,0.0,4a,0.0,0.0,oval,indistinct,parallel,0.0,hcrp,2022-03-21T00:00:00.000Z,prospective
+39.0,24.0,1.0,6,1.0,0.7,irregular,angular,not parallel,1.0,hcrp,2022-03-23T00:00:00.000Z,prospective
+42.0,12.0,0.0,4c,1.0,0.74,irregular,angular,parallel,1.0,hcrp,2022-03-28T00:00:00.000Z,prospective
+42.0,21.0,1.0,6,1.0,1.0,irregular,microlobulated,parallel,1.0,hcrp,2022-04-06T00:00:00.000Z,prospective
+62.0,13.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2022-05-02T00:00:00.000Z,prospective
+30.0,30.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,ha-cg,2022-04-19T00:00:00.000Z,prospective
+41.0,9.0,0.0,4a,0.0,0.0,round,microlobulated,parallel,0.0,ha-cg,2022-04-05T00:00:00.000Z,prospective
+69.0,11.0,0.0,4c,0.0,0.0,irregular,microlobulated,not parallel,1.0,ha-cg,2022-04-05T00:00:00.000Z,prospective
+58.0,14.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2022-05-09T00:00:00.000Z,prospective
+65.0,23.0,1.0,5,0.0,0.0,irregular,angular,not parallel,1.0,ha-cg,2022-04-12T00:00:00.000Z,prospective
+46.0,12.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2022-05-09T00:00:00.000Z,prospective
+24.0,13.0,0.0,4b,1.0,0.73,round,microlobulated,not parallel,1.0,hcrp,2022-03-16T00:00:00.000Z,prospective
+35.0,19.0,1.0,3,0.0,0.0,oval,microlobulated,parallel,0.0,hcrp,2022-03-04T00:00:00.000Z,prospective
+41.0,16.0,1.0,4a,1.0,0.71,oval,circumscribed,parallel,0.0,ha-cg,2022-04-01T00:00:00.000Z,prospective
+65.0,24.0,0.0,4a,1.0,0.63,oval,circumscribed,parallel,0.0,mater,2022-04-26T00:00:00.000Z,prospective
+45.0,28.0,1.0,4b,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2022-05-03T00:00:00.000Z,prospective
+72.0,9.0,0.0,4a,0.0,0.0,oval,microlobulated,parallel,0.0,mater,2022-05-03T00:00:00.000Z,prospective
+34.0,7.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2022-05-10T00:00:00.000Z,prospective
+40.0,18.0,0.0,4a,0.0,0.0,oval,microlobulated,parallel,0.0,mater,2022-05-10T00:00:00.000Z,prospective
+52.0,13.0,1.0,4a,0.0,0.0,oval,microlobulated,parallel,0.0,mater,2022-05-16T00:00:00.000Z,prospective
+52.0,23.0,0.0,5,1.0,0.81,irregular,spiculated,parallel,1.0,ha-cg,2022-04-25T00:00:00.000Z,prospective
+51.0,24.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2022-05-17T00:00:00.000Z,prospective
+38.0,23.0,1.0,4b,1.0,0.65,irregular,microlobulated,parallel,1.0,mater,2022-05-17T00:00:00.000Z,prospective
+39.0,22.0,0.0,4a,1.0,0.45,oval,indistinct,parallel,0.0,mater,2022-05-17T00:00:00.000Z,prospective
+52.0,17.0,0.0,4b,1.0,0.66,oval,microlobulated,parallel,0.0,mater,2022-05-24T00:00:00.000Z,prospective
+54.0,12.0,0.0,4c,1.0,0.74,irregular,angular,not parallel,1.0,hcrp,2022-04-13T00:00:00.000Z,prospective
+78.0,15.0,0.0,4a,0.0,0.0,irregular,angular,parallel,0.0,hcrp,2022-04-13T00:00:00.000Z,prospective
+59.0,15.0,1.0,5,1.0,0.4,irregular,angular,parallel,1.0,hcrp,2022-04-20T00:00:00.000Z,prospective
+66.0,25.0,0.0,4a,1.0,0.63,irregular,microlobulated,parallel,1.0,hcrp,2022-03-28T00:00:00.000Z,prospective
+57.0,18.0,1.0,5,1.0,0.58,irregular,spiculated,not parallel,1.0,hcrp,2022-04-04T00:00:00.000Z,prospective
+70.0,6.0,0.0,4c,0.0,0.0,irregular,angular,parallel,1.0,hcrp,2022-04-20T00:00:00.000Z,prospective
+41.0,25.0,1.0,5,1.0,0.73,irregular,spiculated,parallel,1.0,hcrp,2022-04-25T00:00:00.000Z,prospective
+49.0,12.0,1.0,6,1.0,1.0,irregular,angular,not parallel,1.0,hcrp,2022-04-27T00:00:00.000Z,prospective
+61.0,25.0,1.0,6,1.0,1.0,irregular,microlobulated,parallel,1.0,hcrp,2022-05-09T00:00:00.000Z,prospective
+47.0,26.0,1.0,4c,1.0,0.65,irregular,indistinct,parallel,1.0,hcrp,2022-04-18T00:00:00.000Z,prospective
+68.0,8.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,2022-04-06T00:00:00.000Z,prospective
+55.0,25.0,1.0,5,1.0,0.6,irregular,spiculated,parallel,1.0,hcrp,2022-04-11T00:00:00.000Z,prospective
+83.0,18.0,1.0,4c,1.0,0.86,irregular,angular,parallel,1.0,hcrp,2022-04-11T00:00:00.000Z,prospective
+48.0,14.0,0.0,5,1.0,0.8,irregular,spiculated,parallel,1.0,hcrp,2022-04-20T00:00:00.000Z,prospective
+57.0,20.0,1.0,4b,1.0,0.71,irregular,angular,parallel,1.0,hcrp,2022-04-25T00:00:00.000Z,prospective
+54.0,10.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,2022-04-27T00:00:00.000Z,prospective
+34.0,19.0,0.0,4a,0.0,0.0,oval,indistinct,parallel,0.0,hcrp,2022-04-27T00:00:00.000Z,prospective
+55.0,10.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2022-06-06T00:00:00.000Z,prospective
+43.0,26.0,0.0,5,1.0,0.66,irregular,spiculated,not parallel,1.0,mater,2022-06-06T00:00:00.000Z,prospective
+44.0,30.0,1.0,4c,1.0,0.81,irregular,indistinct,parallel,1.0,mater,2022-06-06T00:00:00.000Z,prospective
+55.0,9.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,2022-04-29T00:00:00.000Z,prospective
+69.0,25.0,1.0,4c,1.0,0.87,irregular,microlobulated,not parallel,1.0,hcrp,2022-05-02T00:00:00.000Z,prospective
+51.0,16.0,1.0,5,1.0,1.0,irregular,spiculated,parallel,1.0,hcrp,2022-05-02T00:00:00.000Z,prospective
+41.0,13.0,0.0,4a,0.0,0.0,oval,microlobulated,parallel,0.0,hcrp,2022-05-09T00:00:00.000Z,prospective
+56.0,12.0,1.0,5,1.0,0.87,irregular,microlobulated,not parallel,1.0,ha-cg,2022-05-10T00:00:00.000Z,prospective
+48.0,15.0,0.0,4a,1.0,0.68,round,circumscribed,parallel,0.0,mater,2022-06-22T00:00:00.000Z,prospective
+21.0,21.0,1.0,4a,0.0,0.0,oval,microlobulated,parallel,0.0,mater,2022-06-29T00:00:00.000Z,prospective
+44.0,11.0,1.0,4a,0.0,0.0,oval,indistinct,parallel,0.0,ha-cg,2022-05-17T00:00:00.000Z,prospective
+52.0,30.0,1.0,5,1.0,0.78,irregular,spiculated,parallel,1.0,mater,2022-07-06T00:00:00.000Z,prospective
+50.0,25.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,ha-cg,2022-05-24T00:00:00.000Z,prospective
+40.0,26.0,1.0,4a,1.0,0.49,oval,circumscribed,parallel,0.0,ha-cg,2022-05-31T00:00:00.000Z,prospective
+48.0,9.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2022-06-27T00:00:00.000Z,prospective
+43.0,8.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2022-06-27T00:00:00.000Z,prospective
+21.0,13.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2022-07-04T00:00:00.000Z,prospective
+71.0,23.0,1.0,4c,1.0,0.64,irregular,angular,parallel,1.0,mater,2022-07-04T00:00:00.000Z,prospective
+32.0,22.0,1.0,4a,1.0,0.52,oval,circumscribed,parallel,0.0,mater,2022-05-31T00:00:00.000Z,prospective
+68.0,12.0,0.0,4a,0.0,0.0,oval,microlobulated,parallel,0.0,mater,2022-05-31T00:00:00.000Z,prospective
+46.0,17.0,0.0,4a,1.0,0.77,oval,microlobulated,parallel,0.0,mater,2022-05-31T00:00:00.000Z,prospective
+65.0,5.0,0.0,4a,0.0,0.0,round,circumscribed,parallel,0.0,mater,2022-06-27T00:00:00.000Z,prospective
+30.0,26.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2022-07-20T00:00:00.000Z,prospective
+34.0,12.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2022-07-20T00:00:00.000Z,prospective
+46.0,16.0,1.0,5,1.0,1.0,irregular,spiculated,not parallel,1.0,hcrp,2022-05-09T00:00:00.000Z,prospective
+59.0,13.0,1.0,5,1.0,0.77,irregular,spiculated,parallel,1.0,hcrp,2022-05-16T00:00:00.000Z,prospective
+73.0,25.0,1.0,4c,1.0,1.0,irregular,angular,not parallel,1.0,hcrp,2022-05-18T00:00:00.000Z,prospective
+47.0,18.0,1.0,5,1.0,0.72,irregular,spiculated,parallel,1.0,hcrp,2022-05-18T00:00:00.000Z,prospective
+32.0,13.0,0.0,4a,0.0,0.0,irregular,indistinct,parallel,0.0,hcrp,2022-05-23T00:00:00.000Z,prospective
+61.0,28.0,1.0,5,1.0,1.0,irregular,spiculated,not parallel,1.0,hcrp,2022-05-25T00:00:00.000Z,prospective
+80.0,15.0,1.0,4b,1.0,0.74,irregular,indistinct,parallel,0.0,hcrp,2022-05-25T00:00:00.000Z,prospective
+65.0,29.0,1.0,5,1.0,1.0,irregular,microlobulated,not parallel,1.0,hcrp,2022-05-30T00:00:00.000Z,prospective
+66.0,5.0,0.0,4a,0.0,0.0,irregular,indistinct,parallel,0.0,hcrp,2022-06-06T00:00:00.000Z,prospective
+33.0,27.0,1.0,4a,1.0,0.57,oval,circumscribed,parallel,1.0,hcrp,2022-05-30T00:00:00.000Z,prospective
+40.0,8.0,0.0,4a,1.0,0.47,oval,circumscribed,parallel,0.0,hcrp,2022-05-12T00:00:00.000Z,prospective
+68.0,11.0,1.0,4c,1.0,1.0,round,indistinct,not parallel,1.0,hcrp,2022-05-09T00:00:00.000Z,prospective
+57.0,4.0,0.0,4a,0.0,0.0,irregular,indistinct,not parallel,0.0,hcrp,2022-05-06T00:00:00.000Z,prospective
+41.0,6.0,0.0,4a,0.0,0.0,round,indistinct,not parallel,0.0,hcrp,2022-04-14T00:00:00.000Z,prospective
+46.0,11.0,1.0,4c,0.0,0.0,irregular,angular,parallel,0.0,hcrp,2022-06-01T00:00:00.000Z,prospective
+57.0,28.0,1.0,5,1.0,0.87,irregular,spiculated,not parallel,1.0,hcrp,2022-06-08T00:00:00.000Z,prospective
+85.0,25.0,1.0,5,1.0,0.85,irregular,microlobulated,not parallel,1.0,hcrp,2022-06-13T00:00:00.000Z,prospective
+67.0,4.0,0.0,4a,0.0,0.0,irregular,angular,not parallel,0.0,hcrp,2022-06-13T00:00:00.000Z,prospective
+34.0,19.0,1.0,4a,0.0,0.0,irregular,indistinct,parallel,0.0,hcrp,2022-06-15T00:00:00.000Z,prospective
+54.0,12.0,1.0,6,1.0,0.63,irregular,spiculated,not parallel,1.0,hcrp,2022-06-20T00:00:00.000Z,prospective
+59.0,7.0,0.0,4b,0.0,0.0,irregular,indistinct,not parallel,0.0,hcrp,2022-06-22T00:00:00.000Z,prospective
+59.0,27.0,1.0,5,1.0,0.83,irregular,angular,not parallel,1.0,hcrp,2022-06-22T00:00:00.000Z,prospective
+68.0,29.0,1.0,4c,1.0,1.0,irregular,angular,parallel,1.0,hcrp,2022-06-29T00:00:00.000Z,prospective
+63.0,5.0,0.0,4a,0.0,0.0,oval,microlobulated,parallel,0.0,hcrp,2022-06-29T00:00:00.000Z,prospective
+56.0,9.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,2022-06-23T00:00:00.000Z,prospective
+58.0,12.0,1.0,5,1.0,0.73,irregular,spiculated,not parallel,1.0,hcrp,2022-06-23T00:00:00.000Z,prospective
+30.0,25.0,1.0,4b,1.0,0.67,oval,microlobulated,parallel,0.0,mater,2022-07-27T00:00:00.000Z,prospective
+77.0,15.0,1.0,5,0.0,0.0,irregular,microlobulated,not parallel,0.0,ha-cg,2022-06-28T00:00:00.000Z,prospective
+40.0,17.0,0.0,4a,0.0,0.0,irregular,circumscribed,parallel,0.0,ha-cg,2022-06-07T00:00:00.000Z,prospective
+46.0,23.0,1.0,4a,0.0,0.0,irregular,indistinct,parallel,0.0,ha-cg,2022-06-23T00:00:00.000Z,prospective
+75.0,13.0,1.0,6,1.0,0.8,irregular,angular,parallel,1.0,hcrp,2022-08-01T00:00:00.000Z,prospective
+47.0,7.0,0.0,5,1.0,0.85,irregular,spiculated,not parallel,1.0,ha-cg,2022-07-05T00:00:00.000Z,prospective
+43.0,29.0,0.0,4a,0.0,0.0,oval,indistinct,parallel,0.0,ha-cg,2022-06-20T00:00:00.000Z,prospective
+30.0,14.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2022-07-04T00:00:00.000Z,prospective
+60.0,9.0,0.0,4a,0.0,0.0,round,circumscribed,parallel,0.0,mater,2022-07-11T00:00:00.000Z,prospective
+70.0,16.0,0.0,4b,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2022-07-11T00:00:00.000Z,prospective
+56.0,9.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2022-07-18T00:00:00.000Z,prospective
+62.0,16.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2022-07-18T00:00:00.000Z,prospective
+66.0,16.0,1.0,5,1.0,0.0,irregular,spiculated,not parallel,1.0,mater,2022-07-18T00:00:00.000Z,prospective
+62.0,10.0,0.0,4c,0.0,0.0,irregular,circumscribed,not parallel,1.0,mater,2022-07-25T00:00:00.000Z,prospective
+61.0,25.0,1.0,4c,0.0,0.0,irregular,microlobulated,parallel,1.0,mater,2022-07-25T00:00:00.000Z,prospective
+20.0,29.0,1.0,4a,1.0,0.44,oval,circumscribed,parallel,0.0,mater,2022-08-01T00:00:00.000Z,prospective
+28.0,12.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2022-08-01T00:00:00.000Z,prospective
+44.0,6.0,0.0,4a,1.0,0.47,round,circumscribed,parallel,0.0,mater,2022-08-01T00:00:00.000Z,prospective
+21.0,16.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2022-08-08T00:00:00.000Z,prospective
+64.0,15.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2022-08-15T00:00:00.000Z,prospective
+66.0,24.0,1.0,4c,1.0,1.0,irregular,microlobulated,parallel,1.0,hcrp,2022-07-14T00:00:00.000Z,prospective
+37.0,19.0,0.0,4a,0.0,0.0,irregular,angular,parallel,0.0,hcrp,2022-07-19T00:00:00.000Z,prospective
+51.0,29.0,1.0,4c,1.0,0.72,irregular,spiculated,parallel,1.0,hcrp,2022-07-04T00:00:00.000Z,prospective
+21.0,20.0,1.0,4b,1.0,0.7,oval,circumscribed,parallel,0.0,hcrp,2022-07-04T00:00:00.000Z,prospective
+25.0,28.0,1.0,4a,1.0,0.81,irregular,microlobulated,parallel,0.0,hcrp,2022-07-04T00:00:00.000Z,prospective
+54.0,9.0,1.0,3,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,2022-07-07T00:00:00.000Z,prospective
+89.0,25.0,1.0,4c,1.0,0.84,irregular,microlobulated,not parallel,1.0,hcrp,2022-07-11T00:00:00.000Z,prospective
+58.0,12.0,0.0,4c,0.0,0.0,irregular,angular,not parallel,1.0,hcrp,2022-07-13T00:00:00.000Z,prospective
+59.0,14.0,0.0,4a,0.0,0.0,irregular,angular,parallel,0.0,hcrp,2022-07-18T00:00:00.000Z,prospective
+33.0,12.0,1.0,6,0.0,0.0,irregular,indistinct,parallel,1.0,hcrp,2022-07-18T00:00:00.000Z,prospective
+60.0,6.0,0.0,4a,0.0,0.0,round,angular,not parallel,0.0,hcrp,2022-07-21T00:00:00.000Z,prospective
+66.0,8.0,0.0,3,0.0,0.0,oval,microlobulated,parallel,0.0,hcrp,2022-07-25T00:00:00.000Z,prospective
+65.0,27.0,1.0,6,1.0,0.82,irregular,angular,parallel,1.0,hcrp,2022-07-25T00:00:00.000Z,prospective
+65.0,8.0,0.0,3,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,2022-07-27T00:00:00.000Z,prospective
+64.0,10.0,1.0,4c,1.0,0.79,irregular,angular,not parallel,1.0,hcrp,2022-07-27T00:00:00.000Z,prospective
+64.0,30.0,1.0,4c,1.0,0.8,irregular,angular,parallel,1.0,hcrp,2022-07-27T00:00:00.000Z,prospective
+37.0,30.0,1.0,4c,1.0,0.77,irregular,angular,parallel,1.0,hcrp,2022-07-27T00:00:00.000Z,prospective
+55.0,19.0,1.0,4c,1.0,0.67,irregular,spiculated,parallel,0.0,hcrp,2022-08-01T00:00:00.000Z,prospective
+84.0,19.0,1.0,4c,1.0,1.0,irregular,microlobulated,parallel,1.0,hcrp,2022-08-01T00:00:00.000Z,prospective
+33.0,18.0,0.0,4a,1.0,0.51,oval,circumscribed,parallel,0.0,hcrp,2022-08-01T00:00:00.000Z,prospective
+36.0,28.0,1.0,4a,0.0,0.0,oval,microlobulated,parallel,0.0,mater,2022-08-31T00:00:00.000Z,prospective
+43.0,13.0,0.0,4a,0.0,0.0,oval,angular,parallel,0.0,ha-cg,2022-07-28T00:00:00.000Z,prospective
+31.0,12.0,0.0,4b,0.0,0.0,oval,microlobulated,not parallel,0.0,mater,2022-08-29T00:00:00.000Z,prospective
+56.0,21.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2022-09-05T00:00:00.000Z,prospective
+49.0,12.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,ha-cg,2022-07-26T00:00:00.000Z,prospective
+34.0,15.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,ha-cg,2022-08-15T00:00:00.000Z,prospective
+41.0,23.0,1.0,4a,1.0,0.74,oval,circumscribed,parallel,0.0,ha-cg,2022-08-11T00:00:00.000Z,prospective
+65.0,7.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2022-09-14T00:00:00.000Z,prospective
+33.0,12.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2022-09-05T00:00:00.000Z,prospective
+56.0,18.0,0.0,4a,1.0,0.44,oval,circumscribed,parallel,0.0,mater,2022-09-12T00:00:00.000Z,prospective
+52.0,18.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2022-09-12T00:00:00.000Z,prospective
+29.0,6.0,0.0,4a,1.0,0.39,oval,circumscribed,parallel,0.0,hcrp,2022-08-08T00:00:00.000Z,prospective
+40.0,2.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,2022-07-14T00:00:00.000Z,prospective
+60.0,7.0,0.0,4b,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,2022-08-24T00:00:00.000Z,prospective
+33.0,15.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,2022-08-11T00:00:00.000Z,prospective
+48.0,15.0,0.0,6,0.0,0.0,irregular,angular,parallel,1.0,hcrp,2022-09-05T00:00:00.000Z,prospective
+43.0,16.0,0.0,3,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,2022-08-03T00:00:00.000Z,prospective
+56.0,16.0,0.0,4b,0.0,0.0,irregular,angular,parallel,0.0,hcrp,2022-08-03T00:00:00.000Z,prospective
+52.0,14.0,1.0,4c,1.0,1.0,irregular,spiculated,parallel,1.0,hcrp,2022-08-08T00:00:00.000Z,prospective
+86.0,18.0,1.0,4c,1.0,0.9,irregular,angular,not parallel,1.0,hcrp,2022-08-10T00:00:00.000Z,prospective
+35.0,24.0,1.0,4a,1.0,0.78,oval,microlobulated,parallel,0.0,hcrp,2022-08-10T00:00:00.000Z,prospective
+46.0,11.0,1.0,5,0.0,0.0,round,circumscribed,not parallel,1.0,hcrp,2022-08-10T00:00:00.000Z,prospective
+75.0,18.0,1.0,4c,1.0,0.71,irregular,angular,parallel,1.0,hcrp,2022-08-17T00:00:00.000Z,prospective
+40.0,6.0,0.0,4b,0.0,0.0,irregular,microlobulated,not parallel,0.0,hcrp,2022-08-17T00:00:00.000Z,prospective
+57.0,25.0,1.0,4c,1.0,0.85,irregular,angular,not parallel,1.0,hcrp,2022-08-17T00:00:00.000Z,prospective
+40.0,18.0,1.0,6,1.0,0.62,irregular,spiculated,parallel,1.0,hcrp,2022-08-22T00:00:00.000Z,prospective
+69.0,17.0,1.0,4c,1.0,1.0,irregular,indistinct,parallel,1.0,hcrp,2022-07-21T00:00:00.000Z,prospective
+28.0,14.0,0.0,4a,1.0,0.69,oval,microlobulated,parallel,0.0,hcrp,2022-08-25T00:00:00.000Z,prospective
+72.0,7.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,2022-08-24T00:00:00.000Z,prospective
+62.0,17.0,1.0,4c,0.0,0.8,irregular,angular,not parallel,1.0,hcrp,2022-04-28T00:00:00.000Z,prospective
+54.0,25.0,1.0,5,1.0,0.85,irregular,spiculated,parallel,1.0,hcrp,2022-08-29T00:00:00.000Z,prospective
+20.0,21.0,1.0,4a,1.0,0.52,oval,circumscribed,parallel,0.0,hcrp,2022-08-31T00:00:00.000Z,prospective
+50.0,18.0,1.0,3,1.0,0.63,oval,microlobulated,parallel,0.0,hcrp,2022-09-14T00:00:00.000Z,prospective
+40.0,28.0,1.0,4a,1.0,0.64,irregular,microlobulated,not parallel,0.0,ha-cg,2022-08-25T00:00:00.000Z,prospective
+42.0,19.0,0.0,4a,1.0,0.6,oval,indistinct,parallel,0.0,ha-cg,2022-08-18T00:00:00.000Z,prospective
+49.0,9.0,0.0,4a,0.0,0.0,oval,microlobulated,parallel,0.0,ha-cg,2022-08-29T00:00:00.000Z,prospective
+49.0,24.0,1.0,5,1.0,0.64,irregular,spiculated,parallel,1.0,hcrp,2022-08-31T00:00:00.000Z,prospective
+60.0,24.0,0.0,4b,1.0,0.71,irregular,microlobulated,not parallel,1.0,ha-cg,2022-09-09T00:00:00.000Z,prospective
+53.0,9.0,0.0,4b,0.0,0.0,irregular,angular,parallel,0.0,hcrp,2022-09-02T00:00:00.000Z,prospective
+26.0,17.0,1.0,4a,0.0,0.0,oval,indistinct,parallel,0.0,ha-cg,2022-09-08T00:00:00.000Z,prospective
+68.0,15.0,1.0,5,1.0,0.75,irregular,spiculated,not parallel,1.0,hcrp,2022-09-08T00:00:00.000Z,prospective
+35.0,18.0,1.0,6,1.0,0.7,irregular,spiculated,parallel,1.0,hcrp,2022-09-28T00:00:00.000Z,prospective
+40.0,25.0,1.0,6,1.0,0.77,irregular,microlobulated,parallel,1.0,hcrp,2022-10-03T00:00:00.000Z,prospective
+54.0,12.0,0.0,6,1.0,0.76,irregular,spiculated,not parallel,1.0,hcrp,2022-10-10T00:00:00.000Z,prospective
+55.0,21.0,1.0,4c,1.0,1.0,irregular,indistinct,parallel,1.0,hcrp,2022-09-12T00:00:00.000Z,prospective
+74.0,12.0,0.0,4a,0.0,0.0,irregular,angular,parallel,0.0,hcrp,2022-09-12T00:00:00.000Z,prospective
+57.0,18.0,0.0,4a,0.0,0.0,oval,indistinct,parallel,0.0,ha-cg,2022-09-13T00:00:00.000Z,prospective
+40.0,24.0,1.0,4b,0.0,0.0,irregular,indistinct,parallel,0.0,ha-cg,2022-09-15T00:00:00.000Z,prospective
+40.0,16.0,0.0,4b,0.0,0.0,irregular,indistinct,parallel,0.0,ha-cg,2022-09-27T00:00:00.000Z,prospective
+63.0,16.0,1.0,4c,1.0,0.8,irregular,angular,not parallel,1.0,mater,2022-11-08T00:00:00.000Z,prospective
+50.0,14.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,2022-09-14T00:00:00.000Z,prospective
+63.0,24.0,1.0,6,1.0,0.7,irregular,angular,parallel,1.0,hcrp,2022-09-14T00:00:00.000Z,prospective
+81.0,22.0,1.0,4c,1.0,1.0,irregular,angular,parallel,1.0,hcrp,2022-09-21T00:00:00.000Z,prospective
+75.0,12.0,0.0,4a,0.0,0.0,round,circumscribed,parallel,0.0,hcrp,2022-09-21T00:00:00.000Z,prospective
+53.0,9.0,0.0,3,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,2022-09-28T00:00:00.000Z,prospective
+65.0,11.0,1.0,6,0.0,0.0,round,microlobulated,not parallel,1.0,hcrp,2022-09-28T00:00:00.000Z,prospective
+47.0,26.0,1.0,4c,1.0,0.77,irregular,microlobulated,not parallel,1.0,hcrp,2022-09-28T00:00:00.000Z,prospective
+63.0,9.0,0.0,5,1.0,0.86,irregular,angular,not parallel,1.0,hcrp,2022-09-28T00:00:00.000Z,prospective
+36.0,6.0,0.0,4a,1.0,0.45,oval,circumscribed,parallel,0.0,hcrp,2022-09-12T00:00:00.000Z,prospective
+50.0,8.0,0.0,4b,0.0,0.0,irregular,microlobulated,parallel,0.0,mater,2022-10-05T00:00:00.000Z,prospective
+41.0,16.0,0.0,4b,0.0,0.0,irregular,microlobulated,parallel,0.0,mater,2022-10-19T00:00:00.000Z,prospective
+61.0,15.0,0.0,5,1.0,1.0,irregular,spiculated,not parallel,1.0,mater,2022-10-19T00:00:00.000Z,prospective
+63.0,16.0,1.0,5,1.0,0.72,irregular,spiculated,not parallel,1.0,mater,2022-11-09T00:00:00.000Z,prospective
+40.0,23.0,0.0,4a,0.0,0.0,irregular,circumscribed,parallel,0.0,ha-ba,2021-12-16T00:00:00.000Z,prospective
+32.0,18.0,0.0,4a,1.0,0.59,irregular,angular,parallel,0.0,ha-ba,2021-12-01T00:00:00.000Z,prospective
+54.0,29.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,ha-ba,2021-11-29T00:00:00.000Z,prospective
+58.0,13.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,ha-ba,2021-12-06T00:00:00.000Z,prospective
+74.0,19.0,1.0,5,1.0,0.84,irregular,spiculated,not parallel,1.0,ha-ba,2021-12-08T00:00:00.000Z,prospective
+28.0,24.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,ha-ba,2021-12-08T00:00:00.000Z,prospective
+46.0,27.0,1.0,4c,0.0,0.0,irregular,spiculated,parallel,1.0,ha-ba,2022-03-03T00:00:00.000Z,prospective
+45.0,25.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,ha-ba,2021-12-06T00:00:00.000Z,prospective
+44.0,4.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,ha-ba,2021-11-22T00:00:00.000Z,prospective
+46.0,13.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,ha-ba,2021-11-18T00:00:00.000Z,prospective
+63.0,14.0,0.0,4c,1.0,0.75,irregular,spiculated,parallel,1.0,ha-ba,2021-12-20T00:00:00.000Z,prospective
+50.0,15.0,1.0,6,1.0,0.66,irregular,spiculated,parallel,1.0,ha-ba,2021-10-21T00:00:00.000Z,prospective
+43.0,28.0,1.0,6,1.0,0.62,irregular,spiculated,parallel,1.0,ha-ba,2021-12-29T00:00:00.000Z,prospective
+58.0,12.0,1.0,5,1.0,0.68,irregular,spiculated,not parallel,1.0,ha-ba,2021-12-30T00:00:00.000Z,prospective
+63.0,13.0,0.0,5,1.0,0.77,irregular,spiculated,not parallel,1.0,ha-ba,2021-12-21T00:00:00.000Z,prospective
+33.0,30.0,1.0,4b,1.0,0.78,irregular,angular,parallel,1.0,ha-ba,2021-12-29T00:00:00.000Z,prospective
+59.0,7.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,ha-ba,2022-01-07T00:00:00.000Z,prospective
+44.0,5.0,0.0,4a,0.0,0.0,irregular,angular,not parallel,0.0,ha-ba,2021-12-15T00:00:00.000Z,prospective
+41.0,8.0,1.0,4a,0.0,0.0,oval,angular,parallel,0.0,ha-ba,2021-12-16T00:00:00.000Z,prospective
+42.0,21.0,1.0,4c,0.0,0.0,irregular,indistinct,not parallel,1.0,ha-ba,2022-01-12T00:00:00.000Z,prospective
+60.0,9.0,1.0,5,1.0,0.79,irregular,spiculated,not parallel,1.0,ha-ba,2022-01-11T00:00:00.000Z,prospective
+36.0,15.0,1.0,6,1.0,0.6,irregular,spiculated,not parallel,1.0,ha-ba,2022-01-11T00:00:00.000Z,prospective
+42.0,29.0,1.0,5,1.0,0.75,irregular,spiculated,parallel,1.0,ha-ba,2021-11-29T00:00:00.000Z,prospective
+44.0,28.0,1.0,4c,1.0,0.85,irregular,indistinct,parallel,1.0,ha-ba,2022-01-12T00:00:00.000Z,prospective
+40.0,20.0,1.0,4a,0.0,0.0,irregular,angular,parallel,0.0,ha-ba,2022-01-12T00:00:00.000Z,prospective
+58.0,24.0,1.0,5,1.0,0.76,irregular,spiculated,parallel,1.0,ha-ba,2022-01-13T00:00:00.000Z,prospective
+67.0,9.0,0.0,4a,1.0,0.65,oval,circumscribed,parallel,0.0,ha-ba,2022-10-13T00:00:00.000Z,prospective
+57.0,13.0,1.0,5,1.0,0.74,irregular,spiculated,not parallel,1.0,ha-ba,2022-01-12T00:00:00.000Z,prospective
+54.0,13.0,0.0,5,0.0,0.0,irregular,spiculated,parallel,1.0,ha-ba,2021-12-22T00:00:00.000Z,prospective
+46.0,26.0,1.0,4c,1.0,0.59,irregular,indistinct,parallel,1.0,ha-ba,2021-11-24T00:00:00.000Z,prospective
+19.0,16.0,1.0,4b,1.0,0.57,irregular,indistinct,parallel,0.0,ha-ba,2021-12-28T00:00:00.000Z,prospective
+47.0,11.0,0.0,4a,0.0,0.0,oval,angular,parallel,0.0,ha-ba,2022-01-04T00:00:00.000Z,prospective
+56.0,15.0,0.0,4a,0.0,0.0,oval,angular,not parallel,0.0,ha-ba,2021-11-24T00:00:00.000Z,prospective
+71.0,29.0,1.0,5,1.0,0.76,irregular,spiculated,parallel,1.0,ha-ba,2022-01-17T00:00:00.000Z,prospective
+63.0,8.0,0.0,4c,1.0,0.68,irregular,indistinct,parallel,1.0,ha-ba,2022-01-18T00:00:00.000Z,prospective
+68.0,26.0,1.0,5,1.0,0.71,irregular,spiculated,parallel,1.0,ha-ba,2022-01-19T00:00:00.000Z,prospective
+39.0,25.0,1.0,5,0.0,0.0,irregular,spiculated,parallel,1.0,ha-ba,2022-01-19T00:00:00.000Z,prospective
+40.0,12.0,1.0,4b,0.0,0.0,oval,circumscribed,parallel,0.0,ha-ba,2022-01-20T00:00:00.000Z,prospective
+49.0,25.0,1.0,4c,0.0,0.0,irregular,spiculated,parallel,1.0,ha-ba,2022-01-10T00:00:00.000Z,prospective
+57.0,12.0,0.0,4b,0.0,0.0,irregular,microlobulated,parallel,0.0,mater,2022-10-26T00:00:00.000Z,prospective
+38.0,22.0,1.0,4b,0.0,0.0,oval,microlobulated,parallel,0.0,mater,2022-10-26T00:00:00.000Z,prospective
+69.0,9.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2022-11-08T00:00:00.000Z,prospective
+72.0,11.0,0.0,4c,1.0,0.64,irregular,microlobulated,not parallel,1.0,hcrp,2022-10-03T00:00:00.000Z,prospective
+68.0,4.0,0.0,4b,0.0,0.0,irregular,microlobulated,not parallel,0.0,hcrp,2022-09-01T00:00:00.000Z,prospective
+49.0,16.0,0.0,4a,0.0,0.0,oval,microlobulated,parallel,0.0,hcrp,2022-09-22T00:00:00.000Z,prospective
+71.0,13.0,0.0,4a,0.0,0.0,irregular,microlobulated,parallel,0.0,hcrp,2022-09-13T00:00:00.000Z,prospective
+54.0,22.0,1.0,5,1.0,1.0,irregular,spiculated,not parallel,1.0,hcrp,2022-10-06T00:00:00.000Z,prospective
+72.0,9.0,0.0,4b,1.0,,oval,circumscribed,parallel,0.0,hcrp,2022-10-19T00:00:00.000Z,prospective
+64.0,6.0,0.0,4a,0.0,0.0,round,circumscribed,not parallel,0.0,hcrp,2022-08-25T00:00:00.000Z,prospective
+50.0,11.0,1.0,4a,0.0,0.0,oval,indistinct,parallel,0.0,ha-cg,2022-10-17T00:00:00.000Z,prospective
+38.0,23.0,1.0,4c,1.0,0.74,irregular,spiculated,parallel,1.0,ha-ba,2021-12-29T00:00:00.000Z,prospective
+54.0,16.0,0.0,4c,0.0,0.0,irregular,angular,parallel,1.0,ha-ba,2022-01-12T00:00:00.000Z,prospective
+46.0,30.0,1.0,4c,1.0,0.99,irregular,indistinct,not parallel,1.0,ha-ba,2022-01-10T00:00:00.000Z,prospective
+45.0,20.0,1.0,5,0.0,0.0,irregular,spiculated,not parallel,1.0,ha-ba,2022-01-21T00:00:00.000Z,prospective
+57.0,24.0,0.0,6,1.0,0.58,irregular,spiculated,parallel,1.0,ha-ba,2021-12-22T00:00:00.000Z,prospective
+52.0,13.0,1.0,6,0.0,0.0,irregular,indistinct,parallel,1.0,ha-ba,2022-02-01T00:00:00.000Z,prospective
+51.0,26.0,1.0,4c,0.0,0.0,irregular,spiculated,not parallel,1.0,ha-ba,2022-01-17T00:00:00.000Z,prospective
+44.0,20.0,1.0,4b,0.0,0.0,irregular,indistinct,parallel,1.0,ha-ba,2022-02-03T00:00:00.000Z,prospective
+63.0,17.0,1.0,5,0.0,0.0,irregular,spiculated,not parallel,1.0,ha-ba,2022-02-07T00:00:00.000Z,prospective
+62.0,24.0,0.0,4b,1.0,0.82,irregular,angular,parallel,0.0,ha-ba,2021-11-24T00:00:00.000Z,prospective
+47.0,27.0,1.0,5,1.0,0.67,irregular,spiculated,parallel,1.0,ha-ba,2022-01-27T00:00:00.000Z,prospective
+42.0,11.0,0.0,4a,1.0,0.45,oval,angular,parallel,0.0,ha-ba,2022-02-09T00:00:00.000Z,prospective
+48.0,14.0,0.0,4a,1.0,0.83,oval,circumscribed,parallel,0.0,ha-ba,2022-02-10T00:00:00.000Z,prospective
+40.0,13.0,1.0,4a,0.0,0.0,oval,angular,parallel,0.0,ha-cg,2022-10-17T00:00:00.000Z,prospective
+39.0,9.0,0.0,4a,0.0,0.0,irregular,angular,parallel,0.0,ha-cg,2022-10-17T00:00:00.000Z,prospective
+52.0,21.0,1.0,5,1.0,0.7,irregular,spiculated,parallel,1.0,ha-ba,2022-02-10T00:00:00.000Z,prospective
+40.0,19.0,1.0,4b,0.0,0.0,irregular,angular,parallel,0.0,ha-ba,2022-02-10T00:00:00.000Z,prospective
+35.0,22.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,ha-ba,2022-01-25T00:00:00.000Z,prospective
+36.0,18.0,0.0,4a,0.0,0.0,oval,angular,parallel,0.0,ha-ba,2021-12-09T00:00:00.000Z,prospective
+56.0,12.0,0.0,4b,0.0,0.0,irregular,indistinct,not parallel,0.0,ha-ba,2021-12-20T00:00:00.000Z,prospective
+42.0,6.0,0.0,4a,1.0,0.66,oval,angular,not parallel,1.0,ha-ba,2022-02-14T00:00:00.000Z,prospective
+42.0,27.0,1.0,4b,1.0,0.8,irregular,angular,parallel,0.0,ha-ba,2022-02-15T00:00:00.000Z,prospective
+64.0,9.0,0.0,4c,0.0,0.0,irregular,spiculated,not parallel,1.0,ha-ba,2022-02-15T00:00:00.000Z,prospective
+71.0,13.0,0.0,4c,1.0,0.64,irregular,spiculated,parallel,1.0,ha-ba,2022-02-15T00:00:00.000Z,prospective
+43.0,19.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,ha-ba,2022-02-15T00:00:00.000Z,prospective
+45.0,22.0,0.0,4a,0.0,0.0,irregular,circumscribed,parallel,0.0,ha-ba,2022-02-21T00:00:00.000Z,prospective
+44.0,28.0,1.0,6,1.0,0.82,irregular,angular,not parallel,1.0,ha-ba,2022-02-22T00:00:00.000Z,prospective
+59.0,30.0,1.0,6,1.0,0.82,irregular,spiculated,parallel,1.0,ha-ba,2022-02-23T00:00:00.000Z,prospective
+52.0,19.0,1.0,5,1.0,0.72,irregular,spiculated,parallel,1.0,ha-ba,2022-02-23T00:00:00.000Z,prospective
+38.0,25.0,0.0,4a,1.0,0.64,oval,circumscribed,parallel,0.0,ha-ba,2022-02-18T00:00:00.000Z,prospective
+59.0,10.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,ha-ba,2022-02-09T00:00:00.000Z,prospective
+50.0,26.0,0.0,5,1.0,0.73,irregular,spiculated,parallel,1.0,ha-ba,2022-02-24T00:00:00.000Z,prospective
+79.0,24.0,1.0,4c,1.0,0.79,irregular,indistinct,parallel,1.0,ha-ba,2022-02-11T00:00:00.000Z,prospective
+64.0,12.0,1.0,5,0.0,0.0,irregular,spiculated,not parallel,1.0,ha-ba,2022-03-02T00:00:00.000Z,prospective
+39.0,15.0,0.0,4b,1.0,0.76,oval,circumscribed,parallel,0.0,ha-ba,2022-03-03T00:00:00.000Z,prospective
+63.0,27.0,1.0,6,1.0,0.74,irregular,indistinct,parallel,1.0,ha-ba,2022-03-03T00:00:00.000Z,prospective
+44.0,15.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2022-09-19T00:00:00.000Z,prospective
+47.0,14.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2022-09-19T00:00:00.000Z,prospective
+30.0,19.0,1.0,4a,1.0,0.77,oval,circumscribed,parallel,0.0,mater,2022-09-26T00:00:00.000Z,prospective
+37.0,4.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2022-10-03T00:00:00.000Z,prospective
+51.0,6.0,0.0,4a,0.0,0.0,round,circumscribed,parallel,0.0,mater,2022-10-03T00:00:00.000Z,prospective
+60.0,12.0,0.0,5,0.0,0.0,irregular,spiculated,parallel,1.0,mater,2022-10-03T00:00:00.000Z,prospective
+57.0,7.0,0.0,4a,0.0,0.0,round,circumscribed,parallel,0.0,mater,2022-10-10T00:00:00.000Z,prospective
+44.0,5.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2022-10-17T00:00:00.000Z,prospective
+54.0,17.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2022-10-24T00:00:00.000Z,prospective
+63.0,20.0,1.0,4c,1.0,0.67,irregular,microlobulated,parallel,1.0,mater,2022-10-31T00:00:00.000Z,prospective
+42.0,4.0,0.0,4a,0.0,0.0,round,circumscribed,parallel,0.0,mater,2022-11-07T00:00:00.000Z,prospective
+24.0,29.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2022-11-07T00:00:00.000Z,prospective
+73.0,22.0,1.0,5,1.0,0.93,irregular,spiculated,parallel,1.0,ha-ba,2022-03-03T00:00:00.000Z,prospective
+40.0,23.0,1.0,6,1.0,0.74,irregular,spiculated,not parallel,1.0,ha-ba,2022-03-03T00:00:00.000Z,prospective
+58.0,9.0,0.0,3,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,2022-10-03T00:00:00.000Z,prospective
+56.0,20.0,1.0,5,1.0,0.73,irregular,spiculated,parallel,1.0,hcrp,2022-10-03T00:00:00.000Z,prospective
+78.0,11.0,1.0,5,1.0,0.86,irregular,spiculated,not parallel,1.0,hcrp,2022-10-05T00:00:00.000Z,prospective
+64.0,14.0,1.0,6,1.0,0.76,irregular,indistinct,parallel,1.0,hcrp,2022-02-21T00:00:00.000Z,prospective
+46.0,23.0,1.0,4c,1.0,0.78,irregular,microlobulated,parallel,1.0,hcrp,2022-10-13T00:00:00.000Z,prospective
+75.0,19.0,1.0,4b,1.0,1.0,oval,circumscribed,parallel,1.0,hcrp,2022-10-24T00:00:00.000Z,prospective
+44.0,20.0,1.0,4a,1.0,0.59,oval,circumscribed,parallel,0.0,hcrp,2022-10-24T00:00:00.000Z,prospective
+59.0,21.0,1.0,5,1.0,0.86,irregular,spiculated,not parallel,1.0,hcrp,2022-10-26T00:00:00.000Z,prospective
+68.0,20.0,1.0,4b,0.0,0.0,irregular,angular,parallel,0.0,hcrp,2022-11-27T00:00:00.000Z,prospective
+67.0,26.0,1.0,6,1.0,1.0,oval,microlobulated,parallel,1.0,hcrp,2022-11-07T00:00:00.000Z,prospective
+60.0,28.0,0.0,4a,0.0,0.0,irregular,angular,parallel,0.0,hcrp,2022-11-09T00:00:00.000Z,prospective
+29.0,19.0,1.0,3,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,2022-11-09T00:00:00.000Z,prospective
+87.0,13.0,1.0,5,1.0,0.82,irregular,spiculated,not parallel,1.0,hcrp,2022-11-09T00:00:00.000Z,prospective
+61.0,21.0,1.0,5,1.0,0.85,irregular,spiculated,not parallel,1.0,hcrp,2022-11-16T00:00:00.000Z,prospective
+25.0,14.0,0.0,4a,1.0,0.77,round,circumscribed,not parallel,0.0,hcrp,2022-11-16T00:00:00.000Z,prospective
+50.0,24.0,1.0,5,1.0,0.91,irregular,spiculated,not parallel,1.0,hcrp,2022-11-16T00:00:00.000Z,prospective
+47.0,10.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2022-11-25T00:00:00.000Z,prospective
+66.0,21.0,1.0,4b,1.0,0.86,irregular,microlobulated,parallel,1.0,ha-ba,2022-02-15T00:00:00.000Z,prospective
+49.0,25.0,1.0,4b,1.0,0.6,oval,microlobulated,parallel,1.0,mater,2022-11-25T00:00:00.000Z,prospective
+42.0,13.0,0.0,4a,1.0,0.62,round,circumscribed,not parallel,0.0,mater,2022-12-07T00:00:00.000Z,prospective
+27.0,27.0,1.0,4b,1.0,0.87,irregular,indistinct,parallel,0.0,mater,2022-12-07T00:00:00.000Z,prospective
+69.0,8.0,1.0,4c,0.0,0.0,irregular,indistinct,not parallel,1.0,mater,2022-12-14T00:00:00.000Z,prospective
+68.0,8.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,ha-ba,2022-01-26T00:00:00.000Z,prospective
+41.0,11.0,0.0,4a,0.0,0.0,irregular,angular,parallel,0.0,ha-ba,2022-02-24T00:00:00.000Z,prospective
+59.0,23.0,1.0,4b,1.0,0.83,irregular,microlobulated,parallel,1.0,ha-ba,2022-03-14T00:00:00.000Z,prospective
+53.0,27.0,1.0,4c,1.0,1.0,irregular,angular,parallel,1.0,ha-ba,2022-03-09T00:00:00.000Z,prospective
+71.0,21.0,1.0,6,0.0,0.0,irregular,angular,parallel,1.0,ha-ba,2022-03-10T00:00:00.000Z,prospective
+47.0,12.0,1.0,5,1.0,0.71,irregular,spiculated,not parallel,1.0,ha-ba,2022-03-24T00:00:00.000Z,prospective
+67.0,29.0,1.0,5,1.0,0.79,irregular,spiculated,not parallel,1.0,ha-ba,2022-03-15T00:00:00.000Z,prospective
+69.0,18.0,1.0,4c,1.0,0.78,irregular,angular,parallel,1.0,hcrp,2022-11-21T00:00:00.000Z,prospective
+54.0,30.0,1.0,4c,1.0,0.87,irregular,indistinct,parallel,1.0,hcrp,2022-11-21T00:00:00.000Z,prospective
+70.0,21.0,1.0,6,1.0,0.8,irregular,spiculated,not parallel,1.0,hcrp,2022-11-23T00:00:00.000Z,prospective
+54.0,20.0,1.0,4c,1.0,0.72,irregular,angular,parallel,1.0,hcrp,2022-11-23T00:00:00.000Z,prospective
+76.0,14.0,1.0,5,1.0,0.8,irregular,spiculated,not parallel,1.0,hcrp,2022-11-23T00:00:00.000Z,prospective
+62.0,23.0,1.0,6,1.0,0.78,irregular,spiculated,not parallel,1.0,hcrp,2022-11-23T00:00:00.000Z,prospective
+55.0,9.0,1.0,4c,1.0,0.8,irregular,microlobulated,not parallel,1.0,hcrp,2022-11-28T00:00:00.000Z,prospective
+63.0,13.0,1.0,6,0.0,0.0,irregular,angular,parallel,1.0,hcrp,2022-11-30T00:00:00.000Z,prospective
+54.0,10.0,0.0,4b,1.0,1.0,oval,indistinct,parallel,1.0,hcrp,2022-11-30T00:00:00.000Z,prospective
+74.0,6.0,0.0,4a,0.0,0.0,round,circumscribed,not parallel,0.0,hcrp,2022-11-30T00:00:00.000Z,prospective
+67.0,12.0,0.0,5,0.0,0.0,irregular,spiculated,not parallel,1.0,ha-cg,2022-11-21T00:00:00.000Z,prospective
+51.0,15.0,0.0,4a,0.0,0.0,oval,angular,parallel,0.0,ha-cg,2022-11-26T00:00:00.000Z,prospective
+66.0,14.0,1.0,5,1.0,0.78,irregular,microlobulated,not parallel,1.0,ha-cg,2022-11-28T00:00:00.000Z,prospective
+34.0,28.0,1.0,5,0.0,0.0,irregular,spiculated,not parallel,1.0,ha-cg,2022-12-21T00:00:00.000Z,prospective
+39.0,17.0,1.0,4c,0.0,0.0,irregular,indistinct,parallel,1.0,ha-ba,2022-03-21T00:00:00.000Z,prospective
+72.0,9.0,0.0,4a,0.0,0.0,oval,angular,parallel,0.0,ha-ba,2022-03-15T00:00:00.000Z,prospective
+46.0,28.0,1.0,4c,1.0,0.5,irregular,angular,parallel,1.0,ha-ba,2022-04-06T00:00:00.000Z,prospective
+47.0,25.0,1.0,6,1.0,0.68,irregular,spiculated,not parallel,1.0,ha-ba,2022-04-06T00:00:00.000Z,prospective
+47.0,29.0,1.0,5,0.0,0.0,irregular,indistinct,parallel,1.0,ha-ba,2022-04-07T00:00:00.000Z,prospective
+85.0,16.0,1.0,4b,1.0,1.0,oval,angular,parallel,1.0,ha-ba,2022-04-11T00:00:00.000Z,prospective
+52.0,9.0,0.0,6,1.0,0.7,irregular,spiculated,parallel,1.0,ha-ba,2022-04-13T00:00:00.000Z,prospective
+68.0,8.0,0.0,4b,0.0,0.0,irregular,indistinct,parallel,0.0,ha-ba,2022-04-26T00:00:00.000Z,prospective
+64.0,25.0,0.0,6,1.0,0.96,irregular,indistinct,parallel,1.0,ha-ba,2022-04-28T00:00:00.000Z,prospective
+54.0,18.0,1.0,5,1.0,0.76,irregular,spiculated,parallel,1.0,ha-ba,2022-05-02T00:00:00.000Z,prospective
+60.0,8.0,1.0,4c,1.0,0.77,irregular,angular,not parallel,1.0,hcrp,2022-12-05T00:00:00.000Z,prospective
+62.0,16.0,1.0,5,1.0,1.0,irregular,spiculated,not parallel,1.0,hcrp,2022-12-07T00:00:00.000Z,prospective
+73.0,14.0,1.0,6,1.0,0.8,irregular,spiculated,not parallel,1.0,hcrp,2022-12-07T00:00:00.000Z,prospective
+42.0,17.0,1.0,5,1.0,0.73,irregular,spiculated,parallel,1.0,hcrp,2022-12-12T00:00:00.000Z,prospective
+78.0,28.0,1.0,5,1.0,1.0,irregular,spiculated,not parallel,1.0,hcrp,2022-12-14T00:00:00.000Z,prospective
+92.0,19.0,1.0,5,1.0,0.83,irregular,spiculated,not parallel,1.0,hcrp,2022-12-14T00:00:00.000Z,prospective
+50.0,9.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,2022-12-14T00:00:00.000Z,prospective
+48.0,6.0,0.0,4a,0.0,0.0,irregular,microlobulated,parallel,0.0,hcrp,2022-12-15T00:00:00.000Z,prospective
+44.0,15.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,2022-12-09T00:00:00.000Z,prospective
+46.0,23.0,1.0,4c,1.0,0.76,irregular,microlobulated,parallel,1.0,hcrp,2022-12-19T00:00:00.000Z,prospective
+80.0,6.0,1.0,5,0.0,0.0,irregular,spiculated,not parallel,1.0,hcrp,2023-01-04T00:00:00.000Z,prospective
+57.0,14.0,1.0,5,1.0,0.84,irregular,spiculated,not parallel,1.0,hcrp,2023-01-04T00:00:00.000Z,prospective
+49.0,5.0,0.0,4a,0.0,0.0,round,circumscribed,parallel,0.0,hcrp,2023-01-09T00:00:00.000Z,prospective
+40.0,12.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,2023-01-04T00:00:00.000Z,prospective
+47.0,16.0,0.0,4a,0.0,0.0,oval,microlobulated,parallel,0.0,hcrp,2023-01-04T00:00:00.000Z,prospective
+46.0,18.0,0.0,4a,1.0,0.56,irregular,circumscribed,parallel,0.0,hcrp,2022-12-29T00:00:00.000Z,prospective
+51.0,11.0,1.0,4b,0.0,0.0,irregular,indistinct,not parallel,0.0,hcrp,2023-01-11T00:00:00.000Z,prospective
+31.0,23.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,2022-12-07T00:00:00.000Z,prospective
+52.0,11.0,0.0,4a,0.0,0.0,irregular,angular,parallel,0.0,ha-cg,2023-01-02T00:00:00.000Z,prospective
+59.0,9.0,0.0,4a,0.0,0.0,oval,angular,parallel,0.0,ha-cg,2023-01-04T00:00:00.000Z,prospective
+36.0,22.0,0.0,4a,1.0,0.65,oval,circumscribed,parallel,0.0,mater,2022-12-21T00:00:00.000Z,prospective
+61.0,17.0,1.0,4c,1.0,0.93,irregular,angular,not parallel,1.0,mater,2023-02-01T00:00:00.000Z,prospective
+50.0,9.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2023-02-01T00:00:00.000Z,prospective
+41.0,7.0,0.0,4a,0.0,0.0,irregular,angular,not parallel,0.0,mater,2023-02-08T00:00:00.000Z,prospective
+70.0,12.0,1.0,4c,1.0,1.0,irregular,angular,not parallel,1.0,mater,2023-02-08T00:00:00.000Z,prospective
+69.0,6.0,0.0,4a,0.0,0.0,round,circumscribed,parallel,0.0,mater,2023-02-08T00:00:00.000Z,prospective
+65.0,23.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2023-02-15T00:00:00.000Z,prospective
+38.0,16.0,0.0,4b,0.0,0.0,irregular,microlobulated,parallel,0.0,mater,2023-02-15T00:00:00.000Z,prospective
+53.0,24.0,1.0,3,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2023-02-15T00:00:00.000Z,prospective
+36.0,28.0,1.0,4a,1.0,0.74,oval,circumscribed,parallel,0.0,mater,2023-02-22T00:00:00.000Z,prospective
+54.0,7.0,0.0,4c,0.0,0.0,irregular,microlobulated,parallel,0.0,mater,2023-02-22T00:00:00.000Z,prospective
+28.0,25.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2023-02-22T00:00:00.000Z,prospective
+62.0,13.0,1.0,5,1.0,1.0,irregular,spiculated,not parallel,1.0,mater,2023-02-22T00:00:00.000Z,prospective
+51.0,5.0,0.0,4c,1.0,0.57,irregular,microlobulated,not parallel,1.0,hcrp,2023-01-02T00:00:00.000Z,prospective
+71.0,23.0,0.0,4b,1.0,0.77,irregular,indistinct,parallel,0.0,hcrp,2023-01-11T00:00:00.000Z,prospective
+67.0,23.0,1.0,5,1.0,0.91,irregular,spiculated,parallel,1.0,hcrp,2023-01-11T00:00:00.000Z,prospective
+61.0,11.0,1.0,6,1.0,0.79,irregular,spiculated,not parallel,1.0,hcrp,2023-01-16T00:00:00.000Z,prospective
+33.0,20.0,1.0,4c,1.0,0.74,irregular,indistinct,parallel,1.0,hcrp,2023-01-16T00:00:00.000Z,prospective
+52.0,24.0,1.0,6,1.0,0.8,irregular,spiculated,parallel,1.0,hcrp,2023-01-18T00:00:00.000Z,prospective
+63.0,21.0,1.0,5,1.0,0.91,irregular,spiculated,not parallel,1.0,hcrp,2023-01-25T00:00:00.000Z,prospective
+50.0,17.0,1.0,5,1.0,0.73,irregular,angular,not parallel,1.0,hcrp,2023-01-25T00:00:00.000Z,prospective
+45.0,20.0,1.0,4a,0.0,0.0,oval,angular,parallel,0.0,ha-cg,2023-01-23T00:00:00.000Z,prospective
+58.0,29.0,1.0,4c,1.0,0.85,irregular,indistinct,parallel,1.0,ha-ba,2022-05-02T00:00:00.000Z,prospective
+36.0,28.0,1.0,4a,0.0,0.0,oval,angular,parallel,0.0,ha-ba,2022-05-04T00:00:00.000Z,prospective
+54.0,17.0,1.0,4c,1.0,0.72,irregular,microlobulated,parallel,1.0,ha-ba,2022-05-03T00:00:00.000Z,prospective
+42.0,15.0,0.0,5,1.0,0.82,irregular,spiculated,parallel,1.0,ha-ba,2022-04-12T00:00:00.000Z,prospective
+52.0,30.0,1.0,6,1.0,0.76,irregular,spiculated,parallel,1.0,ha-ba,2022-05-11T00:00:00.000Z,prospective
+55.0,8.0,0.0,4c,0.0,0.0,irregular,spiculated,parallel,1.0,ha-ba,2022-05-16T00:00:00.000Z,prospective
+66.0,17.0,1.0,5,0.0,0.0,irregular,spiculated,not parallel,1.0,ha-ba,2022-05-17T00:00:00.000Z,prospective
+57.0,19.0,1.0,4c,1.0,0.85,irregular,indistinct,parallel,1.0,ha-ba,2022-05-18T00:00:00.000Z,prospective
+49.0,29.0,1.0,6,1.0,0.79,irregular,spiculated,not parallel,1.0,ha-ba,2022-05-18T00:00:00.000Z,prospective
+56.0,11.0,0.0,4c,1.0,0.79,irregular,spiculated,not parallel,1.0,ha-ba,2022-05-24T00:00:00.000Z,prospective
+53.0,17.0,0.0,5,1.0,0.76,irregular,indistinct,parallel,1.0,ha-ba,2022-05-24T00:00:00.000Z,prospective
+62.0,28.0,1.0,6,0.0,0.0,irregular,spiculated,parallel,1.0,ha-ba,2022-05-26T00:00:00.000Z,prospective
+43.0,13.0,0.0,4a,0.0,0.0,irregular,angular,parallel,0.0,ha-ba,2022-05-26T00:00:00.000Z,prospective
+58.0,11.0,0.0,5,1.0,0.73,irregular,spiculated,not parallel,1.0,ha-ba,2022-05-31T00:00:00.000Z,prospective
+49.0,16.0,1.0,4a,0.0,0.0,oval,angular,parallel,0.0,ha-ba,2022-06-02T00:00:00.000Z,prospective
+71.0,25.0,1.0,5,1.0,0.82,irregular,spiculated,parallel,1.0,ha-ba,2022-06-06T00:00:00.000Z,prospective
+65.0,21.0,1.0,5,1.0,0.82,irregular,spiculated,parallel,1.0,ha-ba,2022-06-06T00:00:00.000Z,prospective
+65.0,13.0,0.0,4b,1.0,0.78,irregular,angular,parallel,1.0,ha-ba,2022-05-25T00:00:00.000Z,prospective
+45.0,13.0,0.0,4b,0.0,0.0,irregular,angular,parallel,0.0,ha-ba,2022-06-09T00:00:00.000Z,prospective
+50.0,12.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,ha-ba,2022-06-13T00:00:00.000Z,prospective
+54.0,26.0,1.0,4c,1.0,0.74,irregular,indistinct,parallel,1.0,ha-ba,2022-06-15T00:00:00.000Z,prospective
+53.0,13.0,0.0,5,1.0,0.71,irregular,spiculated,not parallel,1.0,ha-ba,2022-06-15T00:00:00.000Z,prospective
+62.0,22.0,1.0,5,1.0,0.8,irregular,indistinct,not parallel,1.0,ha-ba,2022-06-15T00:00:00.000Z,prospective
+68.0,7.0,0.0,4a,0.0,0.0,irregular,angular,parallel,0.0,ha-ba,2022-06-20T00:00:00.000Z,prospective
+40.0,15.0,1.0,4c,1.0,0.77,irregular,microlobulated,parallel,1.0,ha-ba,2022-06-20T00:00:00.000Z,prospective
+74.0,19.0,1.0,4c,1.0,0.67,irregular,spiculated,not parallel,1.0,ha-ba,2022-06-27T00:00:00.000Z,prospective
+42.0,21.0,1.0,4a,1.0,0.65,irregular,indistinct,parallel,0.0,ha-ba,2022-06-21T00:00:00.000Z,prospective
+53.0,22.0,1.0,6,0.0,0.0,irregular,indistinct,parallel,1.0,ha-ba,2022-06-30T00:00:00.000Z,prospective
+33.0,12.0,1.0,4b,0.0,0.0,irregular,angular,not parallel,0.0,ha-ba,2022-06-23T00:00:00.000Z,prospective
+69.0,25.0,0.0,6,1.0,0.82,irregular,spiculated,not parallel,1.0,ha-ba,2022-06-22T00:00:00.000Z,prospective
+53.0,21.0,1.0,4c,1.0,0.64,irregular,indistinct,parallel,1.0,ha-ba,2022-07-04T00:00:00.000Z,prospective
+32.0,17.0,1.0,4a,0.0,0.0,irregular,angular,parallel,0.0,ha-ba,2022-07-06T00:00:00.000Z,prospective
+47.0,7.0,0.0,4a,0.0,0.0,irregular,indistinct,not parallel,0.0,ha-ba,2022-07-06T00:00:00.000Z,prospective
+61.0,25.0,1.0,5,1.0,0.77,irregular,indistinct,not parallel,1.0,ha-ba,2022-07-06T00:00:00.000Z,prospective
+43.0,28.0,1.0,4c,1.0,0.77,irregular,indistinct,parallel,1.0,ha-ba,2022-07-07T00:00:00.000Z,prospective
+43.0,17.0,0.0,4a,0.0,0.0,irregular,angular,parallel,0.0,ha-ba,2022-07-13T00:00:00.000Z,prospective
+55.0,19.0,1.0,6,1.0,0.79,irregular,spiculated,parallel,1.0,ha-ba,2022-07-14T00:00:00.000Z,prospective
+59.0,22.0,1.0,5,1.0,0.71,irregular,indistinct,not parallel,1.0,ha-ba,2022-07-18T00:00:00.000Z,prospective
+49.0,12.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2023-03-01T00:00:00.000Z,prospective
+66.0,8.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2023-03-01T00:00:00.000Z,prospective
+41.0,12.0,0.0,4c,1.0,0.69,irregular,indistinct,not parallel,1.0,mater,2023-03-01T00:00:00.000Z,prospective
+41.0,29.0,1.0,4a,0.0,0.0,irregular,angular,parallel,0.0,mater,2023-03-13T00:00:00.000Z,prospective
+52.0,29.0,1.0,4a,1.0,0.65,oval,circumscribed,parallel,0.0,ha-cg,2022-12-06T00:00:00.000Z,prospective
+43.0,16.0,1.0,5,1.0,0.77,irregular,angular,parallel,1.0,ha-ba,2022-07-19T00:00:00.000Z,prospective
+41.0,21.0,1.0,4b,1.0,1.0,irregular,angular,parallel,0.0,ha-ba,2022-07-19T00:00:00.000Z,prospective
+57.0,27.0,1.0,6,1.0,0.77,irregular,spiculated,not parallel,1.0,ha-ba,2022-07-21T00:00:00.000Z,prospective
+61.0,26.0,1.0,5,0.0,0.0,irregular,spiculated,parallel,1.0,ha-ba,2022-07-27T00:00:00.000Z,prospective
+65.0,10.0,0.0,4c,0.0,0.0,irregular,indistinct,parallel,1.0,ha-ba,2022-07-27T00:00:00.000Z,prospective
+74.0,27.0,1.0,5,1.0,0.8,irregular,spiculated,not parallel,1.0,ha-ba,2022-07-27T00:00:00.000Z,prospective
+73.0,8.0,0.0,4a,0.0,0.0,oval,angular,parallel,1.0,ha-ba,2022-08-02T00:00:00.000Z,prospective
+45.0,10.0,0.0,4a,0.0,0.0,irregular,angular,not parallel,0.0,ha-ba,2022-08-02T00:00:00.000Z,prospective
+57.0,26.0,1.0,5,1.0,0.74,irregular,spiculated,parallel,1.0,ha-ba,2022-08-03T00:00:00.000Z,prospective
+58.0,23.0,1.0,4c,0.0,0.0,irregular,indistinct,not parallel,1.0,ha-ba,2022-08-04T00:00:00.000Z,prospective
+72.0,11.0,0.0,5,1.0,0.8,irregular,spiculated,not parallel,1.0,ha-ba,2022-08-04T00:00:00.000Z,prospective
+60.0,10.0,0.0,4b,0.0,0.0,irregular,angular,parallel,0.0,ha-ba,2022-08-04T00:00:00.000Z,prospective
+50.0,11.0,1.0,4c,0.0,0.0,irregular,angular,not parallel,1.0,hcrp,2023-02-01T00:00:00.000Z,prospective
+70.0,25.0,0.0,4c,0.0,0.0,irregular,angular,not parallel,1.0,ha-cg,2023-03-15T00:00:00.000Z,prospective
+72.0,17.0,1.0,5,0.0,0.0,irregular,spiculated,not parallel,1.0,ha-cg,2023-03-14T00:00:00.000Z,prospective
+48.0,12.0,1.0,4b,0.0,0.0,irregular,angular,parallel,1.0,ha-cg,2023-03-13T00:00:00.000Z,prospective
+58.0,24.0,1.0,5,1.0,0.78,irregular,spiculated,not parallel,1.0,mater,2023-03-15T00:00:00.000Z,prospective
+23.0,14.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2023-03-22T00:00:00.000Z,prospective
+66.0,15.0,1.0,5,1.0,1.0,irregular,spiculated,not parallel,1.0,mater,2023-03-22T00:00:00.000Z,prospective
+35.0,14.0,1.0,4b,1.0,0.72,irregular,microlobulated,parallel,0.0,mater,2023-03-29T00:00:00.000Z,prospective
+39.0,11.0,1.0,4b,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2023-03-29T00:00:00.000Z,prospective
+65.0,10.0,0.0,4b,0.0,0.0,round,indistinct,not parallel,0.0,mater,2023-04-05T00:00:00.000Z,prospective
+40.0,23.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2023-04-12T00:00:00.000Z,prospective
+52.0,30.0,1.0,5,1.0,0.85,irregular,spiculated,not parallel,1.0,mater,2023-04-12T00:00:00.000Z,prospective
+48.0,8.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,1.0,hcrp,2023-02-07T00:00:00.000Z,prospective
+75.0,18.0,1.0,5,1.0,0.88,irregular,spiculated,not parallel,1.0,hcrp,2023-02-08T00:00:00.000Z,prospective
+31.0,19.0,1.0,4b,1.0,0.71,irregular,microlobulated,parallel,0.0,hcrp,2023-02-13T00:00:00.000Z,prospective
+44.0,9.0,0.0,4b,0.0,0.0,irregular,angular,parallel,0.0,hcrp,2023-03-20T00:00:00.000Z,prospective
+69.0,15.0,1.0,4c,1.0,0.85,irregular,angular,parallel,0.0,hcrp,2023-03-22T00:00:00.000Z,prospective
+50.0,10.0,1.0,6,1.0,0.67,irregular,spiculated,parallel,1.0,hcrp,2023-04-09T00:00:00.000Z,prospective
+65.0,12.0,1.0,4c,0.0,0.0,irregular,angular,parallel,0.0,hcrp,2023-03-07T00:00:00.000Z,prospective
+66.0,6.0,0.0,4b,0.0,0.0,round,circumscribed,not parallel,0.0,hcrp,2023-02-15T00:00:00.000Z,prospective
+61.0,7.0,0.0,4c,1.0,1.0,irregular,angular,not parallel,1.0,hcrp,2023-02-15T00:00:00.000Z,prospective
+53.0,23.0,1.0,6,0.0,0.0,irregular,spiculated,parallel,1.0,hcrp,2023-02-27T00:00:00.000Z,prospective
+44.0,8.0,0.0,4a,1.0,0.71,oval,circumscribed,parallel,0.0,hcrp,2023-03-15T00:00:00.000Z,prospective
+49.0,19.0,1.0,6,1.0,1.0,irregular,microlobulated,not parallel,1.0,hcrp,2023-03-22T00:00:00.000Z,prospective
+69.0,10.0,1.0,4c,1.0,1.0,irregular,angular,not parallel,1.0,hcrp,2023-03-22T00:00:00.000Z,prospective
+50.0,29.0,1.0,4c,1.0,0.68,irregular,microlobulated,parallel,0.0,hcrp,2023-03-27T00:00:00.000Z,prospective
+50.0,10.0,1.0,4a,0.0,0.0,round,circumscribed,not parallel,0.0,hcrp,2023-03-01T00:00:00.000Z,prospective
+65.0,21.0,1.0,4c,1.0,0.85,round,angular,not parallel,1.0,hcrp,2023-03-01T00:00:00.000Z,prospective
+74.0,21.0,1.0,5,1.0,0.78,irregular,spiculated,parallel,1.0,hcrp,2023-03-08T00:00:00.000Z,prospective
+44.0,18.0,1.0,4a,0.0,0.0,oval,microlobulated,parallel,0.0,hcrp,2023-03-08T00:00:00.000Z,prospective
+71.0,18.0,1.0,5,1.0,0.88,irregular,spiculated,not parallel,1.0,hcrp,2023-03-15T00:00:00.000Z,prospective
+58.0,5.0,0.0,4c,1.0,0.84,round,indistinct,not parallel,1.0,hcrp,2023-03-13T00:00:00.000Z,prospective
+69.0,9.0,0.0,5,0.0,0.0,irregular,angular,not parallel,1.0,hcrp,2023-03-22T00:00:00.000Z,prospective
+46.0,18.0,0.0,4a,1.0,0.57,oval,microlobulated,parallel,0.0,hcrp,2023-02-27T00:00:00.000Z,prospective
+78.0,26.0,1.0,4c,1.0,1.0,irregular,spiculated,parallel,1.0,hcrp,2023-04-03T00:00:00.000Z,prospective
+48.0,18.0,1.0,5,1.0,0.54,irregular,spiculated,not parallel,1.0,hcrp,2023-02-09T00:00:00.000Z,prospective
+68.0,11.0,0.0,4a,0.0,0.0,oval,indistinct,parallel,0.0,hcrp,2022-12-15T00:00:00.000Z,prospective
+59.0,5.0,0.0,4a,0.0,0.0,irregular,indistinct,not parallel,0.0,hcrp,2023-02-09T00:00:00.000Z,prospective
+47.0,13.0,0.0,4b,1.0,0.64,irregular,angular,not parallel,0.0,hcrp,2023-02-23T00:00:00.000Z,prospective
+75.0,22.0,1.0,5,1.0,1.0,irregular,angular,parallel,1.0,hcrp,2023-03-16T00:00:00.000Z,prospective
+38.0,8.0,0.0,4a,0.0,0.0,irregular,angular,parallel,0.0,ha-ba,2022-02-14T00:00:00.000Z,prospective
+37.0,27.0,0.0,4a,1.0,0.49,oval,circumscribed,parallel,0.0,ha-ba,2022-07-12T00:00:00.000Z,prospective
+69.0,27.0,1.0,5,1.0,0.99,irregular,spiculated,parallel,1.0,ha-ba,2022-08-08T00:00:00.000Z,prospective
+57.0,15.0,0.0,4a,0.0,0.0,oval,angular,parallel,0.0,ha-ba,2022-08-08T00:00:00.000Z,prospective
+50.0,20.0,1.0,4c,0.0,0.0,irregular,indistinct,parallel,1.0,ha-ba,2022-08-11T00:00:00.000Z,prospective
+49.0,10.0,0.0,5,0.0,0.0,irregular,spiculated,not parallel,1.0,ha-ba,2022-08-11T00:00:00.000Z,prospective
+48.0,26.0,1.0,6,1.0,0.81,irregular,angular,not parallel,1.0,ha-ba,2022-08-31T00:00:00.000Z,prospective
+34.0,25.0,1.0,6,1.0,1.0,irregular,microlobulated,parallel,1.0,ha-ba,2022-08-31T00:00:00.000Z,prospective
+68.0,15.0,1.0,4c,1.0,0.78,irregular,indistinct,parallel,1.0,ha-ba,2022-08-29T00:00:00.000Z,prospective
+51.0,14.0,1.0,5,1.0,0.65,irregular,spiculated,parallel,1.0,ha-ba,2022-08-17T00:00:00.000Z,prospective
+80.0,18.0,1.0,4c,1.0,0.86,irregular,spiculated,parallel,1.0,ha-ba,2023-01-19T00:00:00.000Z,prospective
+46.0,22.0,1.0,6,1.0,0.69,irregular,spiculated,parallel,1.0,ha-ba,2023-01-13T00:00:00.000Z,prospective
+55.0,22.0,1.0,4b,1.0,0.67,irregular,angular,parallel,0.0,ha-ba,2023-01-13T00:00:00.000Z,prospective
+43.0,27.0,1.0,6,1.0,0.8,irregular,spiculated,parallel,1.0,ha-ba,2023-01-16T00:00:00.000Z,prospective
+52.0,11.0,0.0,6,1.0,0.7,irregular,indistinct,parallel,1.0,ha-ba,2023-01-03T00:00:00.000Z,prospective
+25.0,18.0,0.0,4a,0.0,0.0,irregular,angular,parallel,0.0,ha-ba,2023-01-04T00:00:00.000Z,prospective
+43.0,24.0,1.0,6,1.0,0.82,irregular,angular,parallel,1.0,ha-ba,2023-01-04T00:00:00.000Z,prospective
+68.0,21.0,1.0,4c,1.0,0.81,irregular,indistinct,parallel,1.0,ha-ba,2023-01-05T00:00:00.000Z,prospective
+49.0,17.0,1.0,6,0.0,0.0,irregular,indistinct,parallel,1.0,ha-ba,2023-01-05T00:00:00.000Z,prospective
+67.0,16.0,0.0,6,1.0,0.83,irregular,spiculated,not parallel,1.0,ha-ba,2023-01-05T00:00:00.000Z,prospective
+55.0,10.0,0.0,4b,0.0,0.0,irregular,angular,parallel,1.0,ha-ba,2023-01-05T00:00:00.000Z,prospective
+41.0,29.0,1.0,5,0.0,0.0,irregular,spiculated,not parallel,1.0,ha-ba,2023-01-05T00:00:00.000Z,prospective
+59.0,25.0,1.0,6,0.0,0.0,irregular,angular,parallel,1.0,ha-ba,2023-01-02T00:00:00.000Z,prospective
+45.0,29.0,1.0,6,0.0,0.0,irregular,spiculated,parallel,1.0,ha-ba,2023-01-02T00:00:00.000Z,prospective
+41.0,30.0,1.0,4c,1.0,0.81,oval,angular,parallel,1.0,ha-ba,2022-12-28T00:00:00.000Z,prospective
+50.0,20.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,ha-ba,2022-12-28T00:00:00.000Z,prospective
+42.0,17.0,1.0,4a,0.0,0.0,oval,angular,parallel,0.0,ha-ba,2022-12-19T00:00:00.000Z,prospective
+60.0,13.0,0.0,5,1.0,0.71,irregular,spiculated,parallel,1.0,ha-ba,2022-12-19T00:00:00.000Z,prospective
+36.0,12.0,1.0,6,1.0,0.72,irregular,spiculated,not parallel,1.0,ha-ba,2022-12-19T00:00:00.000Z,prospective
+50.0,25.0,1.0,6,1.0,0.72,irregular,spiculated,not parallel,1.0,ha-ba,2022-12-20T00:00:00.000Z,prospective
+53.0,15.0,0.0,4b,1.0,0.71,irregular,microlobulated,parallel,0.0,ha-ba,2022-12-22T00:00:00.000Z,prospective
+70.0,22.0,1.0,4c,1.0,0.78,irregular,indistinct,parallel,1.0,ha-ba,2022-12-23T00:00:00.000Z,prospective
+60.0,17.0,1.0,6,1.0,0.61,irregular,indistinct,parallel,1.0,ha-ba,2022-12-22T00:00:00.000Z,prospective
+56.0,12.0,1.0,5,0.0,0.0,irregular,spiculated,not parallel,1.0,ha-ba,2022-12-23T00:00:00.000Z,prospective
+58.0,18.0,0.0,5,0.0,0.0,irregular,spiculated,not parallel,1.0,ha-ba,2022-12-05T00:00:00.000Z,prospective
+58.0,28.0,1.0,5,1.0,0.71,irregular,spiculated,parallel,1.0,ha-ba,2022-12-06T00:00:00.000Z,prospective
+66.0,18.0,0.0,4a,0.0,0.0,oval,angular,parallel,0.0,ha-ba,2022-12-08T00:00:00.000Z,prospective
+57.0,11.0,0.0,4b,0.0,0.0,irregular,angular,not parallel,1.0,ha-ba,2022-12-12T00:00:00.000Z,prospective
+57.0,13.0,0.0,5,0.0,0.0,irregular,spiculated,not parallel,1.0,ha-ba,2022-12-12T00:00:00.000Z,prospective
+46.0,20.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,ha-ba,2022-12-07T00:00:00.000Z,prospective
+52.0,17.0,0.0,4a,0.0,0.0,irregular,angular,parallel,0.0,ha-ba,2022-12-08T00:00:00.000Z,prospective
+35.0,20.0,0.0,4a,0.0,0.0,oval,angular,parallel,0.0,ha-ba,2022-12-08T00:00:00.000Z,prospective
+42.0,11.0,1.0,4a,0.0,0.0,oval,angular,parallel,0.0,ha-ba,2022-12-08T00:00:00.000Z,prospective
+52.0,15.0,0.0,4a,0.0,0.0,irregular,angular,not parallel,0.0,ha-ba,2022-10-31T00:00:00.000Z,prospective
+27.0,9.0,0.0,4a,0.0,0.0,oval,circumscribed,not parallel,0.0,ha-ba,2022-10-27T00:00:00.000Z,prospective
+30.0,22.0,1.0,4a,0.0,0.0,oval,angular,parallel,0.0,ha-ba,2022-10-31T00:00:00.000Z,prospective
+58.0,25.0,1.0,5,1.0,0.86,irregular,spiculated,parallel,0.0,ha-ba,2022-12-12T00:00:00.000Z,prospective
+69.0,22.0,1.0,6,1.0,0.77,irregular,spiculated,not parallel,1.0,ha-ba,2022-12-20T00:00:00.000Z,prospective
+55.0,17.0,0.0,5,0.0,0.0,irregular,spiculated,parallel,1.0,ha-ba,2022-12-14T00:00:00.000Z,prospective
+54.0,9.0,0.0,4b,0.0,0.0,oval,circumscribed,parallel,0.0,ha-ba,2022-12-15T00:00:00.000Z,prospective
+62.0,20.0,1.0,6,1.0,0.86,oval,angular,parallel,1.0,ha-ba,2022-12-15T00:00:00.000Z,prospective
+27.0,12.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,ha-ba,2022-12-05T00:00:00.000Z,prospective
+54.0,23.0,0.0,4a,0.0,0.0,irregular,microlobulated,parallel,0.0,ha-ba,2022-12-05T00:00:00.000Z,prospective
+61.0,18.0,1.0,6,1.0,0.73,irregular,spiculated,not parallel,1.0,ha-ba,2022-10-24T00:00:00.000Z,prospective
+51.0,12.0,0.0,6,0.0,0.0,irregular,spiculated,parallel,1.0,ha-ba,2022-10-24T00:00:00.000Z,prospective
+61.0,22.0,1.0,6,1.0,0.81,irregular,angular,parallel,1.0,ha-ba,2022-10-20T00:00:00.000Z,prospective
+64.0,5.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2023-04-26T00:00:00.000Z,prospective
+34.0,8.0,0.0,4a,0.0,0.0,round,circumscribed,parallel,0.0,mater,2023-04-26T00:00:00.000Z,prospective
+59.0,11.0,0.0,4b,0.0,0.0,irregular,microlobulated,parallel,0.0,mater,2023-05-03T00:00:00.000Z,prospective
+50.0,8.0,0.0,4a,0.0,0.0,irregular,circumscribed,parallel,0.0,mater,2023-05-03T00:00:00.000Z,prospective
+26.0,18.0,1.0,4a,1.0,0.59,irregular,circumscribed,parallel,0.0,mater,2023-05-10T00:00:00.000Z,prospective
+70.0,29.0,1.0,4b,1.0,0.9,irregular,angular,parallel,1.0,ha-ba,2022-10-20T00:00:00.000Z,prospective
+41.0,14.0,0.0,4a,1.0,0.52,irregular,angular,not parallel,0.0,ha-ba,2022-10-20T00:00:00.000Z,prospective
+69.0,14.0,1.0,6,1.0,1.0,irregular,spiculated,parallel,1.0,ha-ba,2022-10-10T00:00:00.000Z,prospective
+61.0,25.0,1.0,5,1.0,0.81,irregular,spiculated,parallel,1.0,ha-ba,2022-10-06T00:00:00.000Z,prospective
+63.0,20.0,1.0,6,1.0,0.77,irregular,spiculated,parallel,1.0,ha-ba,2022-10-06T00:00:00.000Z,prospective
+44.0,23.0,1.0,4a,1.0,0.69,irregular,angular,parallel,0.0,ha-ba,2022-10-04T00:00:00.000Z,prospective
+49.0,6.0,0.0,4a,0.0,0.0,oval,angular,parallel,0.0,ha-ba,2022-10-03T00:00:00.000Z,prospective
+49.0,16.0,0.0,4b,0.0,0.0,irregular,microlobulated,parallel,0.0,ha-ba,2022-10-03T00:00:00.000Z,prospective
+60.0,22.0,0.0,4b,0.0,0.0,irregular,angular,parallel,0.0,ha-ba,2022-10-03T00:00:00.000Z,prospective
+36.0,25.0,1.0,4a,1.0,0.56,oval,circumscribed,parallel,0.0,ha-ba,2022-09-29T00:00:00.000Z,prospective
+42.0,17.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,ha-ba,2022-09-28T00:00:00.000Z,prospective
+62.0,13.0,0.0,5,0.0,0.0,irregular,spiculated,not parallel,0.0,ha-ba,2022-09-28T00:00:00.000Z,prospective
+69.0,13.0,1.0,5,1.0,0.75,irregular,spiculated,not parallel,1.0,ha-ba,2022-09-28T00:00:00.000Z,prospective
+27.0,28.0,1.0,4a,1.0,0.76,oval,circumscribed,parallel,0.0,ha-ba,2022-09-27T00:00:00.000Z,prospective
+64.0,24.0,1.0,5,1.0,0.78,irregular,angular,parallel,1.0,ha-ba,2022-09-26T00:00:00.000Z,prospective
+62.0,19.0,1.0,6,1.0,0.82,irregular,spiculated,parallel,1.0,ha-ba,2022-09-26T00:00:00.000Z,prospective
+67.0,18.0,1.0,6,1.0,0.8,irregular,spiculated,not parallel,1.0,ha-ba,2022-09-21T00:00:00.000Z,prospective
+54.0,13.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,ha-ba,2022-09-19T00:00:00.000Z,prospective
+57.0,20.0,1.0,4c,1.0,0.95,irregular,spiculated,parallel,1.0,ha-ba,2022-09-14T00:00:00.000Z,prospective
+67.0,24.0,1.0,5,1.0,0.79,irregular,spiculated,parallel,1.0,ha-ba,2022-09-12T00:00:00.000Z,prospective
+64.0,11.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,ha-ba,2022-08-03T00:00:00.000Z,prospective
+65.0,25.0,1.0,4b,1.0,0.87,oval,microlobulated,parallel,1.0,ha-ba,2023-03-08T00:00:00.000Z,prospective
+43.0,10.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,ha-ba,2023-03-06T00:00:00.000Z,prospective
+49.0,17.0,0.0,5,1.0,0.77,irregular,spiculated,not parallel,1.0,ha-ba,2023-03-02T00:00:00.000Z,prospective
+46.0,14.0,1.0,4c,0.0,0.0,irregular,spiculated,parallel,1.0,ha-ba,2023-03-02T00:00:00.000Z,prospective
+69.0,13.0,1.0,6,1.0,0.73,irregular,spiculated,parallel,1.0,ha-ba,2023-03-01T00:00:00.000Z,prospective
+33.0,19.0,0.0,4b,0.0,0.0,irregular,angular,parallel,0.0,ha-ba,2023-03-01T00:00:00.000Z,prospective
+43.0,18.0,1.0,4c,1.0,0.79,irregular,angular,not parallel,1.0,ha-cg,2022-11-28T00:00:00.000Z,prospective
+41.0,25.0,0.0,4a,0.0,0.0,oval,angular,parallel,0.0,ha-cg,2023-04-18T00:00:00.000Z,prospective
+73.0,27.0,1.0,5,1.0,0.8,irregular,spiculated,not parallel,1.0,mater,2023-05-10T00:00:00.000Z,prospective
+45.0,12.0,1.0,4b,1.0,0.71,round,indistinct,parallel,1.0,mater,2023-05-17T00:00:00.000Z,prospective
+42.0,22.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2023-05-17T00:00:00.000Z,prospective
+66.0,13.0,1.0,4c,1.0,0.76,irregular,angular,not parallel,1.0,mater,2023-05-17T00:00:00.000Z,prospective
+50.0,30.0,1.0,4c,1.0,0.8,irregular,indistinct,parallel,1.0,ha-ba,2023-02-27T00:00:00.000Z,prospective
+77.0,5.0,0.0,4c,0.0,0.0,irregular,angular,not parallel,1.0,ha-ba,2023-02-27T00:00:00.000Z,prospective
+78.0,20.0,1.0,6,1.0,0.79,irregular,spiculated,not parallel,1.0,ha-ba,2023-02-24T00:00:00.000Z,prospective
+46.0,27.0,1.0,6,1.0,0.91,irregular,indistinct,not parallel,1.0,ha-ba,2023-02-23T00:00:00.000Z,prospective
+45.0,12.0,1.0,5,0.0,0.0,irregular,spiculated,parallel,1.0,ha-ba,2023-02-17T00:00:00.000Z,prospective
+50.0,18.0,1.0,4b,0.0,0.71,irregular,angular,parallel,1.0,ha-ba,2023-02-16T00:00:00.000Z,prospective
+56.0,18.0,1.0,6,1.0,0.69,irregular,spiculated,not parallel,1.0,ha-ba,2023-02-16T00:00:00.000Z,prospective
+51.0,18.0,1.0,4b,1.0,0.68,irregular,angular,parallel,1.0,ha-ba,2023-02-16T00:00:00.000Z,prospective
+77.0,16.0,1.0,4c,1.0,0.96,irregular,spiculated,parallel,1.0,ha-ba,2023-02-15T00:00:00.000Z,prospective
+69.0,17.0,1.0,4b,1.0,0.65,irregular,angular,parallel,1.0,ha-ba,2023-02-14T00:00:00.000Z,prospective
+63.0,12.0,0.0,4b,0.0,0.0,irregular,microlobulated,parallel,1.0,ha-ba,2023-02-14T00:00:00.000Z,prospective
+50.0,18.0,1.0,5,1.0,0.68,irregular,spiculated,not parallel,1.0,ha-ba,2023-02-10T00:00:00.000Z,prospective
+65.0,15.0,1.0,5,0.0,0.0,irregular,indistinct,parallel,1.0,ha-ba,2023-02-10T00:00:00.000Z,prospective
+39.0,18.0,1.0,4b,1.0,0.72,irregular,angular,not parallel,1.0,ha-ba,2023-02-09T00:00:00.000Z,prospective
+70.0,26.0,1.0,6,1.0,0.84,irregular,microlobulated,parallel,1.0,ha-ba,2023-02-09T00:00:00.000Z,prospective
+39.0,30.0,1.0,5,1.0,0.73,irregular,spiculated,parallel,1.0,ha-ba,2023-02-09T00:00:00.000Z,prospective
+60.0,29.0,1.0,6,1.0,0.87,irregular,microlobulated,parallel,1.0,ha-ba,2023-02-08T00:00:00.000Z,prospective
+61.0,17.0,0.0,6,0.0,0.0,irregular,spiculated,parallel,1.0,ha-ba,2023-02-08T00:00:00.000Z,prospective
+42.0,11.0,0.0,5,0.0,0.0,irregular,spiculated,parallel,1.0,ha-ba,2023-02-08T00:00:00.000Z,prospective
+61.0,19.0,1.0,4c,1.0,0.81,irregular,indistinct,parallel,1.0,ha-ba,2023-02-07T00:00:00.000Z,prospective
+62.0,14.0,1.0,5,0.0,0.0,irregular,spiculated,not parallel,1.0,ha-ba,2023-02-07T00:00:00.000Z,prospective
+64.0,18.0,1.0,4c,1.0,0.7,irregular,angular,not parallel,1.0,ha-ba,2023-02-06T00:00:00.000Z,prospective
+73.0,20.0,1.0,4c,1.0,0.82,irregular,microlobulated,parallel,0.0,ha-ba,2023-02-03T00:00:00.000Z,prospective
+49.0,11.0,0.0,4a,0.0,0.0,oval,angular,parallel,0.0,ha-ba,2023-02-02T00:00:00.000Z,prospective
+69.0,24.0,1.0,5,0.0,0.0,irregular,spiculated,parallel,1.0,ha-ba,2023-02-02T00:00:00.000Z,prospective
+32.0,16.0,1.0,4c,0.0,0.0,oval,circumscribed,parallel,0.0,ha-ba,2023-01-31T00:00:00.000Z,prospective
+47.0,12.0,0.0,5,1.0,0.68,irregular,spiculated,parallel,1.0,ha-ba,2023-01-31T00:00:00.000Z,prospective
+64.0,17.0,1.0,4a,1.0,0.6,oval,circumscribed,parallel,0.0,ha-ba,2023-01-30T00:00:00.000Z,prospective
+62.0,18.0,1.0,5,1.0,0.77,irregular,spiculated,not parallel,1.0,ha-cg,2023-05-02T00:00:00.000Z,prospective
+41.0,19.0,1.0,5,1.0,0.65,irregular,spiculated,not parallel,1.0,ha-ba,2022-09-08T00:00:00.000Z,prospective
+59.0,26.0,0.0,4c,1.0,0.65,irregular,indistinct,parallel,0.0,ha-ba,2022-09-08T00:00:00.000Z,prospective
+68.0,18.0,1.0,4a,1.0,0.74,irregular,circumscribed,parallel,1.0,ha-ba,2022-09-02T00:00:00.000Z,prospective
+30.0,23.0,1.0,4c,0.0,0.0,irregular,spiculated,parallel,0.0,ha-ba,2022-09-02T00:00:00.000Z,prospective
+22.0,22.0,1.0,4c,1.0,0.78,oval,circumscribed,parallel,0.0,ha-ba,2022-09-01T00:00:00.000Z,prospective
+43.0,10.0,0.0,6,0.0,0.0,irregular,spiculated,not parallel,0.0,ha-ba,2022-09-01T00:00:00.000Z,prospective
+59.0,28.0,1.0,6,1.0,0.81,irregular,spiculated,parallel,1.0,ha-ba,2022-09-01T00:00:00.000Z,prospective
+80.0,20.0,1.0,5,0.0,0.0,irregular,spiculated,parallel,1.0,ha-ba,2023-01-20T00:00:00.000Z,prospective
+50.0,13.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,ha-ba,2023-01-20T00:00:00.000Z,prospective
+45.0,26.0,1.0,4a,0.0,0.0,irregular,angular,parallel,0.0,ha-ba,2023-01-23T00:00:00.000Z,prospective
+46.0,30.0,1.0,5,1.0,0.68,irregular,spiculated,not parallel,1.0,ha-ba,2023-01-25T00:00:00.000Z,prospective
+60.0,29.0,1.0,5,1.0,0.97,irregular,spiculated,parallel,1.0,ha-ba,2023-01-25T00:00:00.000Z,prospective
+64.0,8.0,0.0,4b,0.0,0.0,irregular,angular,parallel,1.0,ha-ba,2023-01-27T00:00:00.000Z,prospective
+50.0,8.0,0.0,4a,0.0,0.0,irregular,circumscribed,parallel,0.0,ha-ba,2023-01-27T00:00:00.000Z,prospective
+49.0,19.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,ha-ba,2023-01-27T00:00:00.000Z,prospective
+70.0,15.0,0.0,5,1.0,0.72,irregular,spiculated,parallel,1.0,ha-ba,2023-03-09T00:00:00.000Z,prospective
+68.0,26.0,1.0,4b,1.0,0.62,irregular,angular,parallel,0.0,ha-ba,2023-03-09T00:00:00.000Z,prospective
+52.0,28.0,0.0,5,0.0,0.0,irregular,microlobulated,parallel,1.0,ha-cg,2023-05-02T00:00:00.000Z,prospective
+49.0,14.0,1.0,4a,1.0,0.69,oval,circumscribed,parallel,0.0,mater,2023-05-24T00:00:00.000Z,prospective
+56.0,10.0,0.0,4b,0.0,0.0,irregular,microlobulated,parallel,0.0,mater,2023-05-24T00:00:00.000Z,prospective
+70.0,28.0,1.0,5,1.0,0.94,irregular,spiculated,parallel,1.0,ha-ba,2023-03-13T00:00:00.000Z,prospective
+40.0,28.0,1.0,6,1.0,0.75,irregular,indistinct,parallel,1.0,ha-ba,2023-03-15T00:00:00.000Z,prospective
+54.0,14.0,0.0,4a,0.0,0.0,oval,angular,parallel,0.0,ha-ba,2023-03-17T00:00:00.000Z,prospective
+75.0,21.0,1.0,5,1.0,0.83,irregular,spiculated,not parallel,1.0,ha-ba,2023-03-17T00:00:00.000Z,prospective
+74.0,25.0,1.0,4c,1.0,0.74,irregular,indistinct,parallel,1.0,ha-ba,2023-03-17T00:00:00.000Z,prospective
+51.0,22.0,1.0,4c,1.0,0.74,irregular,indistinct,not parallel,1.0,ha-ba,2023-03-24T00:00:00.000Z,prospective
+41.0,10.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2022-12-05T00:00:00.000Z,prospective
+53.0,21.0,1.0,4b,0.0,0.0,oval,angular,parallel,0.0,mater,2022-12-05T00:00:00.000Z,prospective
+42.0,13.0,0.0,4a,0.0,0.0,round,circumscribed,parallel,0.0,mater,2022-12-07T00:00:00.000Z,prospective
+27.0,27.0,1.0,4b,1.0,0.87,irregular,indistinct,parallel,0.0,mater,2022-12-07T00:00:00.000Z,prospective
+52.0,15.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2023-01-30T00:00:00.000Z,prospective
+65.0,30.0,1.0,4c,1.0,0.63,irregular,microlobulated,parallel,1.0,mater,2023-02-07T00:00:00.000Z,prospective
+60.0,11.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2022-12-12T00:00:00.000Z,prospective
+57.0,5.0,0.0,4b,0.0,0.0,irregular,indistinct,parallel,0.0,mater,2022-12-12T00:00:00.000Z,prospective
+60.0,17.0,1.0,4c,0.0,0.0,irregular,angular,parallel,1.0,mater,2022-12-12T00:00:00.000Z,prospective
+58.0,24.0,1.0,5,1.0,0.66,irregular,angular,parallel,1.0,mater,2023-01-09T00:00:00.000Z,prospective
+31.0,29.0,1.0,4a,1.0,0.43,oval,circumscribed,parallel,0.0,mater,2023-01-16T00:00:00.000Z,prospective
+69.0,13.0,0.0,4b,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,2023-04-05T00:00:00.000Z,prospective
+52.0,15.0,1.0,6,1.0,0.68,irregular,spiculated,not parallel,1.0,hcrp,2023-04-06T00:00:00.000Z,prospective
+53.0,21.0,1.0,4a,1.0,0.58,oval,circumscribed,parallel,0.0,hcrp,2023-04-10T00:00:00.000Z,prospective
+49.0,28.0,1.0,6,1.0,0.79,irregular,angular,not parallel,1.0,hcrp,2023-04-12T00:00:00.000Z,prospective
+38.0,7.0,0.0,4a,0.0,0.0,round,circumscribed,not parallel,0.0,hcrp,2023-04-17T00:00:00.000Z,prospective
+43.0,16.0,1.0,4b,1.0,0.59,irregular,microlobulated,parallel,0.0,hcrp,2023-04-14T00:00:00.000Z,prospective
+50.0,8.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,2023-04-24T00:00:00.000Z,prospective
+23.0,19.0,1.0,4a,1.0,0.56,oval,microlobulated,parallel,0.0,hcrp,2023-04-26T00:00:00.000Z,prospective
+52.0,15.0,1.0,5,1.0,1.0,irregular,angular,parallel,1.0,hcrp,2023-04-19T00:00:00.000Z,prospective
+62.0,16.0,0.0,6,1.0,0.76,irregular,spiculated,not parallel,1.0,hcrp,2023-04-26T00:00:00.000Z,prospective
+53.0,12.0,1.0,4c,1.0,1.0,irregular,indistinct,not parallel,1.0,hcrp,2023-04-26T00:00:00.000Z,prospective
+61.0,24.0,1.0,4c,1.0,0.85,irregular,microlobulated,not parallel,1.0,hcrp,2023-04-26T00:00:00.000Z,prospective
+61.0,17.0,0.0,4b,1.0,1.0,irregular,indistinct,parallel,1.0,hcrp,2023-04-13T00:00:00.000Z,prospective
+55.0,8.0,0.0,4b,1.0,0.63,irregular,indistinct,parallel,0.0,hcrp,2023-04-27T00:00:00.000Z,prospective
+77.0,7.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,2023-05-04T00:00:00.000Z,prospective
+37.0,7.0,0.0,4a,0.0,0.0,oval,indistinct,parallel,0.0,hcrp,2023-05-25T00:00:00.000Z,prospective
+59.0,8.0,0.0,4a,0.0,0.0,irregular,circumscribed,parallel,0.0,mater,2023-01-16T00:00:00.000Z,prospective
+30.0,30.0,1.0,4a,0.0,0.0,oval,indistinct,parallel,0.0,mater,2023-01-16T00:00:00.000Z,prospective
+56.0,8.0,0.0,5,0.0,0.0,irregular,spiculated,not parallel,1.0,mater,2023-02-13T00:00:00.000Z,prospective
+41.0,10.0,0.0,4a,0.0,0.0,oval,microlobulated,parallel,0.0,mater,2023-02-27T00:00:00.000Z,prospective
+19.0,28.0,1.0,4a,1.0,0.54,oval,circumscribed,parallel,0.0,mater,2023-03-16T00:00:00.000Z,prospective
+50.0,21.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2023-04-04T00:00:00.000Z,prospective
+46.0,10.0,0.0,4a,0.0,0.0,oval,microlobulated,parallel,0.0,mater,2023-04-11T00:00:00.000Z,prospective
+54.0,25.0,1.0,4c,1.0,0.8,irregular,microlobulated,parallel,1.0,mater,2023-04-17T00:00:00.000Z,prospective
+44.0,15.0,1.0,5,0.0,0.0,irregular,spiculated,parallel,1.0,mater,2023-05-25T00:00:00.000Z,prospective
+40.0,15.0,0.0,4a,1.0,0.53,oval,circumscribed,parallel,0.0,mater,2023-05-25T00:00:00.000Z,prospective
+61.0,12.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2023-05-30T00:00:00.000Z,prospective
+44.0,12.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2023-06-06T00:00:00.000Z,prospective
+52.0,23.0,1.0,5,1.0,0.44,irregular,spiculated,parallel,1.0,mater,2023-06-06T00:00:00.000Z,prospective
+33.0,23.0,1.0,4b,1.0,0.72,oval,microlobulated,parallel,1.0,mater,2023-06-13T00:00:00.000Z,prospective
+34.0,26.0,1.0,4b,1.0,0.8,oval,microlobulated,parallel,1.0,mater,2023-06-13T00:00:00.000Z,prospective
+46.0,15.0,1.0,4a,1.0,0.46,oval,microlobulated,parallel,0.0,mater,2023-05-25T00:00:00.000Z,prospective
+32.0,25.0,1.0,4a,0.0,0.0,oval,microlobulated,parallel,0.0,mater,2023-05-02T00:00:00.000Z,prospective
+42.0,16.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,2023-05-03T00:00:00.000Z,prospective
+43.0,17.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,hcrp,2023-05-03T00:00:00.000Z,prospective
+46.0,8.0,0.0,5,0.0,0.0,irregular,spiculated,not parallel,1.0,hcrp,2023-05-08T00:00:00.000Z,prospective
+56.0,14.0,1.0,4c,1.0,1.0,irregular,angular,parallel,1.0,hcrp,2023-05-08T00:00:00.000Z,prospective
+75.0,21.0,1.0,5,1.0,1.0,irregular,spiculated,not parallel,1.0,hcrp,2023-05-10T00:00:00.000Z,prospective
+62.0,11.0,0.0,4a,0.0,0.0,irregular,indistinct,parallel,0.0,hcrp,2023-05-15T00:00:00.000Z,prospective
+69.0,8.0,0.0,5,0.0,0.0,irregular,angular,parallel,1.0,ha-cg,2023-05-15T00:00:00.000Z,prospective
+64.0,5.0,0.0,4a,0.0,0.0,round,circumscribed,parallel,0.0,mater,2023-05-31T00:00:00.000Z,prospective
+48.0,19.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2023-06-07T00:00:00.000Z,prospective
+60.0,21.0,1.0,4c,1.0,0.79,irregular,angular,not parallel,1.0,mater,2023-06-07T00:00:00.000Z,prospective
+46.0,14.0,0.0,4a,0.0,0.0,irregular,circumscribed,parallel,0.0,mater,2023-06-07T00:00:00.000Z,prospective
+46.0,8.0,0.0,4a,0.0,0.0,round,circumscribed,parallel,0.0,mater,2023-06-14T00:00:00.000Z,prospective
+64.0,10.0,0.0,4b,0.0,0.0,round,microlobulated,parallel,1.0,mater,2023-06-14T00:00:00.000Z,prospective
+36.0,16.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,mater,2023-06-21T00:00:00.000Z,prospective
+54.0,27.0,1.0,5,1.0,1.0,irregular,spiculated,not parallel,1.0,mater,2023-06-21T00:00:00.000Z,prospective
+42.0,18.0,0.0,4a,0.0,0.0,irregular,circumscribed,parallel,0.0,ha-cg,2023-05-23T00:00:00.000Z,prospective
+59.0,27.0,1.0,5,1.0,0.76,irregular,spiculated,not parallel,1.0,ha-cg,2023-05-29T00:00:00.000Z,prospective
+49.0,9.0,0.0,4c,0.0,0.0,irregular,spiculated,not parallel,1.0,ha-cg,2023-06-05T00:00:00.000Z,prospective
+49.0,14.0,0.0,4a,0.0,0.0,oval,indistinct,parallel,0.0,ha-cg,2023-05-26T00:00:00.000Z,prospective
+42.0,8.0,0.0,4a,0.0,0.0,irregular,microlobulated,parallel,0.0,ha-cg,2023-05-26T00:00:00.000Z,prospective
+61.0,12.0,0.0,4c,1.0,0.8,irregular,angular,not parallel,1.0,ha-cg,2023-06-06T00:00:00.000Z,prospective
+64.0,12.0,0.0,4c,1.0,0.77,irregular,angular,not parallel,1.0,mater,2023-06-28T00:00:00.000Z,prospective
+55.0,4.0,0.0,4b,0.0,0.0,round,microlobulated,not parallel,0.0,mater,2023-07-12T00:00:00.000Z,prospective
+33.0,17.0,0.0,4b,0.0,0.0,oval,angular,parallel,0.0,ha-cg,2023-06-21T00:00:00.000Z,prospective
+45.0,15.0,0.0,4a,0.0,0.0,oval,microlobulated,parallel,0.0,ha-cg,2023-06-12T00:00:00.000Z,prospective
+29.0,26.0,0.0,4a,1.0,0.65,irregular,circumscribed,parallel,0.0,ha-cg,2023-06-19T00:00:00.000Z,prospective
+56.0,11.0,0.0,4a,1.0,0.61,oval,microlobulated,not parallel,0.0,ha-cg,2023-07-14T00:00:00.000Z,prospective
+42.0,22.0,0.0,3,0.0,0.0,oval,circumscribed,parallel,0.0,ha-cg,2023-06-12T00:00:00.000Z,prospective
+41.0,12.0,0.0,4a,0.0,0.0,oval,indistinct,parallel,0.0,ha-cg,2023-07-04T00:00:00.000Z,prospective
+65.0,20.0,1.0,5,1.0,0.84,irregular,angular,not parallel,1.0,ha-cg,2023-08-08T00:00:00.000Z,prospective
+42.0,9.0,0.0,4a,0.0,0.0,oval,microlobulated,parallel,0.0,ha-cg,2023-06-20T00:00:00.000Z,prospective
+53.0,7.0,0.0,4a,0.0,0.0,oval,indistinct,parallel,0.0,ha-cg,2023-08-07T00:00:00.000Z,prospective
+47.0,8.0,0.0,4a,0.0,0.0,irregular,angular,parallel,0.0,ha-cg,2023-08-08T00:00:00.000Z,prospective
+44.0,15.0,0.0,3,0.0,0.0,oval,circumscribed,parallel,0.0,ha-cg,2023-08-16T00:00:00.000Z,prospective
+44.0,18.0,0.0,4a,1.0,0.48,oval,angular,parallel,0.0,ha-cg,2023-08-15T00:00:00.000Z,prospective
+46.0,29.0,1.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,ha-cg,2023-08-11T00:00:00.000Z,prospective
+58.0,12.0,0.0,5,1.0,0.71,irregular,spiculated,parallel,1.0,ha-ba,2023-05-02T00:00:00.000Z,prospective
+63.0,17.0,1.0,5,1.0,0.59,irregular,spiculated,not parallel,1.0,ha-ba,2023-05-02T00:00:00.000Z,prospective
+41.0,15.0,1.0,4c,1.0,0.56,irregular,spiculated,parallel,1.0,ha-ba,2023-05-03T00:00:00.000Z,prospective
+54.0,22.0,1.0,5,1.0,1.0,irregular,spiculated,parallel,1.0,ha-ba,2023-05-03T00:00:00.000Z,prospective
+68.0,10.0,0.0,6,1.0,0.64,irregular,angular,parallel,1.0,ha-ba,2023-05-03T00:00:00.000Z,prospective
+53.0,13.0,1.0,4c,0.0,0.0,irregular,angular,parallel,1.0,ha-ba,2023-05-03T00:00:00.000Z,prospective
+40.0,14.0,0.0,4a,0.0,0.0,oval,indistinct,parallel,0.0,ha-cg,2023-08-25T00:00:00.000Z,prospective
+25.0,23.0,1.0,4a,0.0,0.0,oval,angular,parallel,0.0,ha-cg,2023-09-18T00:00:00.000Z,prospective
+45.0,14.0,0.0,4a,0.0,0.0,oval,circumscribed,parallel,0.0,ha-cg,2024-10-24T00:00:00.000Z,prospective
+40.0,23.0,0.0,3,0.0,0.0,oval,circumscribed,parallel,0.0,ha-cg,2023-11-07T00:00:00.000Z,prospective
+46.0,12.0,0.0,3,0.0,0.0,oval,circumscribed,parallel,0.0,ha-cg,2023-11-13T00:00:00.000Z,prospective
+83.0,28.0,1.0,5,1.0,0.73,irregular,microlobulated,not parallel,1.0,ha-cg,2023-12-12T00:00:00.000Z,prospective
+61.0,22.0,1.0,4c,1.0,0.74,irregular,microlobulated,not parallel,1.0,ha-cg,2024-01-17T00:00:00.000Z,prospective
+79.0,18.0,1.0,5,0.0,0.74,irregular,microlobulated,not parallel,1.0,ha-cg,2023-12-15T00:00:00.000Z,prospective
+51.0,17.0,0.0,3,0.0,0.0,oval,circumscribed,parallel,0.0,ha-cg,2024-01-08T00:00:00.000Z,prospective
+39.0,22.0,1.0,4a,0.0,0.0,oval,angular,parallel,0.0,ha-cg,2024-01-03T00:00:00.000Z,prospective
+43.0,25.0,1.0,4c,1.0,0.66,irregular,microlobulated,not parallel,1.0,ha-cg,2024-01-22T00:00:00.000Z,prospective

@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ConfUS</title>
+    <link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <!-- Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+<section style="background-color: #ffffff;">
+    <!--Load Animation-->
+    <div id="loader-wrapper">
+        <div id="loader">
+            <img src="{{ url_for('static', filename='images/tie_load.png') }}" alt="Loading..." id="loading-image">
+            <div id="loading-dots">
+                <span>.</span><span>.</span><span>.</span><span>.</span><span>.</span>
+            </div>
+        </div>
+    </div>
+
+    <!-- Header -->
+    <header class="py-3" style="background-color: #ffe2e8;">
+        <div class="container-fluid container-header">
+            <div class="d-flex justify-content-between align-items-center">
+                <a href="/">
+                    <img src="{{ url_for('static', filename='images/PersonalizedUS.png') }}" style="width: 350px;" alt="logo" class="logo">
+                </a>
+                <nav class="navbar navbar-expand-lg navbar-light">
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarNav">
+                        <ul class="navbar-nav ml-auto">
+                            <li class="nav-item"><a class="nav-link" href="#home">Home</a></li>
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <div class="container container-body mt-5 text-center">
+        <h1 class="display-4">Prediction Model</h1>
+        <p class="lead font-italic text-muted">Prediction Model discussed in the paper
+            "PersonalizedUS: Interpretable Breast Cancer Risk Assessment with Local Coverage Uncertainty Quantification".</p>
+
+        <form id="prediction-form" action="/predict" method="post" class="mt-4">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label for="age" class="text-left">Age:</label>
+                        <input type="number" min="10" max="120" class="form-control input-sm" id="age" name="age" placeholder="Enter age" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="size" class="text-left">Tumor Size:</label>
+                        <input type="number" min="0" step="0.1" class="form-control input-sm" id="size" name="size" placeholder="Enter size in mm" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="palpable" class="text-left">Palpable:</label>
+                        <select class="form-control custom-select input-sm" id="palpable" name="palpable" required>
+                            <option value="" selected disabled>Select...</option>
+                            <option value="1">Yes</option>
+                            <option value="0">No</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="vessels" class="text-left">Vessels:</label>
+                        <select class="form-control custom-select input-sm" id="vessels" name="vessels" required>
+                            <option value="" selected disabled>Select...</option>
+                            <option value="1">Present</option>
+                            <option value="0">Absent</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label for="ri" class="text-left">Resistive Index:</label>
+                        <input type="number" step="0.1" max="1" class="form-control input-sm" id="ri" name="ri" placeholder="Enter resistive index" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="shape" class="text-left">Shape:</label>
+                        <select class="form-control custom-select input-sm" id="shape" name="shape" required>
+                            <option value="" selected disabled>Select...</option>
+                            <option value="oval">Oval</option>
+                            <option value="round">Round</option>
+                            <option value="irregular">Irregular</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="margins" class="text-left">Margins:</label>
+                        <select class="form-control custom-select input-sm" id="margins" name="margins" required>
+                            <option value="" selected disabled>Select...</option>
+                            <option value="circumscribed">Circumscribed</option>
+                            <option value="indistinct">Indistinct</option>
+                            <option value="angular">Angular</option>
+                            <option value="microlobulated">Microlobulated</option>
+                            <option value="spiculated">Spiculated</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="orientation" class="text-left">Orientation:</label>
+                        <select class="form-control custom-select input-sm" id="orientation" name="orientation" required>
+                            <option value="" selected disabled>Select...</option>
+                            <option value="parallel">Parallel</option>
+                            <option value="not parallel">Not Parallel</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+            <button type="submit" class="btn-form mt-3">Predict</button>
+        </form>
+    </div>
+
+    <!--Loading Spinner-->
+    <div id="loading-spinner" class="spinner-border text-danger" role="status" style="display: none;">
+        <span class="sr-only">Loading...</span>
+    </div>
+
+    <!--Prediction Results - JS Return-->
+    <div id="prediction-result" class="result-box mt-5" style="display:none;">
+            <!-- Probability os Risk and Top Features -->
+                <h2 class="result-title">Risk of Cancer: <span id="risk-percentage"></span></h2>
+
+                <div id="subtitle">Explanation of the Model's Prediction:</div>
+                <div id="explanation-text">
+                    The model determined the final risk by multiplying each feature's coefficient
+                    (its assigned weight) by its corresponding value, summing, and then converting
+                    to a probability via the logistic function.
+                    <br><br>
+                    <a href="https://scikit-learn.org/stable/modules/linear_model.html#binary-case" target="_blank">Source: scikit-learn</a>
+                </div>
+
+                <div id="subtitle" class="mt-5">Top Contributing Features:</div>
+                <div id="top-features" class="d-flex justify-content-start flex-wrap"></div>
+
+                <div id="subtitle" class="mt-5">Uncertainty Quantification:</div>
+                <p>The following predictions are plausible with 90% probability (threshold = <span id="quantile_leaf"></span>): <h3 class="result-uncertain mb-5"><span id="uncertainty_set"></span></h3></p>
+
+            <!-- <div class="result-summary mt-4">
+            <h3 class="summary-title">Summary of Input Features</h3>
+            <dl class="row" id="shap-data-list">
+
+                DATA
+
+            </dl>
+            <p class="text-muted small">
+                The values shown above represent the specific feature values that were used by the model to make its prediction. In essence, the data shows the specific values that the model analyzed to generate the prediction, allowing you to understand what inputs were considered in the decision.</p>
+            <p class="text-muted small">
+                For more information on SHAP and how it explains model predictions, please visit the <a href="https://shap.readthedocs.io/en/latest/index.html" target="_blank">SHAP documentation</a>.
+            </p>
+              </div> -->
+
+        </div>
+
+    <div id="prediction-plot" class="container mt-5" style="display:none; max-width: 900px;">
+
+    <!-- Decision Path and Tree Decision Plot -->
+        <div id="tree-visualization">
+            <div id="subtitle">Lesion Subgroup Identification</div>
+
+            <!-- SVG Container -->
+            <div id="svg-container" class="responsive-svg-container">
+                <div id="svg-modal-content"></div>
+            </div>
+            <button type="button" class="btn btn-outline-secondary mt-3" data-toggle="modal" data-target="#svgModal">
+                Expand Image
+            </button>
+
+            <!-- Full-size SVG -->
+            <div class="modal fade" id="svgModal" tabindex="-1" aria-labelledby="svgModalLabel" aria-hidden="true">
+                <div class="modal-dialog modal-lg">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="svgModalLabel">Lesion Subgroup Identification and Uncertainty Quantification</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            <div id="svg-modal-expanded-content" class="responsive-svg-container"></div>
+                        </div>
+                        <div class="modal-footer">
+                            <button id="download-btn" class="btn btn-primary">Download Image</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Explanation Text -->
+            <div id="explanation-text" class="mt-4">
+                The decision tree visualization above illustrates the step-by-step
+                path taken by the model to arrive at its prediction. Each node represents
+                a decision based on the input features, and the branches show how the data
+                is split at each step. The final leaf nodes indicate the predicted outcomes.
+                This visualization helps to understand the rationale behind the model's decision.
+                <br><br>
+                <a href="https://github.com/parrt/dtreeviz" target="_blank">Source: dtreeviz library</a>
+            </div>
+        </div>
+
+        <!-- <div id="prediction-plot" class="container mt-5" style="display:none; max-width: 800px;">
+            <div id="decision-path" style="font-weight: bold; font-size: 1.1em;">
+            </div>
+            <div id="decision-path-image" class="mt-4">
+                <img src="../static/images/tree_decision_plot.png" alt="Decision Path Visualization" class="img-fluid" style="width: 200px;">
+            </div>
+        </div> -->
+
+    </div>
+</div>
+
+<!-- Footer -->
+<footer class="text-white py-4 mt-5">
+    <div class="container container-footer">
+        <div class="row">
+            <div class="col-md-6 mb-5">
+                <h5>About</h5>
+                <p>
+                    TEXT REDACTED
+                </p>
+            </div>
+            <div class="col-md-6 mb-5">
+                <h5>Contact Us</h5>
+                <ul class="list-unstyled">
+                    <li><a href="#" class="text-black">Contact Form</a></li>
+                    <li><a href="#" class="text-black">Social Medias</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>
+
+      <!-- Copyright -->
+    <div class="text-center" style="color: #eee; background-color: #343a40; font-size: 1.0rem;">
+        © 2024 Copyright:
+    </div>
+
+
+</section>
+
+<!-- Bootstrap JS and dependencies -->
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+<script>
+    // Load Animation
+    window.addEventListener('load', function () {
+        setTimeout(function () {
+            document.getElementById('loader-wrapper').classList.add('fadeOut');
+        }, 1000);
+    });
+
+    const featureNameMapping = {
+        'num__age': 'Age',
+        'num__size': 'Size',
+        'num__palpable': 'Palpable',
+        'num__vessels': 'Vessels',
+        'num__ri': 'Resistive Index',
+        'passthrough__palpable': 'Palpable',
+        'passthrough__vessels': 'Vessels',
+        'pas__palpable': 'Palpable',
+        'pas__vessels': 'Vessels',
+        'cat__shape_round': 'Shape: Round',
+        'cat__shape_oval': 'Shape: Oval',
+        'cat__shape_irregular': 'Shape: Irregular',
+        'cat__margins_circumscribed': 'Margins (Circumscribed)',
+        'cat__margins_indistinct': 'Margins (Indistinct)',
+        'cat__margins_angular': 'Margins (Angular)',
+        'cat__margins_microlobulated': 'Margins (Microlobulated)',
+        'cat__margins_spiculated': 'Margins (Spiculated)',
+        'cat__orientation_parallel': 'Orientation (Parallel)',
+        'cat__orientation_not parallel': 'Orientation (Not Parallel)'
+    };
+
+     // Intercepts form submission
+     $('#prediction-form').on('submit', function(event) {
+            event.preventDefault();
+
+            // Show the loading spinner
+            $('#loading-spinner').show();
+
+            $.ajax({
+                url: '/predict',
+                type: 'POST',
+                data: $(this).serialize(),
+                success: function(response) {
+                    $('#risk-percentage').text(response.result);
+
+                    $('#quantile_leaf').text(response.quantile_threshold.toFixed(3));
+
+                    let matchedProbs = response.uncertainty_set;
+                    let probListHtml = '';
+
+                    // // Loop through the matched probabilities and add them to the list
+                    // for (let index in matchedProbs) {
+                    //     if (matchedProbs.hasOwnProperty(index)) {
+                    //         probListHtml += `${index}: ${matchedProbs[index].toFixed(3)}`;
+                    //     }
+                    // }
+
+                    if (matchedProbs.hasOwnProperty('0')) {
+                        probListHtml = '{ Benign }';
+                    } else if (matchedProbs.hasOwnProperty('1')) {
+                        probListHtml = '{ Malignant }';
+                    } else {
+                        probListHtml = 'No match found';
+                    }
+
+                    $('#uncertainty_set').text(probListHtml)
+
+                    // Clear previous SHAP data
+                    $('#shap-data-list').empty();
+
+                   // Populate SHAP data
+                   // $.each(response.shap_data, function(key, value) {
+                   //     $('#shap-data-list').append(`
+                   //         <dt>${key}:</dt>
+                   //         <dd>${value}</dd>
+                   //     `);
+                   // });
+
+                let topFeatures = response.top_3_features;
+                let topFeaturesHtml = '';
+
+                    topFeatures.forEach(function(item) {
+                        let featureName = featureNameMapping[item[0]] || item[0];
+                        topFeaturesHtml += `
+                            <div class="feature-card">
+                                <div class="card">
+                                    <div class="card-body">
+                                        <h5 class="card-title">${featureName}</h5>
+                                        <p class="card-text">Impact: ${item[1].toFixed(2)}</p>
+                                    </div>
+                                </div>
+                            </div>`;
+                    });
+
+                    $('#top-features').html(topFeaturesHtml);
+
+                    $('#loading-spinner').hide();
+                    $('#prediction-result').show();
+
+
+                    // // Display the decision path
+                    // let decisionPath = response.decision_path;
+                    // let decisionPathHtml = decisionPath.join(' -> ');
+                    // $('#decision-path').html(decisionPathHtml);
+
+                    let svgContent = response.svg_plot;
+                    svgContent = svgContent.replace('<svg', '<svg class="responsive-svg"');
+
+                    // Inject the SVG content into the modal
+                    $('#svg-modal-content').html(svgContent);
+                    $('#svg-modal-expanded-content').html(svgContent);
+
+                    $('#prediction-plot').show();
+
+                    document.getElementById('prediction-result').scrollIntoView({ behavior: 'smooth' });
+                },
+                error: function(error) {
+                    $('#prediction-result').html('<p>An error occurred. Please try again.</p>');
+                    $('#loading-spinner').hide();
+                }
+            });
+        });
+
+        document.getElementById('download-btn').addEventListener('click', function() {
+        const svgElement = document.querySelector('#svg-modal-expanded-content svg');
+        if (svgElement) {
+            const svgData = new XMLSerializer().serializeToString(svgElement);
+            const svgBlob = new Blob([svgData], { type: 'image/svg+xml;charset=utf-8' });
+            const svgUrl = URL.createObjectURL(svgBlob);
+            const downloadLink = document.createElement('a');
+            downloadLink.href = svgUrl;
+            downloadLink.download = 'decision-path.svg';  // Name of the file to be downloaded
+            document.body.appendChild(downloadLink);
+            downloadLink.click();
+            document.body.removeChild(downloadLink);
+        } else {
+            alert('No SVG content found!');
+        }
+    });
+
+</script>
+
+</body>
+</html>
